@@ -1,0 +1,278 @@
+{
+  "generated_at": "20260702_114940",
+  "backup_dir": "exam questions dumps/backups/20260702_114940",
+  "files": {
+    "quiz_questions_and_options.json": {
+      "question_count": 12,
+      "confirmed_count": 11,
+      "needs_review_count": 1,
+      "source_courses": [
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C9",
+        "C10",
+        "C11",
+        "C12"
+      ]
+    },
+    "quiz_questions_part10.json": {
+      "question_count": 7,
+      "confirmed_count": 7,
+      "needs_review_count": 0,
+      "source_courses": [
+        "C3",
+        "C4",
+        "C7",
+        "C8",
+        "C9",
+        "C12"
+      ]
+    },
+    "quiz_questions_part11.json": {
+      "question_count": 7,
+      "confirmed_count": 7,
+      "needs_review_count": 0,
+      "source_courses": [
+        "C3",
+        "C4",
+        "C7",
+        "C8",
+        "C9",
+        "C12"
+      ]
+    },
+    "quiz_questions_part12.json": {
+      "question_count": 13,
+      "confirmed_count": 13,
+      "needs_review_count": 0,
+      "source_courses": [
+        "C1",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C9",
+        "C10"
+      ]
+    },
+    "quiz_questions_part2.json": {
+      "question_count": 13,
+      "confirmed_count": 13,
+      "needs_review_count": 0,
+      "source_courses": [
+        "C1",
+        "C4",
+        "C6",
+        "C8",
+        "C9",
+        "C10",
+        "C11",
+        "C12"
+      ]
+    },
+    "quiz_questions_part3.json": {
+      "question_count": 16,
+      "confirmed_count": 16,
+      "needs_review_count": 0,
+      "source_courses": [
+        "C1",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C9"
+      ]
+    },
+    "quiz_questions_part4.json": {
+      "question_count": 8,
+      "confirmed_count": 8,
+      "needs_review_count": 0,
+      "source_courses": [
+        "C3",
+        "C8",
+        "C9",
+        "C11"
+      ]
+    },
+    "quiz_questions_part5.json": {
+      "question_count": 5,
+      "confirmed_count": 4,
+      "needs_review_count": 1,
+      "source_courses": [
+        "C1",
+        "C3",
+        "C6",
+        "C8"
+      ]
+    },
+    "quiz_questions_part6.json": {
+      "question_count": 11,
+      "confirmed_count": 10,
+      "needs_review_count": 1,
+      "source_courses": [
+        "C2",
+        "C3",
+        "C5",
+        "C6",
+        "C9",
+        "C10",
+        "C12"
+      ]
+    },
+    "quiz_questions_part7.json": {
+      "question_count": 11,
+      "confirmed_count": 11,
+      "needs_review_count": 0,
+      "source_courses": [
+        "C1",
+        "C2",
+        "C3",
+        "C7",
+        "C8",
+        "C9",
+        "C12"
+      ]
+    },
+    "quiz_questions_part8.json": {
+      "question_count": 3,
+      "confirmed_count": 3,
+      "needs_review_count": 0,
+      "source_courses": [
+        "C3",
+        "C9",
+        "C12"
+      ]
+    },
+    "quiz_questions_part9.json": {
+      "question_count": 13,
+      "confirmed_count": 13,
+      "needs_review_count": 0,
+      "source_courses": [
+        "C2",
+        "C3",
+        "C6",
+        "C7",
+        "C9",
+        "C10"
+      ]
+    }
+  },
+  "needs_review": [
+    {
+      "file": "quiz_questions_and_options.json",
+      "index": 11,
+      "question": "What is the right order of the general steps required for the management activities of an investment project?\na. the equipment is installed and debugged.\nb. vendor quotations are required.\nc. any special tooling and supplies are ordered.\nd. the proposal to justify the investment is prepared.\ne. management approvals are granted for the investment.\nf. operators are trained.\ng. order is placed to the winning vendor.\nh. responsibility for running the equipment is turned over to the operating department.",
+      "answer_notes": "Course order is d, e, b, g, c, a, f, h after omitting vendor-progress monitoring; no provided option matches that order."
+    },
+    {
+      "file": "quiz_questions_part5.json",
+      "index": 2,
+      "question": "The workflow in a manufacturing cell is illustrated below.\nTo evaluate the performance of routings what is the percentage of backtracking moves (PBM)? Calculations:",
+      "answer_notes": "The workflow diagram needed for PBM is not present in this dump text, and the course example gives 11.11%, which is not among the provided options."
+    },
+    {
+      "file": "quiz_questions_part6.json",
+      "index": 11,
+      "question": "The machining section of a factory has 10 CNC milling machines, 8 of which are used for the same sequence of operations. The department works 5 shifts per week. The average number of hours per shift is 8. The average production rate per milling machine is 10 products / hour and the availability is 90%. Determine the weekly production capacity of the section. Calculations:",
+      "answer_notes": "Using the course formula gives 8 * 5 * 8 * 10 * 0.90 = 2880 products/week, which is not among the provided options."
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "locations": [
+        {
+          "file": "quiz_questions_part10.json",
+          "index": 1
+        },
+        {
+          "file": "quiz_questions_part11.json",
+          "index": 1
+        }
+      ],
+      "correct_option_keys": [
+        "B"
+      ]
+    },
+    {
+      "locations": [
+        {
+          "file": "quiz_questions_part10.json",
+          "index": 3
+        },
+        {
+          "file": "quiz_questions_part11.json",
+          "index": 3
+        }
+      ],
+      "correct_option_keys": [
+        "A"
+      ]
+    },
+    {
+      "locations": [
+        {
+          "file": "quiz_questions_part10.json",
+          "index": 4
+        },
+        {
+          "file": "quiz_questions_part11.json",
+          "index": 4
+        }
+      ],
+      "correct_option_keys": [
+        "B"
+      ]
+    },
+    {
+      "locations": [
+        {
+          "file": "quiz_questions_part10.json",
+          "index": 6
+        },
+        {
+          "file": "quiz_questions_part11.json",
+          "index": 6
+        }
+      ],
+      "correct_option_keys": [
+        "A"
+      ]
+    },
+    {
+      "locations": [
+        {
+          "file": "quiz_questions_part10.json",
+          "index": 7
+        },
+        {
+          "file": "quiz_questions_part11.json",
+          "index": 7
+        }
+      ],
+      "correct_option_keys": [
+        "B"
+      ]
+    },
+    {
+      "locations": [
+        {
+          "file": "quiz_questions_part2.json",
+          "index": 5
+        },
+        {
+          "file": "quiz_questions_part7.json",
+          "index": 6
+        }
+      ],
+      "correct_option_keys": [
+        "B",
+        "C",
+        "E"
+      ]
+    }
+  ]
+}

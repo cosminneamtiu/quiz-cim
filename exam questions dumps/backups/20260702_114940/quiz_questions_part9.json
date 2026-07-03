@@ -1,0 +1,116 @@
+[
+    {
+        "question": "Mix flexibility is defined as:",
+        "options": {
+            "A": "capability to adapt a given machine in the system to a wide range of production operations and part styles",
+            "B": "the range of parts styles that can be produced on the system",
+            "C": "ability to change the product mix while maintaining the same total production quantity",
+            "D": "ease with which design changes can be accommodated and new product can be introduced",
+            "E": "capability to produce parts through alternative workstation sequences in response to breakdowns, tool failures, and other interruptions at individual stations",
+            "F": "ability to economically produce parts in high and low quantities of production, given the fixed investment in the system"
+        }
+    },
+    {
+        "question": "Group technology:",
+        "options": {
+            "A": "decreases work-in-process",
+            "B": "decreases the number of handling operations",
+            "C": "decreases the lead time"
+        }
+    },
+    {
+        "question": "Level production has the following characteristics:",
+        "options": {
+            "A": "inventory reduces",
+            "B": "inventory costs increase",
+            "C": "the number of working hours is variable",
+            "D": "the number of employees is constant",
+            "E": "the number of working hours is constant"
+        }
+    },
+    {
+        "question": "Routes in a two-station manufacturing system can be:",
+        "options": {
+            "A": "fixed",
+            "B": "mixed",
+            "C": "variable"
+        }
+    },
+    {
+        "question": "Which of the following can be used for long-term capacity adjustment?",
+        "options": {
+            "A": "new plant construction",
+            "B": "subcontracting",
+            "C": "new equipment investments",
+            "D": "changing number of work shifts"
+        }
+    },
+    {
+        "question": "Expansion flexibility is defined as:",
+        "options": {
+            "A": "capability to adapt a given machine in the system to a wide range of production operations and part styles",
+            "B": "the range of parts styles that can be produced on the system",
+            "C": "ability to change the product mix while maintaining the same total production quantity",
+            "D": "ease with which design changes can be accommodated and new product can be introduced",
+            "E": "capability to produce parts through alternative workstation sequences in response to breakdowns, tool failures, and other interruptions at individual stations",
+            "F": "ease with which the system can be expanded to increase total production quantities"
+        }
+    },
+    {
+        "question": "The routing process defines for each part or product:",
+        "options": {
+            "A": "sequence of operations",
+            "B": "workstations where they are assigned",
+            "C": "the processing time"
+        }
+    },
+    {
+        "question": "A flexible manufacturing system:",
+        "options": {
+            "A": "has an automatic workstation and variable routing",
+            "B": "has a distributed control system",
+            "C": "is a highly automated GT machine cell"
+        }
+    },
+    {
+        "question": "When a flexible manufacturing system is used, the manufacturing time:",
+        "options": {
+            "A": "increases",
+            "B": "decreases",
+            "C": "it has nothing to do with the flexibility of the system"
+        }
+    },
+    {
+        "question": "According to J.T. Black, the price of parts and materials is 20% of the selling price.",
+        "options": {
+            "A": "true",
+            "B": "false"
+        }
+    },
+    {
+        "question": "What are the strategies used for production planning?",
+        "options": {
+            "A": "chase",
+            "B": "level",
+            "C": "mixed"
+        }
+    },
+    {
+        "question": "The workflow in a manufacturing cell is illustrated below.\nTo evaluate the performance of routings what is the percentage of in-sequence moves (PSM)? Calculations:",
+        "options": {
+            "A": "54.54%",
+            "B": "66.66%",
+            "C": "18.18%",
+            "D": "70.37%",
+            "E": "82.25%"
+        }
+    },
+    {
+        "question": "Just-in-Time production systems are effective if:",
+        "options": {
+            "A": "production is done in large batches",
+            "B": "setup time is long",
+            "C": "high reliability equipment is used"
+        }
+    }
+]

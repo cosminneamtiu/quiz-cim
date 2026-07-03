@@ -1,0 +1,828 @@
+Quiz 2
+  1. The large batch production is more efficient in:
+        o Classical manufacturing systems
+        o Modern manufacturing systems
+
+     Answer:
+     Classical manufacturing systems
+
+  2. What type of MS is used for producing office buildings?
+       o Line
+       o Project
+       o Job shop
+       o Continuous
+       o Repetitive
+
+     Answer:
+     Project
+
+  3. Computer Aided Engineering (CAE) is used for:
+       o Financial accounting
+       o Process planning
+       o Simulation and analysis of processes
+       o Production control
+
+     Answer:
+     Simulation and analysis of processes
+
+  4. A continuous manufacturing system can be used if:
+        o Product demand cannot be forecasted
+        o Manufacturing lead time is smaller than the lead time expected by the customer
+        o Product demand can be forecasted
+        o Manufacturing lead time is greater than the lead time expected by the customer
+
+     Answer:
+     Product demand can be forecasted
+     Manufacturing lead time is greater than the lead time expected by the customer
+
+  5. Assembling a product requires 100 minutes when it is done for the first time by a trained
+     worker. The process will be repeated to make 100 products. If the learning rate is 85%,
+     what will be the delivery time of the 100th product? (m=-0.23, 100^m=0.35).
+        o 3.5
+        o 35
+        o 8.5
+       o   2.3
+
+   Answer: 35
+
+6. Which of the following statements is/are true?
+     o The smaller the space - manufacturing ratio, the more efficient the production is.
+     o The larger the space - manufacturing ratio, the more efficient the production is.
+     o The larger the manufacturing - space ratio, the more efficient the production is.
+     o The smaller the manufacturing - space ratio, the more efficient the production is.
+
+   Answer:
+   The larger the manufacturing - space ratio the more efficient the production is.
+   The smaller the space - manufacturing ratio, the more efficient the production is.
+
+
+7. A line manufacturing system can be used if:
+       o Manufacturing lead time is greater than the lead time expected by the customer.
+       o The product has many different options or models.
+       o The product has only one model.
+       o Manufacturing lead time is smaller than the lead time expected by the customer.
+
+   Answer:
+   Manufacturing lead time is greater than the lead time expected by the customer
+   The product has many different options or models.
+
+
+8. The longest manufacturing time is found in the production system of type:
+      o Project
+      o Line
+      o Job shop
+      o Repetitive
+      o Continuous
+
+   Answer:
+   Project
+
+9. A two stations production system has:
+      o Variable routing
+      o No routing
+      o Fixed routing
+      o Mixed routing
+
+   Answer:
+   Fixed routing
+
+10. Early detection of faults may reduce significantly the production costs.
+         •   False
+         •   True
+
+     Answer:
+     True
+
+
+
+Quiz 3
+  1. Which of the following factors characterizes a CIM system?
+       o Setup time
+       o Flexibility
+       o Quality
+       o Inventory
+       o Space-manufacturing ratio
+
+     Correct answer:
+     Setup time
+     Quality
+     Inventory
+     Flexibility
+
+  2. Utilization of a facility depends on:
+         o Actual quantity produced during a given period
+         o Production capacity for a given period
+         o Mean time to repair
+         o The level of integration
+
+     Correct answer:
+     Production capacity for a given period
+     Actual quantity produced during a given period
+
+  3. According to J.T. Black, the price of parts and materials is 50% of the selling price.
+        o True
+        o False
+
+     Correct answer: False
+
+  4. Computer-Aided Process Planning:
+       o Decrease planning time
+       o Increase planning time
+       o Decrease human intervention
+       o Increase flexibility
+   Correct answer:
+   Decrease planning time
+   Decrease human intervention
+   Increase flexibility
+
+5. What is the best manufacturing strategy for a new type of product?
+     o Make to order
+     o Make to stock
+     o Assemble to order
+     o Engineer to order
+
+   Correct answer: Engineer to order
+
+6. Enterprise resource planning (ERP) is not efficient in CIM.
+      o False
+      o True
+
+   Correct answer: False
+
+7. What is the meaning of the ratio production capacity / quantity produced?
+     o It has no meaning
+     o Mean time between failures
+     o Availability
+     o Utilization
+     o Average manufacturing lead time
+
+   Correct answer: It has no meaning
+
+8. What type of MS is used for producing toothpaste?
+     o Project
+     o Job shop
+     o Repetitive
+     o Continuous
+     o Line
+
+   Correct answer: Continuous
+
+9. An operation that transforms the raw material from one state to another, the latter one
+   being closer to the finished part or product is:
+       o A processing operation
+       o A transport operation
+       o A storage operation
+       o An assembly operation
+
+   Correct answer:
+   A processing operation
+   10. A factory produces mobile phones and tablet PCs. On the line that produces mobile
+       phones 5 models with minor differences can be made. On the line that produces tablet
+       PCs, 5 models with major differences are produced. What is the total amount of products
+       made by the company, if 100 phones of each model and 100 tablets PC of each model are
+       produced?
+
+   •   1000
+   •   210
+   •   2500
+   •   5000
+
+Correct answer: 1000
+
+
+Quiz 5
+   1. In CIM, manufacturing batch size reduction leads to increased production costs.
+          o False
+          o True
+
+       Answer: False
+
+   2. The setup time must be considered when determining the operation cycle time for job
+      shop production.
+         o True
+         o False
+
+       Answer: True
+
+   3. Each side of a one-aisle ASRS contains 10 storage compartments in the length direction
+      and 10 compartments vertically. All storage compartments will be the same size to
+      accommodate standard size pallets of dimensions: x =1 m, y=1 m. The height of a unit
+      load is z=1 m. What is the storage capacity of the ASRS?
+          o 10
+          o 20
+          o 200
+          o 100
+
+       Answer: 200 (10 compartments x 10 compartments x 2 sides)
+
+   4. Each aisle of a four-aisle ASRS contains 10 storage compartments in the length direction
+      and 10 compartments vertically. All storage compartments will be the same size to
+      accommodate standard size pallets of dimensions: x =1 m, y=1 m. The height of a unit
+      load is z=1 m and the allowances are a=0.1 m, b=0.1 m, and c=0.1 m. What is the width
+      of the ASRS?
+          o 13.2
+       o   6.6
+       o   3.3
+       o   9.9
+
+   Answer: 13.2 (3 aisles x (1 + 0.1) m)
+
+5. Which of the following statements is / are true?
+     o The throughput of an ASRS increase if transactions are performed in a dual
+         command cycle.
+     o The throughput of an ASRS decrease if transactions are performed in a dual
+         command cycle.
+     o The throughput of an ASRS increase if transactions are performed in a single
+         command cycle.
+
+   Answer:
+   The throughput of an ASRS increase if transactions are performed in a dual
+   command cycle.
+
+6. Dedicated storage strategy is more appropriate when:
+      o Items are stored in part number sequence
+      o Items are stored according to activity level
+      o Items are stored according to their activity-to-space ratio
+
+   Answer:
+   Items are stored in part number sequence
+   Items are stored according to activity level
+   Items are stored according to their activity-to-space ratio
+
+7. Which of the following statements is / are true?
+     o Higher throughput can be achieved when a dedicated storage strategy is
+         implemented.
+     o Less total space is required in a storage system that uses dedicated storage.
+     o Higher throughput can be achieved when a random storage strategy is
+         implemented.
+     o Less total space is required in a storage system that uses randomized storage.
+
+   Answer:
+   Higher throughput can be achieved when a dedicated storage strategy is
+   implemented
+   Less total space is required in a storage system that uses randomized storage
+
+8. The handling of materials must be performed:
+      o In a timely manner
+      o Inaccurately
+      o At low cost
+      o With damage to the materials
+         o   Efficiently
+         o   Safely
+
+     Answer:
+     In a timely manner
+     At low cost
+     Efficiently
+     Safely
+
+  9. What changes can be made to increase or decrease production capacity over short term?
+       o Change the number of shifts per week
+       o Increase the number of work centers in the shop
+       o Change the number of hours worked per shift
+       o Increase the production rate, by making improvements in methods or process
+           technology
+
+     Answer:
+     Change the number of shifts per week
+     Change the number of hours worked per shift
+
+  10. What is the meaning of the ratio quantity produced / production capacity?
+        o Mean time between failures
+        o Availability
+        o Average manufacturing lead time
+        o Utilization
+        o It has no meaning
+
+     Answer: Utilization
+
+
+Quiz 6
+  1. Which of the following statements is / are true?
+       o The interpretation of each symbol from a hierarchical sequence depends on the
+           previous symbol.
+       o The interpretation of each symbol from a polycode sequence does not depend on
+           the previous symbol.
+       o The interpretation of each symbol from a monocode sequence does not depend on
+           the previous symbol.
+       o The interpretation of each symbol from a polycode sequence depends on the
+           previous symbol.
+       o The interpretation of each symbol from a chain-type sequence does not depend on
+           the previous symbol.
+   Answer:
+   The interpretation of each symbol from a hierarchical sequence depends on the
+   previous symbol
+   The interpretation of each symbol from a polycode sequence does not depend on the
+   previous symbol
+   The interpretation of each symbol from a chain-type sequence does not depend on
+   the previous symbol
+
+2. When the work flow in the cell is analyzed:
+     o Percentage of in-sequence moves (PIM) should be as high as possible
+     o Percentage of backtracking moves (PBM) should be as high as possible
+     o Percentage of in-sequence moves (PIM) should be as low as possible
+     o Percentage of backtracking moves (PBM) should be as low as possible
+
+   Answer:
+   Percentage of in-sequence moves (PIM) should be as high as possible
+   Percentage of backtracking moves (PBM) should be as low as possible
+
+3. What is the number of levels required to represent the characteristics of a product, if a 4
+   digits monocode structure is considered?
+       o 3
+       o 4
+       o 5
+       o There is no tree representation
+
+   Answer: 4
+
+4. The costs associated with material handling must be:
+      o As small as possible
+      o As large as possible
+      o Does not matter
+
+   Answer: As small as possible
+
+5. Which encoding structure provides the lowest information density?
+     o Hybrid
+     o Polycode
+     o Monocode
+     o None of the above
+
+   Answer: Polycode
+
+6. Which of the following are specific to project-type production systems?
+     o Simple drawings
+     o Complex drawings
+     o The customer is identified after production starts
+       o   Cheap products
+       o   Simple products
+       o   Complex products
+       o   Expensive products
+       o   The customer is identified before production starts
+
+   Answer:
+   Complex drawings
+   Complex products
+   Expensive products
+   The customer is identified before production starts
+
+7. Which of the following associations is / are correct?
+     o Production equipment <=> machine groups
+     o Similar parts <=> part cells
+     o Production equipment <=> machine cells
+     o Similar parts <=> part families
+
+   Answer:
+   Production equipment <=> machine groups
+   Production equipment <=> machine cells
+   Similar parts <=> part families
+
+8. The complexity of a product is given by:
+      o The number of components
+      o The number of operations needed for manufacturing
+
+   Answer:
+   The number of components
+   The number of operations needed for manufacturing
+
+9. Random storage is used when products are not stored according to the level of activity.
+      o False
+      o True
+
+   Answer: True
+
+10. The use of group technology:
+       o Increases the setup time
+       o Reduces the manufacturing lead time
+       o Reduces the number of operations in the production process
+       o Reduces the work-in-process
+       o Increases the number of operations in the production process
+     Answer:
+     Reduces the manufacturing lead time
+     Reduces the number of operations in the production process
+     Reduces the work-in-process
+
+
+
+Quiz 7
+  1. To be flexible a manufacturing system must:
+        o Identify different part or product styles
+        o Quick changeover the physical setup
+        o Quick changeover the operating instructions
+
+     Answer:
+
+         o   Identify different part or product styles
+         o   Quick changeover the physical setup
+         o   Quick changeover the operating instructions
+  2. Which of the following measures are used to evaluate the performance of a storage
+     system?
+         o Density
+         o Storage capacity
+         o Utilization
+         o Reliability
+         o Throughput
+         o Accessibility
+
+     Answer:
+
+         o   Density
+         o   Storage capacity
+         o   Utilization
+         o   Reliability
+         o   Throughput
+         o   Accessibility
+  3. A dedicated manufacturer of assemblies produces also the components necessary for their
+     products.
+        o True
+        o False
+
+     Answer: False
+
+  4. Which of the following vehicle guidance technologies is the cheapest?
+       o Paint stripes
+       o   Imbedded guide wires
+       o   Self guided vehicles
+
+   Answer: Paint stripes
+
+5. Parts can be classified according to:
+       o Design and manufacturing attributes
+       o Manufacturing attributes
+       o Design attributes
+
+   Answer:
+
+       o   Design and manufacturing attributes
+       o   Manufacturing attributes
+       o   Design attributes
+
+6. Which of the following statements is / are true?
+     o When flexibility increases costs decrease.
+     o When flexibility increases productivity decrease.
+     o When flexibility increases productivity increase.
+     o When flexibility increases costs increase.
+
+   Answer:
+      o When flexibility increases productivity decrease.
+      o When flexibility increases costs increase.
+
+7. The bottleneck station is:
+      o The station that gives the maximum production rate of the whole production
+          system.
+      o The station with the highest utilization.
+      o The station that gives the minimum production rate of the whole production
+          system.
+      o The station with the lowest utilization.
+
+   Answer:
+
+       o The station that gives the maximum production rate of the whole production
+         system.
+       o The station with the highest utilization.
+
+8. Which of the following is / are related to the part variety test?
+     o Can the system process different part styles in a non batch mode?
+     o Can the system accept changes in production scheduling?
+     o Can new part designs be introduced into the existing product mix with relative
+         ease?
+     o Can the system recover from equipment malfunctions without complete
+         disruption of production?
+     Answer:
+        o Can the system process different part styles in a non batch mode?
+
+  9. Which of the following are specific to job shop - type production systems?
+       o Intensive routing
+       o Intensive scheduling
+       o High volume
+       o Noncomplex products
+
+     Answer:
+
+         o   Intensive routing
+         o   Intensive scheduling
+         o   Noncomplex products
+  10. A flexible manufacturing system consists of:
+          o Four or more processing workstations connected mechanically by a common part
+             handling system and electronically by a distributed computer system.
+          o Two or three processing workstations plus a handling system.
+          o One CNC machining center combined with a parts storage system.
+
+     Answer: Four or more processing workstations connected mechanically by a
+     common part handling system and electronically by a distributed computer system.
+
+
+Quiz 8
+  1. Recirculating conveyors are the most efficient transport systems.
+        o False
+        o True
+
+     Answer: False
+
+  2. Which of the following are benefits of using an FMS?
+       o Lower manufacturing lead times
+       o Greater responsiveness to change
+       o More machines required
+       o Increased machine utilization
+       o Increased inventory requirements
+
+     Answer:
+        o Lower manufacturing lead times
+        o Greater responsiveness to change
+        o Increased machine utilization
+
+  3. Processes planning is necessary for:
+        o Part produced
+       o   Assembly
+
+   Answer:
+      o Part produced
+      o Assembly
+
+4. The type of assembly method used for a given product depends on:
+      o Anticipated production quantities
+      o Time required for each processing operation
+      o Number of processing operations
+      o Complexity of the assembled product
+
+   Answer:
+
+       o   Anticipated production quantities
+       o   Complexity of the assembled product
+5. Group technology is most appropriately applied under the following conditions:
+      o The parts can not be grouped into part families.
+      o The plant currently uses no batch production and a process type layout.
+      o The plant currently uses traditional batch production and a process type layout.
+      o The parts can be grouped into part families.
+
+   Answer:
+      o The plant currently uses traditional batch production and a process type
+        layout.
+      o The parts can be grouped into part families.
+
+6. The variety and quantity of goods are in a relationship of direct proportionality.
+      o False
+      o True
+
+   Answer: False
+
+7. What is the right order of the general steps required for the management activities of an
+   investment project? (See attached image for steps)
+         o   E, B, D, G, C, F, A, H, I
+         o   C, D, E, H, B, I, A, F, G
+         o   C, A, B, E, D, F, H, I, G
+         o   A, B, C, D, E, F, G, H, I
+         o   D, E, B, C, G, A, F, H, I
+
+     Answer: C, D, E, H, B, I, A, F, G
+
+  8. What type(s) of design is/are not related to the concurrent engineering?
+       o Design for selling
+       o Design for quality
+       o Design for life cycle
+       o Design for manufacturing and assembly
+       o Design for cost
+
+     Answer: Design for selling
+
+  9. Which of the following are related to the use of CAPP?
+       o Productivity decreases
+       o Lead time decreases
+       o Lead time increases
+       o Processes are standardized
+
+     Answer:
+        o Lead time decreases
+        o Processes are standardized
+
+  10. Concurrent engineering:
+         o Decreases the manufacturing lead time.
+         o Increases the manufacturing lead time.
+         o Does not affect the manufacturing lead time.
+
+     Answer: Decreases the manufacturing lead time
+
+
+Quiz 9
+  1. The figure below shows the possible structure of a product (P1). How many units of
+     material M5 are required for a batch of 10 products P1?
+       o   40
+       o   1
+       o   50
+       o   10
+       o   20
+
+   Answer: 40 (1 M5 * 2 C5 * 2 S2 * 10 P1)
+
+2. The design of a material handling system does not depend on the type of manufacturing
+   system where it is embedded.
+       o False
+       o True
+
+   Answer: False
+
+3. The chase production strategy involves:
+      o Cost of overtime
+      o Cost of carrying the excess inventory created
+      o Constant workforce
+      o High cost of hiring and firing employees
+      o No excess inventory is carried
+
+   Answer:
+      o Cost of overtime
+      o High cost of hiring and firing employees
+      o No excess inventory is carried
+
+4. Which of the following statements is / are true?
+     o The chase production strategy requires that the production in each period equals
+         the planned production for that period.
+     o The level production strategy requires that the production in each period equals
+         the monthly average production calculated from the total production value for the
+         year.
+       o The level production strategy requires that the production in each period equals
+         the planned production for that period.
+       o The chase production strategy requires that the production in each period equals
+         the monthly average production calculated from the total production value for the
+         year.
+
+   Answer:
+      o The chase production strategy requires that the production in each period
+        equals the planned production for that period.
+      o The level production strategy requires that the production in each period
+        equals the monthly average production calculated from the total production
+        value for the year.
+5. Capacity adjustments for the short term include:
+      o Number of work shifts
+      o New plant construction
+      o Labor hours
+      o New equipment investments
+      o Temporary workers
+
+   Answer:
+      o Number of work shifts
+      o Labor hours
+      o Temporary workers
+
+6. Designing for manufacturing and assembly involves:
+      o The use of special parts across product lines
+      o The use of modular design
+      o Minimizing the number of components
+      o The use of standard commercially available components
+      o Maximizing the flexible components
+
+   Answer:
+      o The use of modular design
+      o Minimizing the number of components
+      o The use of standard commercially available components
+
+7. Which of the following statements is / are true?
+     o Less total space is required in a storage system that uses dedicated storage.
+     o Usually in a storage system the accessibility increases as the density increases.
+     o Less total space is required in a storage system that uses randomized storage.
+     o Higher throughput can be achieved when a random storage strategy is
+         implemented based on activity level.
+
+   Answer:
+      o Less total space is required in a storage system that uses randomized storage.
+  8. The use of group technology decreases the number of operations in the production
+     process.
+        o False
+        o True
+
+     Answer: True
+
+  9. Production planning is concerned with:
+        o When the products should be completed
+        o How many of each model
+        o When to recall the products for service
+        o Deciding what the selling price is
+        o Deciding which products to make
+
+     Answer:
+        o When the products should be completed
+        o How many of each model
+        o Deciding which products to make
+
+
+
+
+  10. Which of the following statements is / are true?
+        o Aggregate production planning is used to convert master production schedule into
+            an aggregate production plan.
+        o Capacity planning refers to determining the quantity of products to be produced.
+        o Master production planning is used to convert the aggregate production plan into
+            a master production schedule.
+
+     Answer:
+        o Master production planning is used to convert the aggregate production plan
+          into a master production schedule.
+
+
+Quiz 10
+  1. What type(s) of card(s) is/are used in Kanban systems?
+       o For the authorization of the production
+       o For the authorization of the delivery
+       o For the authorization of the quality control
+       o For the authorization of the planning
+       o Only one type used for both authorization and delivery of the production
+
+     Answer:
+        o For the authorization of the production
+        o For the authorization of the delivery
+2. Which of the following statements is / are correct regarding manufacturing resource
+   planning (MRP II)?
+       o Inventories increase
+       o Inventories decrease
+       o Better collaboration with suppliers
+       o Better collaboration with customers
+
+   Answer:
+      o Inventories decrease
+      o Better collaboration with suppliers
+      o Better collaboration with customers
+
+3. Aggregate production planning deals with the allocation of human resources.
+      o False
+      o True
+
+   Answer: False
+
+4. For the chain-type structure, the number of digits of the code is determined by the
+   number of levels in the hierarchy.
+      o False
+      o True
+
+   Answer: False
+
+5. Which of the following questions are considered in the decision to make or buy a
+   product?
+      o What is the total production quantity?
+      o What is the anticipated product life?
+      o Is the process available in-house?
+      o How do part costs compare?
+
+   Answer:
+      o What is the total production quantity?
+      o What is the anticipated product life?
+      o Is the process available in-house?
+      o How do part costs compare?
+
+6. Which of the following statements is / are correct?
+     o Order scheduling assigns the production orders to the various work centers in the
+         plant.
+     o Order scheduling monitors the status of the various orders in the plant.
+     o Order scheduling provides the documentation needed to process a production
+         order through the factory.
+     o Order release provides the documentation needed to process a production order
+         through the factory.
+     o Order progress module monitors the status of the various orders in the plant.
+   Answer:
+      o Order scheduling assigns the production orders to the various work centers
+        in the plant.
+      o Order release provides the documentation needed to process a production
+        order through the factory.
+      o Order progress module monitors the status of the various orders in the plant.
+
+7. If a manufacturing system can accommodate changes in production scheduling, what
+   flexibility test does it pass?
+        o New part
+        o Error recovery
+        o Part variety
+        o Schedule change
+
+   Answer: Schedule change
+
+8. What is the correct order of the three phases of a typical shop floor control system: A.
+   Order progress B. Order release C. Order scheduling
+      o B, C, A
+      o B, A, C
+      o C, A, B
+      o C, B, A
+      o A, B, C
+
+   Answer: B, C, A
+
+9. In production planning and control, what types of inventory are of greatest interest?
+       o Purchased components
+       o Work in process
+       o Finished products
+       o Raw materials
+
+   Answer:
+      o Purchased components
+      o Work in process
+      o Finished products
+      o Raw materials
+
+10. The Just-in-Time production system operates successfully if:
+       o The setup time of the production line is small
+       o The production is made in large batch sizes
+       o Equipment with high reliability are used
+       o The setup time of each equipment of the production system is large
+       o The products are produced in small size batches
+Answer:
+   o The setup time of the production line is small
+   o Equipment with high reliability are used
+   o The products are produced in small size batches
+

@@ -1,0 +1,5644 @@
+window.QUIZ_DATA = {
+  "schema_version": 1,
+  "generated_from": [
+    "quizzes_english.pdf",
+    "Quizes_English_2025.pdf",
+    "QUIZ 11.png",
+    "QUIZ 12.png",
+    "cim courses/C1_unlocked.pdf",
+    "cim courses/C2_unlocked.pdf",
+    "cim courses/C3_unlocked.pdf",
+    "cim courses/C4_unlocked.pdf",
+    "cim courses/C5_unlocked.pdf",
+    "cim courses/C6_unlocked.pdf",
+    "cim courses/C7_unlocked.pdf",
+    "cim courses/C8_unlocked.pdf",
+    "cim courses/C9_unlocked.pdf",
+    "cim courses/C10_unlocked.pdf",
+    "cim courses/C11_unlocked.pdf",
+    "cim courses/C12_unlocked.pdf"
+  ],
+  "question_count": 324,
+  "questions": [
+    {
+      "id": "quizzes_english_q2_1",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 2",
+      "question_number": 1,
+      "question": "The large batch production is more efficient in:",
+      "options": [
+        "Classical manufacturing systems",
+        "Modern manufacturing systems"
+      ],
+      "correct_answers": [
+        "Classical manufacturing systems"
+      ]
+    },
+    {
+      "id": "quizzes_english_q2_2",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 2",
+      "question_number": 2,
+      "question": "What type of MS is used for producing office buildings?",
+      "options": [
+        "Line",
+        "Project",
+        "Job shop",
+        "Continuous",
+        "Repetitive"
+      ],
+      "correct_answers": [
+        "Project"
+      ]
+    },
+    {
+      "id": "quizzes_english_q2_3",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 2",
+      "question_number": 3,
+      "question": "Computer Aided Engineering (CAE) is used for:",
+      "options": [
+        "Financial accounting",
+        "Process planning",
+        "Simulation and analysis of processes",
+        "Production control"
+      ],
+      "correct_answers": [
+        "Simulation and analysis of processes"
+      ]
+    },
+    {
+      "id": "quizzes_english_q2_4",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 2",
+      "question_number": 4,
+      "question": "A continuous manufacturing system can be used if:",
+      "options": [
+        "Product demand cannot be forecasted",
+        "Manufacturing lead time is smaller than the lead time expected by the customer",
+        "Product demand can be forecasted",
+        "Manufacturing lead time is greater than the lead time expected by the customer"
+      ],
+      "correct_answers": [
+        "Product demand can be forecasted",
+        "Manufacturing lead time is greater than the lead time expected by the customer"
+      ]
+    },
+    {
+      "id": "quizzes_english_q2_5",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 2",
+      "question_number": 5,
+      "question": "Assembling a product requires 100 minutes when it is done for the first time by a trained worker. The process will be repeated to make 100 products. If the learning rate is 85%, what will be the delivery time of the 100th product? (m=-0.23, 100^m=0.35).",
+      "options": [
+        "3.5",
+        "35",
+        "8.5",
+        "2.3"
+      ],
+      "correct_answers": [
+        "35"
+      ]
+    },
+    {
+      "id": "quizzes_english_q2_6",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 2",
+      "question_number": 6,
+      "question": "Which of the following statements is/are true?",
+      "options": [
+        "The smaller the space - manufacturing ratio, the more efficient the production is.",
+        "The larger the space - manufacturing ratio, the more efficient the production is.",
+        "The larger the manufacturing - space ratio, the more efficient the production is.",
+        "The smaller the manufacturing - space ratio, the more efficient the production is."
+      ],
+      "correct_answers": [
+        "The larger the manufacturing - space ratio the more efficient the production is.",
+        "The smaller the space - manufacturing ratio, the more efficient the production is."
+      ]
+    },
+    {
+      "id": "quizzes_english_q2_7",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 2",
+      "question_number": 7,
+      "question": "A line manufacturing system can be used if:",
+      "options": [
+        "Manufacturing lead time is greater than the lead time expected by the customer.",
+        "The product has many different options or models.",
+        "The product has only one model.",
+        "Manufacturing lead time is smaller than the lead time expected by the customer."
+      ],
+      "correct_answers": [
+        "Manufacturing lead time is greater than the lead time expected by the customer",
+        "The product has many different options or models."
+      ]
+    },
+    {
+      "id": "quizzes_english_q2_8",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 2",
+      "question_number": 8,
+      "question": "The longest manufacturing time is found in the production system of type:",
+      "options": [
+        "Project",
+        "Line",
+        "Job shop",
+        "Repetitive",
+        "Continuous"
+      ],
+      "correct_answers": [
+        "Project"
+      ]
+    },
+    {
+      "id": "quizzes_english_q2_9",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 2",
+      "question_number": 9,
+      "question": "A two stations production system has:",
+      "options": [
+        "ariable routing",
+        "No routing",
+        "Fixed routing",
+        "Mixed routing"
+      ],
+      "correct_answers": [
+        "Fixed routing"
+      ]
+    },
+    {
+      "id": "quizzes_english_q2_10",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 2",
+      "question_number": 10,
+      "question": "Early detection of faults may reduce significantly the production costs.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correct_answers": [
+        "True"
+      ]
+    },
+    {
+      "id": "quizzes_english_q3_1",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 3",
+      "question_number": 1,
+      "question": "Which of the following factors characterizes a CIM system?",
+      "options": [
+        "Setup time",
+        "Flexibility",
+        "Quality",
+        "Inventory",
+        "Space-manufacturing ratio"
+      ],
+      "correct_answers": [
+        "Setup time",
+        "Quality",
+        "Inventory",
+        "Flexibility"
+      ]
+    },
+    {
+      "id": "quizzes_english_q3_2",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 3",
+      "question_number": 2,
+      "question": "Utilization of a facility depends on:",
+      "options": [
+        "Actual quantity produced during a given period",
+        "Production capacity for a given period",
+        "Mean time to repair",
+        "The level of integration"
+      ],
+      "correct_answers": [
+        "Production capacity for a given period",
+        "Actual quantity produced during a given period"
+      ]
+    },
+    {
+      "id": "quizzes_english_q3_3",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 3",
+      "question_number": 3,
+      "question": "According to J.T. Black, the price of parts and materials is 50% of the selling price.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": "quizzes_english_q3_4",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 3",
+      "question_number": 4,
+      "question": "Computer-Aided Process Planning:",
+      "options": [
+        "Decrease planning time",
+        "Increase planning time",
+        "Decrease human intervention",
+        "Increase flexibility"
+      ],
+      "correct_answers": [
+        "Decrease planning time",
+        "Decrease human intervention",
+        "Increase flexibility"
+      ]
+    },
+    {
+      "id": "quizzes_english_q3_5",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 3",
+      "question_number": 5,
+      "question": "What is the best manufacturing strategy for a new type of product?",
+      "options": [
+        "Make to order",
+        "Make to stock",
+        "Assemble to order",
+        "Engineer to order"
+      ],
+      "correct_answers": [
+        "Engineer to order"
+      ]
+    },
+    {
+      "id": "quizzes_english_q3_6",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 3",
+      "question_number": 6,
+      "question": "Enterprise resource planning (ERP) is not efficient in CIM.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correct_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": "quizzes_english_q3_7",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 3",
+      "question_number": 7,
+      "question": "What is the meaning of the ratio production capacity / quantity produced?",
+      "options": [
+        "It has no meaning",
+        "Mean time between failures",
+        "Availability",
+        "Utilization",
+        "Average manufacturing lead time"
+      ],
+      "correct_answers": [
+        "It has no meaning"
+      ]
+    },
+    {
+      "id": "quizzes_english_q3_8",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 3",
+      "question_number": 8,
+      "question": "What type of MS is used for producing toothpaste?",
+      "options": [
+        "Project",
+        "Job shop",
+        "Repetitive",
+        "Continuous",
+        "Line"
+      ],
+      "correct_answers": [
+        "Continuous"
+      ]
+    },
+    {
+      "id": "quizzes_english_q3_9",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 3",
+      "question_number": 9,
+      "question": "An operation that transforms the raw material from one state to another, the latter one being closer to the finished part or product is:",
+      "options": [
+        "A processing operation",
+        "A transport operation",
+        "A storage operation",
+        "An assembly operation"
+      ],
+      "correct_answers": [
+        "A processing operation"
+      ]
+    },
+    {
+      "id": "quizzes_english_q3_10",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 3",
+      "question_number": 10,
+      "question": "A factory produces mobile phones and tablet PCs. On the line that produces mobile phones 5 models with minor differences can be made. On the line that produces tablet PCs, 5 models with major differences are produced. What is the total amount of products made by the company, if 100 phones of each model and 100 tablets PC of each model are produced?",
+      "options": [
+        "1000",
+        "210",
+        "2500",
+        "5000"
+      ],
+      "correct_answers": [
+        "1000"
+      ]
+    },
+    {
+      "id": "quizzes_english_q5_1",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 5",
+      "question_number": 1,
+      "question": "In CIM, manufacturing batch size reduction leads to increased production costs.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correct_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": "quizzes_english_q5_2",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 5",
+      "question_number": 2,
+      "question": "The setup time must be considered when determining the operation cycle time for job shop production.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answers": [
+        "True"
+      ]
+    },
+    {
+      "id": "quizzes_english_q5_3",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 5",
+      "question_number": 3,
+      "question": "Each side of a one-aisle ASRS contains 10 storage compartments in the length direction and 10 compartments vertically. All storage compartments will be the same size to accommodate standard size pallets of dimensions: x =1 m, y=1 m. The height of a unit load is z=1 m. What is the storage capacity of the ASRS?",
+      "options": [
+        "10",
+        "20",
+        "200",
+        "100"
+      ],
+      "correct_answers": [
+        "200 (10 compartments x 10 compartments x 2 sides)"
+      ]
+    },
+    {
+      "id": "quizzes_english_q5_4",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 5",
+      "question_number": 4,
+      "question": "Each aisle of a four-aisle ASRS contains 10 storage compartments in the length direction and 10 compartments vertically. All storage compartments will be the same size to accommodate standard size pallets of dimensions: x =1 m, y=1 m. The height of a unit load is z=1 m and the allowances are a=0.1 m, b=0.1 m, and c=0.1 m. What is the width of the ASRS?",
+      "options": [
+        "13.2",
+        "6.6",
+        "3.3",
+        "9.9"
+      ],
+      "correct_answers": [
+        "13.2 (3 aisles x (1 + 0.1) m)"
+      ]
+    },
+    {
+      "id": "quizzes_english_q5_5",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 5",
+      "question_number": 5,
+      "question": "Which of the following statements is / are true?",
+      "options": [
+        "The throughput of an ASRS increase if transactions are performed in a dual command cycle.",
+        "The throughput of an ASRS decrease if transactions are performed in a dual command cycle.",
+        "The throughput of an ASRS increase if transactions are performed in a single command cycle."
+      ],
+      "correct_answers": [
+        "The throughput of an ASRS increase if transactions are performed in a dual command cycle."
+      ]
+    },
+    {
+      "id": "quizzes_english_q5_6",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 5",
+      "question_number": 6,
+      "question": "Dedicated storage strategy is more appropriate when:",
+      "options": [
+        "Items are stored in part number sequence",
+        "Items are stored according to activity level",
+        "Items are stored according to their activity-to-space ratio"
+      ],
+      "correct_answers": [
+        "Items are stored in part number sequence",
+        "Items are stored according to activity level",
+        "Items are stored according to their activity-to-space ratio"
+      ]
+    },
+    {
+      "id": "quizzes_english_q5_7",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 5",
+      "question_number": 7,
+      "question": "Which of the following statements is / are true?",
+      "options": [
+        "Higher throughput can be achieved when a dedicated storage strategy is implemented.",
+        "Less total space is required in a storage system that uses dedicated storage.",
+        "Higher throughput can be achieved when a random storage strategy is implemented.",
+        "Less total space is required in a storage system that uses randomized storage."
+      ],
+      "correct_answers": [
+        "Higher throughput can be achieved when a dedicated storage strategy is implemented",
+        "Less total space is required in a storage system that uses randomized storage"
+      ]
+    },
+    {
+      "id": "quizzes_english_q5_8",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 5",
+      "question_number": 8,
+      "question": "The handling of materials must be performed:",
+      "options": [
+        "In a timely manner",
+        "Inaccurately",
+        "At low cost",
+        "With damage to the materials",
+        "Efficiently",
+        "Safely"
+      ],
+      "correct_answers": [
+        "In a timely manner",
+        "At low cost",
+        "Efficiently",
+        "Safely"
+      ]
+    },
+    {
+      "id": "quizzes_english_q5_9",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 5",
+      "question_number": 9,
+      "question": "What changes can be made to increase or decrease production capacity over short term?",
+      "options": [
+        "Change the number of shifts per week",
+        "Increase the number of work centers in the shop",
+        "Change the number of hours worked per shift",
+        "Increase the production rate, by making improvements in methods or process technology"
+      ],
+      "correct_answers": [
+        "Change the number of shifts per week",
+        "Change the number of hours worked per shift"
+      ]
+    },
+    {
+      "id": "quizzes_english_q5_10",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 5",
+      "question_number": 10,
+      "question": "What is the meaning of the ratio quantity produced / production capacity?",
+      "options": [
+        "Mean time between failures",
+        "Availability",
+        "Average manufacturing lead time",
+        "Utilization",
+        "It has no meaning"
+      ],
+      "correct_answers": [
+        "Utilization"
+      ]
+    },
+    {
+      "id": "quizzes_english_q6_1",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 6",
+      "question_number": 1,
+      "question": "Which of the following statements is / are true?",
+      "options": [
+        "The interpretation of each symbol from a hierarchical sequence depends on the previous symbol.",
+        "The interpretation of each symbol from a polycode sequence does not depend on the previous symbol.",
+        "The interpretation of each symbol from a monocode sequence does not depend on the previous symbol.",
+        "The interpretation of each symbol from a polycode sequence depends on the previous symbol.",
+        "The interpretation of each symbol from a chain-type sequence does not depend on the previous symbol."
+      ],
+      "correct_answers": [
+        "The interpretation of each symbol from a hierarchical sequence depends on the previous symbol",
+        "The interpretation of each symbol from a polycode sequence does not depend on the previous symbol",
+        "The interpretation of each symbol from a chain-type sequence does not depend on the previous symbol"
+      ]
+    },
+    {
+      "id": "quizzes_english_q6_2",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 6",
+      "question_number": 2,
+      "question": "When the work flow in the cell is analyzed:",
+      "options": [
+        "Percentage of in-sequence moves (PIM) should be as high as possible",
+        "Percentage of backtracking moves (PBM) should be as high as possible",
+        "Percentage of in-sequence moves (PIM) should be as low as possible",
+        "Percentage of backtracking moves (PBM) should be as low as possible"
+      ],
+      "correct_answers": [
+        "Percentage of in-sequence moves (PIM) should be as high as possible",
+        "Percentage of backtracking moves (PBM) should be as low as possible"
+      ]
+    },
+    {
+      "id": "quizzes_english_q6_3",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 6",
+      "question_number": 3,
+      "question": "What is the number of levels required to represent the characteristics of a product, if a 4 digits monocode structure is considered?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "There is no tree representation"
+      ],
+      "correct_answers": [
+        "4"
+      ]
+    },
+    {
+      "id": "quizzes_english_q6_4",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 6",
+      "question_number": 4,
+      "question": "The costs associated with material handling must be:",
+      "options": [
+        "As small as possible",
+        "As large as possible",
+        "Does not matter"
+      ],
+      "correct_answers": [
+        "As small as possible"
+      ]
+    },
+    {
+      "id": "quizzes_english_q6_5",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 6",
+      "question_number": 5,
+      "question": "Which encoding structure provides the lowest information density?",
+      "options": [
+        "Hybrid",
+        "Polycode",
+        "Monocode",
+        "None of the above"
+      ],
+      "correct_answers": [
+        "Polycode"
+      ]
+    },
+    {
+      "id": "quizzes_english_q6_6",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 6",
+      "question_number": 6,
+      "question": "Which of the following are specific to project-type production systems?",
+      "options": [
+        "Simple drawings",
+        "Complex drawings",
+        "The customer is identified after production starts",
+        "Cheap products",
+        "Simple products",
+        "Complex products",
+        "Expensive products",
+        "The customer is identified before production starts"
+      ],
+      "correct_answers": [
+        "Complex drawings",
+        "Complex products",
+        "Expensive products",
+        "The customer is identified before production starts"
+      ]
+    },
+    {
+      "id": "quizzes_english_q6_7",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 6",
+      "question_number": 7,
+      "question": "Which of the following associations is / are correct?",
+      "options": [
+        "Production equipment <=> machine groups",
+        "Similar parts <=> part cells",
+        "Production equipment <=> machine cells",
+        "Similar parts <=> part families"
+      ],
+      "correct_answers": [
+        "Production equipment <=> machine groups",
+        "Production equipment <=> machine cells",
+        "Similar parts <=> part families"
+      ]
+    },
+    {
+      "id": "quizzes_english_q6_8",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 6",
+      "question_number": 8,
+      "question": "The complexity of a product is given by:",
+      "options": [
+        "The number of components",
+        "The number of operations needed for manufacturing"
+      ],
+      "correct_answers": [
+        "The number of components",
+        "The number of operations needed for manufacturing"
+      ]
+    },
+    {
+      "id": "quizzes_english_q6_9",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 6",
+      "question_number": 9,
+      "question": "Random storage is used when products are not stored according to the level of activity.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correct_answers": [
+        "True"
+      ]
+    },
+    {
+      "id": "quizzes_english_q6_10",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 6",
+      "question_number": 10,
+      "question": "The use of group technology:",
+      "options": [
+        "Increases the setup time",
+        "Reduces the manufacturing lead time",
+        "Reduces the number of operations in the production process",
+        "Reduces the work-in-process",
+        "Increases the number of operations in the production process"
+      ],
+      "correct_answers": [
+        "Reduces the manufacturing lead time",
+        "Reduces the number of operations in the production process",
+        "Reduces the work-in-process"
+      ]
+    },
+    {
+      "id": "quizzes_english_q7_1",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 7",
+      "question_number": 1,
+      "question": "To be flexible a manufacturing system must:",
+      "options": [
+        "Identify different part or product styles",
+        "Quick changeover the physical setup",
+        "Quick changeover the operating instructions"
+      ],
+      "correct_answers": [
+        "Identify different part or product styles",
+        "Quick changeover the physical setup",
+        "Quick changeover the operating instructions"
+      ]
+    },
+    {
+      "id": "quizzes_english_q7_2",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 7",
+      "question_number": 2,
+      "question": "Which of the following measures are used to evaluate the performance of a storage system?",
+      "options": [
+        "Density",
+        "Storage capacity",
+        "Utilization",
+        "Reliability",
+        "Throughput",
+        "Accessibility"
+      ],
+      "correct_answers": [
+        "Density",
+        "Storage capacity",
+        "Utilization",
+        "Reliability",
+        "Throughput",
+        "Accessibility"
+      ]
+    },
+    {
+      "id": "quizzes_english_q7_3",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 7",
+      "question_number": 3,
+      "question": "A dedicated manufacturer of assemblies produces also the components necessary for their products.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": "quizzes_english_q7_4",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 7",
+      "question_number": 4,
+      "question": "Which of the following vehicle guidance technologies is the cheapest?",
+      "options": [
+        "Paint stripes",
+        "Imbedded guide wires",
+        "Self guided vehicles"
+      ],
+      "correct_answers": [
+        "Paint stripes"
+      ]
+    },
+    {
+      "id": "quizzes_english_q7_5",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 7",
+      "question_number": 5,
+      "question": "Parts can be classified according to:",
+      "options": [
+        "Design and manufacturing attributes",
+        "Manufacturing attributes",
+        "Design attributes"
+      ],
+      "correct_answers": [
+        "Design and manufacturing attributes",
+        "Manufacturing attributes",
+        "Design attributes"
+      ]
+    },
+    {
+      "id": "quizzes_english_q7_6",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 7",
+      "question_number": 6,
+      "question": "Which of the following statements is / are true?",
+      "options": [
+        "When flexibility increases costs decrease.",
+        "When flexibility increases productivity decrease.",
+        "When flexibility increases productivity increase.",
+        "When flexibility increases costs increase."
+      ],
+      "correct_answers": [
+        "When flexibility increases productivity decrease.",
+        "When flexibility increases costs increase."
+      ]
+    },
+    {
+      "id": "quizzes_english_q7_7",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 7",
+      "question_number": 7,
+      "question": "The bottleneck station is:",
+      "options": [
+        "The station that gives the maximum production rate of the whole production system.",
+        "The station with the highest utilization.",
+        "The station that gives the minimum production rate of the whole production system.",
+        "The station with the lowest utilization."
+      ],
+      "correct_answers": [
+        "The station that gives the maximum production rate of the whole production system.",
+        "The station with the highest utilization."
+      ]
+    },
+    {
+      "id": "quizzes_english_q7_8",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 7",
+      "question_number": 8,
+      "question": "Which of the following is / are related to the part variety test?",
+      "options": [
+        "Can the system process different part styles in a non batch mode?",
+        "Can the system accept changes in production scheduling?",
+        "Can new part designs be introduced into the existing product mix with relative ease?",
+        "Can the system recover from equipment malfunctions without complete disruption of production?"
+      ],
+      "correct_answers": [
+        "Can the system process different part styles in a non batch mode?"
+      ]
+    },
+    {
+      "id": "quizzes_english_q7_9",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 7",
+      "question_number": 9,
+      "question": "Which of the following are specific to job shop - type production systems?",
+      "options": [
+        "Intensive routing",
+        "Intensive scheduling",
+        "High volume",
+        "Noncomplex products"
+      ],
+      "correct_answers": [
+        "Intensive routing",
+        "Intensive scheduling",
+        "Noncomplex products"
+      ]
+    },
+    {
+      "id": "quizzes_english_q7_10",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 7",
+      "question_number": 10,
+      "question": "A flexible manufacturing system consists of:",
+      "options": [
+        "Four or more processing workstations connected mechanically by a common part handling system and electronically by a distributed computer system.",
+        "Two or three processing workstations plus a handling system.",
+        "One CNC machining center combined with a parts storage system."
+      ],
+      "correct_answers": [
+        "Four or more processing workstations connected mechanically by a common part handling system and electronically by a distributed computer system."
+      ]
+    },
+    {
+      "id": "quizzes_english_q8_1",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 8",
+      "question_number": 1,
+      "question": "Recirculating conveyors are the most efficient transport systems.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correct_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": "quizzes_english_q8_2",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 8",
+      "question_number": 2,
+      "question": "Which of the following are benefits of using an FMS?",
+      "options": [
+        "Lower manufacturing lead times",
+        "Greater responsiveness to change",
+        "More machines required",
+        "Increased machine utilization",
+        "Increased inventory requirements"
+      ],
+      "correct_answers": [
+        "Lower manufacturing lead times",
+        "Greater responsiveness to change",
+        "Increased machine utilization"
+      ]
+    },
+    {
+      "id": "quizzes_english_q8_3",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 8",
+      "question_number": 3,
+      "question": "Processes planning is necessary for:",
+      "options": [
+        "Part produced",
+        "Assembly"
+      ],
+      "correct_answers": [
+        "Part produced",
+        "Assembly"
+      ]
+    },
+    {
+      "id": "quizzes_english_q8_4",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 8",
+      "question_number": 4,
+      "question": "The type of assembly method used for a given product depends on:",
+      "options": [
+        "Anticipated production quantities",
+        "Time required for each processing operation",
+        "Number of processing operations",
+        "Complexity of the assembled product"
+      ],
+      "correct_answers": [
+        "Anticipated production quantities",
+        "Complexity of the assembled product"
+      ]
+    },
+    {
+      "id": "quizzes_english_q8_5",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 8",
+      "question_number": 5,
+      "question": "Group technology is most appropriately applied under the following conditions:",
+      "options": [
+        "The parts can not be grouped into part families.",
+        "The plant currently uses no batch production and a process type layout.",
+        "The plant currently uses traditional batch production and a process type layout.",
+        "The parts can be grouped into part families."
+      ],
+      "correct_answers": [
+        "The plant currently uses traditional batch production and a process type layout.",
+        "The parts can be grouped into part families."
+      ]
+    },
+    {
+      "id": "quizzes_english_q8_6",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 8",
+      "question_number": 6,
+      "question": "The variety and quantity of goods are in a relationship of direct proportionality.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correct_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": "quizzes_english_q8_7",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 8",
+      "question_number": 7,
+      "question": "What is the right order of the general steps required for the management activities of an investment project? (See attached image for steps)",
+      "options": [
+        "E, B, D, G, C, F, A, H, I",
+        "C, D, E, H, B, I, A, F, G",
+        "C, A, B, E, D, F, H, I, G",
+        "A, B, C, D, E, F, G, H, I",
+        "D, E, B, C, G, A, F, H, I"
+      ],
+      "correct_answers": [
+        "C, D, E, H, B, I, A, F, G"
+      ]
+    },
+    {
+      "id": "quizzes_english_q8_8",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 8",
+      "question_number": 8,
+      "question": "What type(s) of design is/are not related to the concurrent engineering?",
+      "options": [
+        "Design for selling",
+        "Design for quality",
+        "Design for life cycle",
+        "Design for manufacturing and assembly",
+        "Design for cost"
+      ],
+      "correct_answers": [
+        "Design for selling"
+      ]
+    },
+    {
+      "id": "quizzes_english_q8_9",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 8",
+      "question_number": 9,
+      "question": "Which of the following are related to the use of CAPP?",
+      "options": [
+        "Productivity decreases",
+        "Lead time decreases",
+        "Lead time increases",
+        "Processes are standardized"
+      ],
+      "correct_answers": [
+        "Lead time decreases",
+        "Processes are standardized"
+      ]
+    },
+    {
+      "id": "quizzes_english_q8_10",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 8",
+      "question_number": 10,
+      "question": "Concurrent engineering:",
+      "options": [
+        "Decreases the manufacturing lead time.",
+        "Increases the manufacturing lead time.",
+        "Does not affect the manufacturing lead time."
+      ],
+      "correct_answers": [
+        "Decreases the manufacturing lead time"
+      ]
+    },
+    {
+      "id": "quizzes_english_q9_1",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 9",
+      "question_number": 1,
+      "question": "The figure below shows the possible structure of a product (P1). How many units of material M5 are required for a batch of 10 products P1?",
+      "options": [
+        "40",
+        "1",
+        "50",
+        "10",
+        "20"
+      ],
+      "correct_answers": [
+        "40 (1 M5 * 2 C5 * 2 S2 * 10 P1)"
+      ]
+    },
+    {
+      "id": "quizzes_english_q9_2",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 9",
+      "question_number": 2,
+      "question": "The design of a material handling system does not depend on the type of manufacturing system where it is embedded.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correct_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": "quizzes_english_q9_3",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 9",
+      "question_number": 3,
+      "question": "The chase production strategy involves:",
+      "options": [
+        "Cost of overtime",
+        "Cost of carrying the excess inventory created",
+        "Constant workforce",
+        "High cost of hiring and firing employees",
+        "No excess inventory is carried"
+      ],
+      "correct_answers": [
+        "Cost of overtime",
+        "High cost of hiring and firing employees",
+        "No excess inventory is carried"
+      ]
+    },
+    {
+      "id": "quizzes_english_q9_4",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 9",
+      "question_number": 4,
+      "question": "Which of the following statements is / are true?",
+      "options": [
+        "The chase production strategy requires that the production in each period equals the planned production for that period.",
+        "The level production strategy requires that the production in each period equals the monthly average production calculated from the total production value for the year.",
+        "The level production strategy requires that the production in each period equals the planned production for that period.",
+        "The chase production strategy requires that the production in each period equals the monthly average production calculated from the total production value for the year."
+      ],
+      "correct_answers": [
+        "The chase production strategy requires that the production in each period equals the planned production for that period.",
+        "The level production strategy requires that the production in each period equals the monthly average production calculated from the total production alue for the year."
+      ]
+    },
+    {
+      "id": "quizzes_english_q9_5",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 9",
+      "question_number": 5,
+      "question": "Capacity adjustments for the short term include:",
+      "options": [
+        "Number of work shifts",
+        "New plant construction",
+        "Labor hours",
+        "New equipment investments",
+        "Temporary workers"
+      ],
+      "correct_answers": [
+        "Number of work shifts",
+        "Labor hours",
+        "Temporary workers"
+      ]
+    },
+    {
+      "id": "quizzes_english_q9_6",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 9",
+      "question_number": 6,
+      "question": "Designing for manufacturing and assembly involves:",
+      "options": [
+        "The use of special parts across product lines",
+        "The use of modular design",
+        "Minimizing the number of components",
+        "The use of standard commercially available components",
+        "Maximizing the flexible components"
+      ],
+      "correct_answers": [
+        "The use of modular design",
+        "Minimizing the number of components",
+        "The use of standard commercially available components"
+      ]
+    },
+    {
+      "id": "quizzes_english_q9_7",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 9",
+      "question_number": 7,
+      "question": "Which of the following statements is / are true?",
+      "options": [
+        "Less total space is required in a storage system that uses dedicated storage.",
+        "Usually in a storage system the accessibility increases as the density increases.",
+        "Less total space is required in a storage system that uses randomized storage.",
+        "Higher throughput can be achieved when a random storage strategy is implemented based on activity level."
+      ],
+      "correct_answers": [
+        "Less total space is required in a storage system that uses randomized storage."
+      ]
+    },
+    {
+      "id": "quizzes_english_q9_8",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 9",
+      "question_number": 8,
+      "question": "The use of group technology decreases the number of operations in the production process.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correct_answers": [
+        "True"
+      ]
+    },
+    {
+      "id": "quizzes_english_q9_9",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 9",
+      "question_number": 9,
+      "question": "Production planning is concerned with:",
+      "options": [
+        "When the products should be completed",
+        "How many of each model",
+        "When to recall the products for service",
+        "Deciding what the selling price is",
+        "Deciding which products to make"
+      ],
+      "correct_answers": [
+        "When the products should be completed",
+        "How many of each model",
+        "Deciding which products to make"
+      ]
+    },
+    {
+      "id": "quizzes_english_q9_10",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 9",
+      "question_number": 10,
+      "question": "Which of the following statements is / are true?",
+      "options": [
+        "Aggregate production planning is used to convert master production schedule into an aggregate production plan.",
+        "Capacity planning refers to determining the quantity of products to be produced.",
+        "Master production planning is used to convert the aggregate production plan into a master production schedule."
+      ],
+      "correct_answers": [
+        "Master production planning is used to convert the aggregate production plan into a master production schedule."
+      ]
+    },
+    {
+      "id": "quizzes_english_q10_1",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 10",
+      "question_number": 1,
+      "question": "What type(s) of card(s) is/are used in Kanban systems?",
+      "options": [
+        "For the authorization of the production",
+        "For the authorization of the delivery",
+        "For the authorization of the quality control",
+        "For the authorization of the planning",
+        "Only one type used for both authorization and delivery of the production"
+      ],
+      "correct_answers": [
+        "For the authorization of the production",
+        "For the authorization of the delivery"
+      ]
+    },
+    {
+      "id": "quizzes_english_q10_2",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 10",
+      "question_number": 2,
+      "question": "Which of the following statements is / are correct regarding manufacturing resource planning (MRP II)?",
+      "options": [
+        "Inventories increase",
+        "Inventories decrease",
+        "Better collaboration with suppliers",
+        "Better collaboration with customers"
+      ],
+      "correct_answers": [
+        "Inventories decrease",
+        "Better collaboration with suppliers",
+        "Better collaboration with customers"
+      ]
+    },
+    {
+      "id": "quizzes_english_q10_3",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 10",
+      "question_number": 3,
+      "question": "Aggregate production planning deals with the allocation of human resources.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correct_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": "quizzes_english_q10_4",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 10",
+      "question_number": 4,
+      "question": "For the chain-type structure, the number of digits of the code is determined by the number of levels in the hierarchy.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correct_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": "quizzes_english_q10_5",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 10",
+      "question_number": 5,
+      "question": "Which of the following questions are considered in the decision to make or buy a product?",
+      "options": [
+        "What is the total production quantity?",
+        "What is the anticipated product life?",
+        "Is the process available in-house?",
+        "How do part costs compare?"
+      ],
+      "correct_answers": [
+        "What is the total production quantity?",
+        "What is the anticipated product life?",
+        "Is the process available in-house?",
+        "How do part costs compare?"
+      ]
+    },
+    {
+      "id": "quizzes_english_q10_6",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 10",
+      "question_number": 6,
+      "question": "Which of the following statements is / are correct?",
+      "options": [
+        "Order scheduling assigns the production orders to the various work centers in the plant.",
+        "Order scheduling monitors the status of the various orders in the plant.",
+        "Order scheduling provides the documentation needed to process a production order through the factory.",
+        "Order release provides the documentation needed to process a production order through the factory.",
+        "Order progress module monitors the status of the various orders in the plant."
+      ],
+      "correct_answers": [
+        "Order scheduling assigns the production orders to the various work centers in the plant.",
+        "Order release provides the documentation needed to process a production order through the factory.",
+        "Order progress module monitors the status of the various orders in the plant."
+      ]
+    },
+    {
+      "id": "quizzes_english_q10_7",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 10",
+      "question_number": 7,
+      "question": "If a manufacturing system can accommodate changes in production scheduling, what flexibility test does it pass?",
+      "options": [
+        "New part",
+        "Error recovery",
+        "Part variety",
+        "Schedule change"
+      ],
+      "correct_answers": [
+        "Schedule change"
+      ]
+    },
+    {
+      "id": "quizzes_english_q10_8",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 10",
+      "question_number": 8,
+      "question": "What is the correct order of the three phases of a typical shop floor control system: A. Order progress B. Order release C. Order scheduling",
+      "options": [
+        "B, C, A",
+        "B, A, C",
+        "C, A, B",
+        "C, B, A",
+        "A, B, C"
+      ],
+      "correct_answers": [
+        "B, C, A"
+      ]
+    },
+    {
+      "id": "quizzes_english_q10_9",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 10",
+      "question_number": 9,
+      "question": "In production planning and control, what types of inventory are of greatest interest?",
+      "options": [
+        "Purchased components",
+        "Work in process",
+        "Finished products",
+        "Raw materials"
+      ],
+      "correct_answers": [
+        "Purchased components",
+        "Work in process",
+        "Finished products",
+        "Raw materials"
+      ]
+    },
+    {
+      "id": "quizzes_english_q10_10",
+      "source_file": "quizzes_english.pdf",
+      "quiz": "Quiz 10",
+      "question_number": 10,
+      "question": "The Just-in-Time production system operates successfully if:",
+      "options": [
+        "The setup time of the production line is small",
+        "The production is made in large batch sizes",
+        "Equipment with high reliability are used",
+        "The setup time of each equipment of the production system is large",
+        "The products are produced in small size batches"
+      ],
+      "correct_answers": [
+        "The setup time of the production line is small",
+        "Equipment with high reliability are used",
+        "The products are produced in small size batches"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_001",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 1,
+      "quiz": null,
+      "question_number": null,
+      "question": "Traditional competition is:",
+      "options": [
+        "both internal and external challenge for a company.",
+        "not a challenge for a company.",
+        "an internal challenge for a company.",
+        "external challenge for a company."
+      ],
+      "correct_answers": [
+        "external challenge for a company."
+      ]
+    },
+    {
+      "id": "quizes_english_2025_002",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 1,
+      "quiz": null,
+      "question_number": null,
+      "question": "Batch size reduction leads to:",
+      "options": [
+        "decreased production costs in the case of classical manufacturing systems.",
+        "increased production costs in the case of CIM systems.",
+        "increased production costs in the case of classical manufacturing systems"
+      ],
+      "correct_answers": [
+        "increased production costs in the case of classical manufacturing systems"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_003",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 1,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following is/are not component(s) of a CIM system?",
+      "options": [
+        "CAD",
+        "CAN",
+        "CAQ",
+        "ERP"
+      ],
+      "correct_answers": [
+        "CAN"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_004",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 1,
+      "quiz": null,
+      "question_number": null,
+      "question": "Decreasing the distances between the machines of a production system usually:",
+      "options": [
+        "reduce the productivity",
+        "increase the setup time",
+        "increase the productivity",
+        "reduce the setup time"
+      ],
+      "correct_answers": [
+        "increase the productivity"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_005",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 2,
+      "quiz": null,
+      "question_number": null,
+      "question": "The smaller the manufacturing-space ratio, the less efficient the manufacturing system is.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_006",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 2,
+      "quiz": null,
+      "question_number": null,
+      "question": "CAM is used to control:",
+      "options": [
+        "the transport systems",
+        "the robots in a factory",
+        "the automated storage and retrieval systems",
+        "the machine tools"
+      ],
+      "correct_answers": [
+        "the machine tools",
+        "the robots in a factory",
+        "the transport systems",
+        "the automated storage and retrieval systems"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_007",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 2,
+      "quiz": null,
+      "question_number": null,
+      "question": "Work-in-process inventory is:",
+      "options": [
+        "safety stock",
+        "movement stock",
+        "anticipation stock",
+        "cycle stock"
+      ],
+      "correct_answers": [
+        "movement stock"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_008",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 3,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following statements is/are not true?",
+      "options": [
+        "The quality standards force the manufacturers to produce to certain standards IZI involving investments in quality assurance.",
+        "The quality standards offer a lower credibility on the market and a potential decrease in sales.",
+        "The quality standards offer a higher credibility on the market and a potential IZI decrease in sales.",
+        "The quality standards offer a higher credibility on the market and a potential increase in sales."
+      ],
+      "correct_answers": [
+        "The quality standards offer a lower credibility on the market and a potential decrease in sales.",
+        "The quality standards offer a higher credibility on the market and a potential decrease in sales."
+      ]
+    },
+    {
+      "id": "quizes_english_2025_009",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 3,
+      "quiz": null,
+      "question_number": null,
+      "question": "Setup time is not the time required to get a machine ready for production.",
+      "options": [
+        "false",
+        "true"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_010",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 3,
+      "quiz": null,
+      "question_number": null,
+      "question": "Computer integrated manufacturing involves?",
+      "options": [
+        "lower flexibility",
+        "larger stocks",
+        "higher production costs",
+        "better control of the production process"
+      ],
+      "correct_answers": [
+        "better control of the production process"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_011",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 4,
+      "quiz": null,
+      "question_number": null,
+      "question": "Computer Aided Process Planning (CAPP ):",
+      "options": [
+        "increases planning time",
+        "decreases human intervention",
+        "decreases flexibility"
+      ],
+      "correct_answers": [
+        "decreases human intervention"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_012",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 4,
+      "quiz": null,
+      "question_number": null,
+      "question": "The shortest manufacturing time is found in the production system of type:l/l",
+      "options": [
+        "repetitive",
+        "continuous",
+        "line",
+        "project",
+        "job shop"
+      ],
+      "correct_answers": [
+        "continuous"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_013",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 4,
+      "quiz": null,
+      "question_number": null,
+      "question": "A four stations production system can have:",
+      "options": [
+        "no routing",
+        "fixed routing",
+        "mixed routing",
+        "ariable routing"
+      ],
+      "correct_answers": [
+        "fixed routing",
+        "ariable routing",
+        "no routing",
+        "mixed routing"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_014",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 5,
+      "quiz": null,
+      "question_number": null,
+      "question": "What type of MS is used for producing chemical products?",
+      "options": [
+        "job shop",
+        "line",
+        "project",
+        "repetitive",
+        "continuous"
+      ],
+      "correct_answers": [
+        "continuous"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_015",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 5,
+      "quiz": null,
+      "question_number": null,
+      "question": "Assembling a product requires 10 minutes when it is done for the first time by a trained worker. The process will be repeated to make 10 products. If the learning rate is 85%, what will be the delivery time of the 100th product? (m-023, IOAm=O.59).",
+      "options": [
+        "2.85",
+        "59",
+        "5.9"
+      ],
+      "correct_answers": [
+        "5.9"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_016",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 5,
+      "quiz": null,
+      "question_number": null,
+      "question": "If the setup time of a manufacturing system increases:",
+      "options": [
+        "the productivity is not related to the setup time",
+        "the productivity increases",
+        "the productivity decreases"
+      ],
+      "correct_answers": [
+        "the productivity decreases"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_017",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 5,
+      "quiz": null,
+      "question_number": null,
+      "question": "The cycle stock exists when the sales are larger than the production.",
+      "options": [
+        "false",
+        "true"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_018",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 6,
+      "quiz": null,
+      "question_number": null,
+      "question": "The large batch production is not efficient in:",
+      "options": [
+        "modern manufacturing systems",
+        "classical manufacturing systems"
+      ],
+      "correct_answers": [
+        "modern manufacturing systems"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_019",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 6,
+      "quiz": null,
+      "question_number": null,
+      "question": "A project manufacturing system can be used if:",
+      "options": [
+        "the design drawings are simple",
+        "the customer is identified before production starts",
+        "the total time for production is short",
+        "products are complex"
+      ],
+      "correct_answers": [
+        "the customer is identified before production starts",
+        "products are complex"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_020",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 6,
+      "quiz": null,
+      "question_number": null,
+      "question": "Early detection of faults may increase significantly the production costs",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_021",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 7,
+      "quiz": null,
+      "question_number": null,
+      "question": "What is the best manufacturing strategy for a mature product whose demand can be forecasted?",
+      "options": [
+        "make to stock",
+        "engineering to order",
+        "make to order",
+        "assembly to order"
+      ],
+      "correct_answers": [
+        "make to stock"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_022",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 7,
+      "quiz": null,
+      "question_number": null,
+      "question": "Ina CIM system:",
+      "options": [
+        "the quality of the delivered products increases",
+        "the size of the production batches decreases",
+        "production costs increase",
+        "inventories decrease",
+        "production processes are better controlled"
+      ],
+      "correct_answers": [
+        "the quality of the delivered products increases",
+        "the size of the production batches decreases",
+        "inventories decrease",
+        "production processes are better controlled"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_023",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 7,
+      "quiz": null,
+      "question_number": null,
+      "question": "Make to stock strategy is used: on",
+      "options": [
+        "if the manufacturing lead time is more than the customer lead time",
+        "if the manufacturing lead time is less than the customer lead time",
+        "if the demand can be forecast accurately"
+      ],
+      "correct_answers": [
+        "if the demand can be forecast accurately",
+        "if the manufacturing lead time is more than the customer lead time"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_024",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 8,
+      "quiz": null,
+      "question_number": null,
+      "question": "Utilization of a facility depends on:",
+      "options": [
+        "the level of integration",
+        "actual quantity produced during a given period",
+        "mean time to repair",
+        "production capacity for a given period"
+      ],
+      "correct_answers": [
+        "actual quantity produced during a given period",
+        "production capacity for a given period"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_025",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 8,
+      "quiz": null,
+      "question_number": null,
+      "question": "According to J.T. Black, the price of parts and materials is not 50% of the selling price",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_026",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 8,
+      "quiz": null,
+      "question_number": null,
+      "question": "Work-in-process (WIP) is the quantity of parts or products:",
+      "options": [
+        "being processed",
+        "finished",
+        "delivered",
+        "being between processing operations"
+      ],
+      "correct_answers": [
+        "being processed",
+        "being between processing operations"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_027",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 8,
+      "quiz": null,
+      "question_number": null,
+      "question": "Enterprise resource planning (ERP) is efficient in CIM.",
+      "options": [
+        "false",
+        "true"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_028",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 9,
+      "quiz": null,
+      "question_number": null,
+      "question": "What is the meaning of the ratio quantity produced / production capacity?",
+      "options": [
+        "mean time between failures",
+        "it has no meaning",
+        "availability",
+        "utilization",
+        "average manufacturing lead time"
+      ],
+      "correct_answers": [
+        "utilization"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_029",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 9,
+      "quiz": null,
+      "question_number": null,
+      "question": "A factory produces mobile phones and tablet PCs. On the line that produces mobile phones 5 models with minor differences can be made. On the line that produces tablets PCs, 10 models with major differences are produced. What is the total amount of products made by the company, if 1000 phones of each model and 500 tablets PC of each model are produced?",
+      "options": [
+        "12500",
+        "1500",
+        "10000"
+      ],
+      "correct_answers": [
+        "10000"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_030",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 9,
+      "quiz": null,
+      "question_number": null,
+      "question": "An operation that joins two or more components to create a new entity is:",
+      "options": [
+        "a storage operation",
+        "a transport operation",
+        "an assembly operation",
+        "a processing operation"
+      ],
+      "correct_answers": [
+        "an assembly operation"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_031",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 10,
+      "quiz": null,
+      "question_number": null,
+      "question": "Quality assessment is more effective if done:",
+      "options": [
+        "at the beginning of the production cycle.",
+        "during the production cycle.",
+        "at the end of the production cycle"
+      ],
+      "correct_answers": [
+        "during the production cycle."
+      ]
+    },
+    {
+      "id": "quizes_english_2025_032",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 10,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following statements is / are not true?",
+      "options": [
+        "the costs associated with material handling must be as small as possible.",
+        "the costs associated with material handling must be a-s large as possible.",
+        "for moving the large and heavy components, autonomous guided vehicles are recommended."
+      ],
+      "correct_answers": [
+        "for moving the large and heavy components, autonomous guided vehicles are recommended."
+      ]
+    },
+    {
+      "id": "quizes_english_2025_033",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 10,
+      "quiz": null,
+      "question_number": null,
+      "question": "Global economy is an internal challenge for a company",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_034",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 10,
+      "quiz": null,
+      "question_number": null,
+      "question": "Guidance based on painted strips is the most indicated technology",
+      "options": [
+        "false",
+        "true"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_035",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 11,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following factors are considered when designing a material handling system?",
+      "options": [
+        "routing",
+        "plant layout",
+        "the material characteristics",
+        "flow rate",
+        "scheduling"
+      ],
+      "correct_answers": [
+        "routing",
+        "plant layout",
+        "the material characteristics",
+        "flow rate",
+        "scheduling"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_036",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 11,
+      "quiz": null,
+      "question_number": null,
+      "question": "In a vehicle based transport system the delivery cycle time depends on:",
+      "options": [
+        "unloading time",
+        "loading time",
+        "travel time"
+      ],
+      "correct_answers": [
+        "unloading time",
+        "loading time",
+        "travel time"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_037",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 11,
+      "quiz": null,
+      "question_number": null,
+      "question": "The setup time can be ignored in the case of:",
+      "options": [
+        "mass production systems",
+        "job shop production systems",
+        "project production system"
+      ],
+      "correct_answers": [
+        "mass production systems"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_038",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 11,
+      "quiz": null,
+      "question_number": null,
+      "question": "The cheapest technology for vehicle guidance is:",
+      "options": [
+        "paint stripes",
+        "self guided vehicles",
+        "imbedded guide wires"
+      ],
+      "correct_answers": [
+        "paint stripes"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_039",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 12,
+      "quiz": null,
+      "question_number": null,
+      "question": "To reduce the inventory levels:",
+      "options": [
+        "the residence time must decrease",
+        "the residence time must increase",
+        "the number of inventory turns must increase",
+        "the number of inventory turns must decreases"
+      ],
+      "correct_answers": [
+        "the residence time must decrease",
+        "the number of inventory turns must increase"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_040",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 12,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following statements is / are true?",
+      "options": [
+        "A part producer assemble parts.",
+        "A vertically integrated plant only produce the parts.",
+        "A pure assembly plant produce no part.",
+        "A vertically integrated plant only assembles the products."
+      ],
+      "correct_answers": [
+        "A pure assembly plant produce no part."
+      ]
+    },
+    {
+      "id": "quizes_english_2025_page13_asrs_capacity",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 13,
+      "quiz": null,
+      "question_number": null,
+      "question": "Each side of a two-aisle ASRS contains 10 storage compartments in the length direction and 10 compartments vertically. All storage compartments will be the same size to accommodate standard size pallets of dimensions: x = 1 m, y = 1 m. The height of a unit load is z = 1 m. What is the storage capacity of the ASRS?",
+      "options": [
+        "400",
+        "100",
+        "200",
+        "10"
+      ],
+      "correct_answers": [
+        "400"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_041",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 13,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following statements is / are true?",
+      "options": [
+        "Less total space is required in a storage system that uses dedicated storage.",
+        "Higher throughput can be achieved when a random storage strategy is implemented.",
+        "Less total space is required in a storage system that uses randomized storage.",
+        "Higher throughput can be achieved when a dedicated storage strategy is implemented."
+      ],
+      "correct_answers": [
+        "Less total space is required in a storage system that uses randomized storage.",
+        "Higher throughput can be achieved when a dedicated storage strategy is implemented."
+      ]
+    },
+    {
+      "id": "quizes_english_2025_042",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 13,
+      "quiz": null,
+      "question_number": null,
+      "question": "The setup time can be ignored when determining the operation cycle time for job shop production.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_043",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 14,
+      "quiz": null,
+      "question_number": null,
+      "question": "Each aisle of a two-aisle ASRS contains 5 storage compartments in the length direction and 5 compartments vertically. All storage compartments will be the same size to accommodate standard size pallets of dimensions: x -1 m, y-I m. The height of a unit load is m and the allowances are a=0.1 m, b=0.1 m, and c=0.1 m. What is the width of the ASRS?",
+      "options": [
+        "3.3",
+        "9.9",
+        "13.2",
+        "6.6"
+      ],
+      "correct_answers": [
+        "6.6"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_044",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 14,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following statements is / are true?",
+      "options": [
+        "The availability of ASRS is not a measure of its reliability.",
+        "In a storage system the accessibility increases as the density decreases.",
+        "In the case of an ASRS its robot arm moves to each basket"
+      ],
+      "correct_answers": [
+        "In a storage system the accessibility increases as the density decreases.",
+        "In the case of an ASRS its robot arm moves to each basket"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_045",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 14,
+      "quiz": null,
+      "question_number": null,
+      "question": "9/ The increase of the setup time increases the productivity of a manufacturing system.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_046",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 15,
+      "quiz": null,
+      "question_number": null,
+      "question": "Random storage strategy is more appropriate when:",
+      "options": [
+        "items are stored according to activity level",
+        "the throughput is not an essential factor to be considered",
+        "the storage capacity must be used at maximum",
+        "items are stored according to their activity-to-space ratio",
+        "items are stored in part number sequence"
+      ],
+      "correct_answers": [
+        "the throughput is not an essential factor to be considered",
+        "the storage capacity must be used at maximum"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_047",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 15,
+      "quiz": null,
+      "question_number": null,
+      "question": "What changes can be made to increase or decrease production capacity over long term?",
+      "options": [
+        "change the number of hours worked per shift",
+        "increase the production rate, by making improvements in methods or process technology",
+        "change the number of shifts per week",
+        "increase the number of work centers in the shop"
+      ],
+      "correct_answers": [
+        "increase the production rate, by making improvements in methods or process technology",
+        "increase the number of work centers in the shop"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_048",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 15,
+      "quiz": null,
+      "question_number": null,
+      "question": "The handling of materials must be performed:",
+      "options": [
+        "with no damage to the materials",
+        "accurately",
+        "safely",
+        "in a timely manner",
+        "efficiently",
+        "at high cost"
+      ],
+      "correct_answers": [
+        "with no damage to the materials",
+        "accurately",
+        "safely",
+        "in a timely manner",
+        "efficiently"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_049",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 16,
+      "quiz": null,
+      "question_number": null,
+      "question": "What is the meaning of the ratio production capacity / quantity produced?",
+      "options": [
+        "availability",
+        "mean time between failures",
+        "average manufacturing lead time",
+        "Utilization",
+        "it has no meaning"
+      ],
+      "correct_answers": [
+        "it has no meaning"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_050",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 17,
+      "quiz": null,
+      "question_number": null,
+      "question": "Usually in a storage system the accessibility increases as the density increases:",
+      "options": [
+        "accessibility and density are not interrelated",
+        "false",
+        "true"
+      ],
+      "correct_answers": [
+        "accessibility and density are not interrelated"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_051",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 17,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following associations is / are correct?",
+      "options": [
+        "polycode sequence monocode sequence",
+        "chain-type sequence polycode sequence",
+        "monocode sequence hierarchical sequence",
+        "hierarchical sequence <=> chain-type sequence"
+      ],
+      "correct_answers": [
+        "chain-type sequence polycode sequence",
+        "monocode sequence hierarchical sequence"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_052",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 17,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following associations is / are correct?",
+      "options": [
+        "production equipment machine groups",
+        "similar parts part cells",
+        "production equipment machine cells",
+        "similar parts part families"
+      ],
+      "correct_answers": [
+        "similar parts part families",
+        "production equipment <=> machine groups",
+        "production equipment <=> machine cells"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_053",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 18,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which encoding structure provides the highest information density?",
+      "options": [
+        "monocode",
+        "hybrid",
+        "none of the above",
+        "polycode"
+      ],
+      "correct_answers": [
+        "monocode"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_054",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 18,
+      "quiz": null,
+      "question_number": null,
+      "question": "The complexity of a product is given by:",
+      "options": [
+        "the number of components",
+        "the number of operations required for the sale"
+      ],
+      "correct_answers": [
+        "the number of components"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_055",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 18,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following are specific to mass production systems?",
+      "options": [
+        "cheap products",
+        "simple",
+        "complex products",
+        "expensive products",
+        "complex drawings",
+        "simple drawings"
+      ],
+      "correct_answers": [
+        "simple",
+        "simple drawings",
+        "cheap products"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_056",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 19,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following statements is / are true when the work flow in the cell is analyzed:",
+      "options": [
+        "PIM should be as low as possible",
+        "PBM should be as low as possible",
+        "PIM should be as high as possible",
+        "PBM should be as high as possible"
+      ],
+      "correct_answers": [
+        "PBM should be as low as possible",
+        "PIM should be as high as possible"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_057",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 19,
+      "quiz": null,
+      "question_number": null,
+      "question": "The use of group technology: In",
+      "options": [
+        "reduces the work-in-process",
+        "increases the setup time.",
+        "reduces the manufacturing lead time.",
+        "increases the number of operations in the production process.",
+        "reduces the number of operations in the production process."
+      ],
+      "correct_answers": [
+        "reduces the work-in-process",
+        "reduces the manufacturing lead time.",
+        "reduces the number of operations in the production process."
+      ]
+    },
+    {
+      "id": "quizes_english_2025_058",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 19,
+      "quiz": null,
+      "question_number": null,
+      "question": "What is the number of levels required to represent the characteristics ofa product, if a 4 digits polycode structure is considered?",
+      "options": [
+        "there is no multilevel representation"
+      ],
+      "correct_answers": [
+        "there is no multilevel representation"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_059",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 20,
+      "quiz": null,
+      "question_number": null,
+      "question": "Dedicated storage is used when products are not stored according to the level of activity.",
+      "options": [
+        "false",
+        "true"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_060",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 21,
+      "quiz": null,
+      "question_number": null,
+      "question": "A processing operation:",
+      "options": [
+        "joins two or more components to create a new entity.",
+        "transforms a work material from one state of completion to a more advanced state that is closer to the final desired part or product"
+      ],
+      "correct_answers": [
+        "transforms a work material from one state of completion to a more advanced state that is closer to the final desired part or product"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_061",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 21,
+      "quiz": null,
+      "question_number": null,
+      "question": "The bottleneck station is:",
+      "options": [
+        "the station with the lowest utilization.",
+        "the station with the highest workload per server",
+        "the station with the smallest workload per server",
+        "the station with the highest utilization."
+      ],
+      "correct_answers": [
+        "the station with the highest utilization.",
+        "the station with the highest workload per server"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_062",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 21,
+      "quiz": null,
+      "question_number": null,
+      "question": "A dedicated flexible manufacturing system:",
+      "options": [
+        "is designed to produce a limited variety of part styles",
+        "is more appropriate when the part family is large",
+        "all the part styles to be made on the system is known in advance."
+      ],
+      "correct_answers": [
+        "is designed to produce a limited variety of part styles",
+        "all the part styles to be made on the system is known in advance."
+      ]
+    },
+    {
+      "id": "quizes_english_2025_063",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 21,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following are specific to project - type production systems?",
+      "options": [
+        "high volume",
+        "the design drawings are complex",
+        "the lead time is long",
+        "noncomplex products"
+      ],
+      "correct_answers": [
+        "the design drawings are complex",
+        "the lead time is long"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_064",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 22,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following is used when material must be moved in relatively large quantities between specific locations over a fixed path?",
+      "options": [
+        "AGVs",
+        "cranes and pulleys",
+        "conveyor systems"
+      ],
+      "correct_answers": [
+        "conveyor systems"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_065",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 22,
+      "quiz": null,
+      "question_number": null,
+      "question": "In CIM, manufacturing batch size reduction leads to increased production costs.",
+      "options": [
+        "false",
+        "true"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_066",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 22,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following is / are related to the new part test?",
+      "options": [
+        "Can the system process different part styles in a non batch mode?",
+        "Can the system accept changes in production scheduling?",
+        "Can the system recover from equipment malfunctions without complete disruption of production?",
+        "Can new part designs be introduced into the existing product mix with relative ease?"
+      ],
+      "correct_answers": [
+        "Can new part designs be introduced into the existing product mix with relative ease?"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_067",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 22,
+      "quiz": null,
+      "question_number": null,
+      "question": "In a flexible manufacturing system:",
+      "options": [
+        "manufacturing lead time increases.",
+        "fewer machines are required.",
+        "direct labor requirements are reduced.",
+        "the responsiveness to change is lower"
+      ],
+      "correct_answers": [
+        "fewer machines are required.",
+        "direct labor requirements are reduced."
+      ]
+    },
+    {
+      "id": "quizes_english_2025_068",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 23,
+      "quiz": null,
+      "question_number": null,
+      "question": "To be flexible a manufacturing system must:",
+      "options": [
+        "quick changeover the operating instructions",
+        "quick changeover the physical price",
+        "distinguish different part or product styles"
+      ],
+      "correct_answers": [
+        "quick changeover the operating instructions",
+        "distinguish different part or product styles"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_069",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 23,
+      "quiz": null,
+      "question_number": null,
+      "question": "Dedicated storage is used when:",
+      "options": [
+        "items are stored in part number or product number sequence",
+        "items are stored according to their activity-to-space ratios",
+        "items are not stored according to activity level,"
+      ],
+      "correct_answers": [
+        "items are stored in part number or product number sequence",
+        "items are stored according to their activity-to-space ratios"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_070",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 24,
+      "quiz": null,
+      "question_number": null,
+      "question": "The design of a material handling system does not depend on the type of manufacturing system where it is embedded",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_071",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 24,
+      "quiz": null,
+      "question_number": null,
+      "question": "Design for life cycle refers to the product during the manufacturing and includes factors ranging from product delivery to product disposal.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_072",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 24,
+      "quiz": null,
+      "question_number": null,
+      "question": "What type(s) of design is/are related to the concurrent engineering?",
+      "options": [
+        "design for life cycle",
+        "design for cost",
+        "design for quality",
+        "design for selling"
+      ],
+      "correct_answers": [
+        "design for life cycle",
+        "design for cost",
+        "design for quality"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_073",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 25,
+      "quiz": null,
+      "question_number": null,
+      "question": "Bottleneck station is the station with:",
+      "options": [
+        "the average workload per server",
+        "the highest workload per server",
+        "the lowest workload per server"
+      ],
+      "correct_answers": [
+        "the highest workload per server"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_074",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 25,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following are related to the use of CAPP?",
+      "options": [
+        "lead time decreases",
+        "lead time increases",
+        "productivity increases",
+        "processes are standardized"
+      ],
+      "correct_answers": [
+        "lead time decreases",
+        "productivity increases",
+        "processes are standardized"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_075",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 26,
+      "quiz": null,
+      "question_number": null,
+      "question": "Processes Planning is always made automatically in a company.",
+      "options": [
+        "false",
+        "true"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_076",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 26,
+      "quiz": null,
+      "question_number": null,
+      "question": "The maximum production rate of all parts is the maximum production rate of the bottleneck station.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_077",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 26,
+      "quiz": null,
+      "question_number": null,
+      "question": "An FMS needs less time than a classical manufacturing system to adapt to a new product.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_078",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 27,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following statements is / are correct?",
+      "options": [
+        "Order scheduling assigns the production orders to the various work centers in the plant.",
+        "Order progress module monitors the status of the various orders in the plant.",
+        "Order release provides the documentation needed to process a production order through the factory"
+      ],
+      "correct_answers": [
+        "Order scheduling assigns the production orders to the various work centers in the plant.",
+        "Order progress module monitors the status of the various orders in the plant.",
+        "Order release provides the documentation needed to process a production order through the factory."
+      ]
+    },
+    {
+      "id": "quizes_english_2025_079",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 27,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following statements is / are not correct regarding manufacturing resource planning (MRP II)?",
+      "options": [
+        "inventories increase",
+        "inventories decrease",
+        "better collaboration with suppliers",
+        "better collaboration with customers"
+      ],
+      "correct_answers": [
+        "inventories increase"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_080",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 27,
+      "quiz": null,
+      "question_number": null,
+      "question": "In production planning and control, what types of inventory are of greatest interest?",
+      "options": [
+        "finished products",
+        "COmponents sold",
+        "work in process",
+        "raw materials"
+      ],
+      "correct_answers": [
+        "raw materials",
+        "work in process",
+        "finished products"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_081",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 28,
+      "quiz": null,
+      "question_number": null,
+      "question": "Master production planning deals with the allocation of human resources.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_082",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 28,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following questions are considered in the decision to make or buy a product?",
+      "options": [
+        "What is the anticipated product life?",
+        "Is the process available in-house?",
+        "What is the total production quantity?",
+        "How do part costs compare?"
+      ],
+      "correct_answers": [
+        "What is the anticipated product life?",
+        "Is the process available in-house?",
+        "What is the total production quantity?",
+        "How do part costs compare?"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_083",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 29,
+      "quiz": null,
+      "question_number": null,
+      "question": "What type(s) of card(s) is/are used in Kanban systems?",
+      "options": [
+        "for the authorization of the planning",
+        "for the authorization of the quality control",
+        "for the authorization of the delivery",
+        "only one type used for both authorization and delivery of the production",
+        "for the authorization of the production"
+      ],
+      "correct_answers": [
+        "for the authorization of the delivery",
+        "for the authorization of the production"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_084",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 29,
+      "quiz": null,
+      "question_number": null,
+      "question": "For the polycode structure, the number of digits of the code is determined by the number of levels in the hierarchy.",
+      "options": [
+        "false",
+        "true"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_085",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 30,
+      "quiz": null,
+      "question_number": null,
+      "question": "If a manufacturing system must process different part styles in a non batch mode what flexibility test does it pass?",
+      "options": [
+        "schedule change",
+        "new part",
+        "error recovery",
+        "part variety"
+      ],
+      "correct_answers": [
+        "part variety"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_086",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 30,
+      "quiz": null,
+      "question_number": null,
+      "question": "The Just-in-Time production system operates successfully if:",
+      "options": [
+        "the setup time of the production line is small",
+        "the setup time of the production line is large",
+        "the production is made in large size batches",
+        "the production is made in small size batches",
+        "equipment with high reliability are not used"
+      ],
+      "correct_answers": [
+        "the setup time of the production line is small",
+        "the production is made in small size batches"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_087",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 31,
+      "quiz": null,
+      "question_number": null,
+      "question": "In the case of chase production strategy:",
+      "options": [
+        "the number of hours worked is constant",
+        "the number of employees is variable.",
+        "the number of employees is constant.",
+        "the number of hours worked is variable."
+      ],
+      "correct_answers": [
+        "the number of employees is variable.",
+        "the number of hours worked is variable."
+      ]
+    },
+    {
+      "id": "quizes_english_2025_088",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 31,
+      "quiz": null,
+      "question_number": null,
+      "question": "House of quality transforms the customer requirements in characteristics of the manufactured products",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_089",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 31,
+      "quiz": null,
+      "question_number": null,
+      "question": "In classical production systems, manufacturing batch size reduction leads to increased production costs.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_090",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 31,
+      "quiz": null,
+      "question_number": null,
+      "question": "Modern Quality Control focuses on inspection of the products:",
+      "options": [
+        "during the production process",
+        "only at the beginning of the production process",
+        "after they are produced"
+      ],
+      "correct_answers": [
+        "during the production process"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_091",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 32,
+      "quiz": null,
+      "question_number": null,
+      "question": "In the case of \"Just-in-Time manufacturing systems, inventories represented by WIP are zero:",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_092",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 32,
+      "quiz": null,
+      "question_number": null,
+      "question": "Which of the following inspection techniques is most suitable for a production line that produces toothbrushes?",
+      "options": [
+        "acceptance sampling by lots",
+        "inspection"
+      ],
+      "correct_answers": [
+        "acceptance sampling by lots"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_093",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 32,
+      "quiz": null,
+      "question_number": null,
+      "question": "Quality can not be defined as the degree of excellence of a product.",
+      "options": [
+        "false",
+        "true"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_094",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 32,
+      "quiz": null,
+      "question_number": null,
+      "question": "The quality of a product can be assessed based on its: on",
+      "options": [
+        "Performance",
+        "features",
+        "durability",
+        "serviceability",
+        "aesthetic appeal"
+      ],
+      "correct_answers": [
+        "performance",
+        "features",
+        "serviceability",
+        "aesthetic appeal",
+        "durability"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_095",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 33,
+      "quiz": null,
+      "question_number": null,
+      "question": "What tests should pass a manufacturing system to be considered flexible?",
+      "options": [
+        "part variety test",
+        "error recovery test",
+        "new part test",
+        "costs test",
+        "productivity test"
+      ],
+      "correct_answers": [
+        "part variety test",
+        "error recovery test",
+        "new part test"
+      ]
+    },
+    {
+      "id": "quizes_english_2025_096",
+      "source_file": "Quizes_English_2025.pdf",
+      "source_page": 33,
+      "quiz": null,
+      "question_number": null,
+      "question": "Traditional quality control (QC):",
+      "options": [
+        "is performed fully automated",
+        "is performed only before the product is manufactured",
+        "involves the use of statistical quality control techniques",
+        "is performed for each step of the production process",
+        "is the responsibility of the inspection department"
+      ],
+      "correct_answers": [
+        "is the responsibility of the inspection department",
+        "involves the use of statistical quality control techniques"
+      ]
+    },
+    {
+      "id": "quiz_11_01",
+      "source_file": "QUIZ 11.png",
+      "source_page": null,
+      "quiz": "QUIZ 11",
+      "question_number": 1,
+      "question": "Which of the following are dimensions of the quality?",
+      "options": [
+        "reliability",
+        "conformance",
+        "serviceability",
+        "cost",
+        "aesthetic appeal"
+      ],
+      "correct_answers": [
+        "reliability",
+        "conformance",
+        "serviceability",
+        "aesthetic appeal"
+      ]
+    },
+    {
+      "id": "quiz_11_02",
+      "source_file": "QUIZ 11.png",
+      "source_page": null,
+      "quiz": "QUIZ 11",
+      "question_number": 2,
+      "question": "What tests should pass a manufacturing system to be considered flexible?",
+      "options": [
+        "productivity test",
+        "costs test",
+        "part variety test",
+        "new part test",
+        "error recovery test"
+      ],
+      "correct_answers": [
+        "part variety test",
+        "new part test",
+        "error recovery test"
+      ]
+    },
+    {
+      "id": "quiz_11_03",
+      "source_file": "QUIZ 11.png",
+      "source_page": null,
+      "quiz": "QUIZ 11",
+      "question_number": 3,
+      "question": "Modern Quality Control focuses on inspection of the products:",
+      "options": [
+        "after they are produced",
+        "only at the beginning of the production process",
+        "during the production process"
+      ],
+      "correct_answers": [
+        "during the production process"
+      ]
+    },
+    {
+      "id": "quiz_11_04",
+      "source_file": "QUIZ 11.png",
+      "source_page": null,
+      "quiz": "QUIZ 11",
+      "question_number": 4,
+      "question": "In the case of level production strategy:",
+      "options": [
+        "the number of employees is constant.",
+        "the number of hours worked is constant.",
+        "the number of employees is variable.",
+        "the number of hours worked is variable."
+      ],
+      "correct_answers": [
+        "the number of employees is constant.",
+        "the number of hours worked is constant."
+      ]
+    },
+    {
+      "id": "quiz_11_05",
+      "source_file": "QUIZ 11.png",
+      "source_page": null,
+      "quiz": "QUIZ 11",
+      "question_number": 5,
+      "question": "Which of the following are specific to traditional quality control (QC)?",
+      "options": [
+        "is the responsibility of the inspection department",
+        "is performed fully automated",
+        "is performed only after the product has been manufactured",
+        "is performed for each step of the production process",
+        "statistical quality control techniques are used"
+      ],
+      "correct_answers": [
+        "is the responsibility of the inspection department",
+        "is performed only after the product has been manufactured",
+        "statistical quality control techniques are used"
+      ]
+    },
+    {
+      "id": "quiz_11_06",
+      "source_file": "QUIZ 11.png",
+      "source_page": null,
+      "quiz": "QUIZ 11",
+      "question_number": 6,
+      "question": "Quality can be defined as the degree of satisfaction of customer requirements.",
+      "options": [
+        "false",
+        "true"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "quiz_11_07",
+      "source_file": "QUIZ 11.png",
+      "source_page": null,
+      "quiz": "QUIZ 11",
+      "question_number": 7,
+      "question": "In CIM, manufacturing batch size reduction leads to increased production costs.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quiz_11_08",
+      "source_file": "QUIZ 11.png",
+      "source_page": null,
+      "quiz": "QUIZ 11",
+      "question_number": 8,
+      "question": "What are the advantages of TQM?",
+      "options": [
+        "increasing consumer satisfaction",
+        "constantly improving the quality of products and services",
+        "increasing productivity"
+      ],
+      "correct_answers": [
+        "increasing consumer satisfaction",
+        "constantly improving the quality of products and services",
+        "increasing productivity"
+      ]
+    },
+    {
+      "id": "quiz_11_09",
+      "source_file": "QUIZ 11.png",
+      "source_page": null,
+      "quiz": "QUIZ 11",
+      "question_number": 9,
+      "question": "In the case of \"Just-in-Time\" manufacturing systems, inventories represented by WIP are:",
+      "options": [
+        "zero",
+        "non-zero"
+      ],
+      "correct_answers": [
+        "non-zero"
+      ]
+    },
+    {
+      "id": "quiz_11_10",
+      "source_file": "QUIZ 11.png",
+      "source_page": null,
+      "quiz": "QUIZ 11",
+      "question_number": 10,
+      "question": "The durability of a product is defined as the life of the product until the first failure.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "quiz_12_01",
+      "source_file": "QUIZ 12.png",
+      "source_page": null,
+      "quiz": "QUIZ 12",
+      "question_number": 1,
+      "question": "Which of the following statements is / are true?",
+      "options": [
+        "There are no companies who by their activity have no impact on the environment.",
+        "There are companies who by their activity have no impact on the environment."
+      ],
+      "correct_answers": [
+        "There are no companies who by their activity have no impact on the environment."
+      ]
+    },
+    {
+      "id": "quiz_12_02",
+      "source_file": "QUIZ 12.png",
+      "source_page": null,
+      "quiz": "QUIZ 12",
+      "question_number": 2,
+      "question": "How can a green product be manufactured?",
+      "options": [
+        "increasing the number of materials",
+        "increasing the efficiency of production processes",
+        "using renewable materials",
+        "reducing the life cycle of the product"
+      ],
+      "correct_answers": [
+        "increasing the efficiency of production processes",
+        "using renewable materials"
+      ]
+    },
+    {
+      "id": "quiz_12_03",
+      "source_file": "QUIZ 12.png",
+      "source_page": null,
+      "quiz": "QUIZ 12",
+      "question_number": 3,
+      "question": "In sustainable manufacturing the focus is on:",
+      "options": [
+        "making products using more materials",
+        "avoid using risk materials",
+        "reducing waste in the manufacturing process"
+      ],
+      "correct_answers": [
+        "avoid using risk materials",
+        "reducing waste in the manufacturing process"
+      ]
+    },
+    {
+      "id": "quiz_12_04",
+      "source_file": "QUIZ 12.png",
+      "source_page": null,
+      "quiz": "QUIZ 12",
+      "question_number": 4,
+      "question": "Lean and clean manufacturing objectives are:",
+      "options": [
+        "to eliminate or reduce those activities that do not add value to a product.",
+        "to increase the number of material used",
+        "to increase the number of packages for a product.",
+        "to eliminate or reduce the environmental impact."
+      ],
+      "correct_answers": [
+        "to eliminate or reduce those activities that do not add value to a product.",
+        "to eliminate or reduce the environmental impact."
+      ]
+    },
+    {
+      "id": "quiz_12_05",
+      "source_file": "QUIZ 12.png",
+      "source_page": null,
+      "quiz": "QUIZ 12",
+      "question_number": 5,
+      "question": "Which of the following is / are example(s) of clean technologies?",
+      "options": [
+        "solid waste management",
+        "wastewater treatment",
+        "recycling",
+        "the use of wind turbines",
+        "the use of asbestos panels"
+      ],
+      "correct_answers": [
+        "solid waste management",
+        "wastewater treatment",
+        "recycling",
+        "the use of wind turbines"
+      ]
+    },
+    {
+      "id": "quiz_12_06",
+      "source_file": "QUIZ 12.png",
+      "source_page": null,
+      "quiz": "QUIZ 12",
+      "question_number": 6,
+      "question": "Sustainability requires a balance between:",
+      "options": [
+        "people",
+        "environment",
+        "profitability"
+      ],
+      "correct_answers": [
+        "people",
+        "environment",
+        "profitability"
+      ]
+    },
+    {
+      "id": "quiz_12_07",
+      "source_file": "QUIZ 12.png",
+      "source_page": null,
+      "quiz": "QUIZ 12",
+      "question_number": 7,
+      "question": "Sustainability assurance is:",
+      "options": [
+        "a journey for any company.",
+        "a destination for any company."
+      ],
+      "correct_answers": [
+        "a journey for any company."
+      ]
+    },
+    {
+      "id": "quiz_12_08",
+      "source_file": "QUIZ 12.png",
+      "source_page": null,
+      "quiz": "QUIZ 12",
+      "question_number": 8,
+      "question": "A green product is:",
+      "options": [
+        "a product designed to increase its environmental impact.",
+        "a product colored in brown",
+        "a product designed to reduce its environmental impact.",
+        "a product colored in green"
+      ],
+      "correct_answers": [
+        "a product designed to reduce its environmental impact."
+      ]
+    },
+    {
+      "id": "quiz_12_09",
+      "source_file": "QUIZ 12.png",
+      "source_page": null,
+      "quiz": "QUIZ 12",
+      "question_number": 9,
+      "question": "Which of the following statements is / are true?",
+      "options": [
+        "Utilization of non-renewable materials must increase to reduce waste.",
+        "The energy consumed per unit of product, according to the principles of sustainability, can be increased if it comes from renewable sources.",
+        "Clean manufacturing ensures responsible use of energy.",
+        "In lean manufacturing there is overproduction."
+      ],
+      "correct_answers": [
+        "Clean manufacturing ensures responsible use of energy."
+      ]
+    },
+    {
+      "id": "quiz_12_10",
+      "source_file": "QUIZ 12.png",
+      "source_page": null,
+      "quiz": "QUIZ 12",
+      "question_number": 10,
+      "question": "The industrial ecology focuses on:",
+      "options": [
+        "reducing pollution",
+        "identifying inefficiencies and losses in manufacturing processes",
+        "preventing pollution"
+      ],
+      "correct_answers": [
+        "identifying inefficiencies and losses in manufacturing processes",
+        "preventing pollution"
+      ]
+    },
+    {
+      "id": "course_c1_line158",
+      "source_file": "cim courses/C1_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C1_unlocked.txt",
+      "source_line": 158,
+      "course": "C1",
+      "quiz": "C1 Self Assessment",
+      "question_number": 1,
+      "question": "Partnerships and alliances are external challenges for a company.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c1_line162",
+      "source_file": "cim courses/C1_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C1_unlocked.txt",
+      "source_line": 162,
+      "course": "C1",
+      "quiz": "C1 Self Assessment",
+      "question_number": 2,
+      "question": "The results of a production process are not only finite products.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c1_line256",
+      "source_file": "cim courses/C1_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C1_unlocked.txt",
+      "source_line": 256,
+      "course": "C1",
+      "quiz": "C1 Self Assessment",
+      "question_number": 1,
+      "question": "The increase of flexibility in a manufacturing system, involves, usually, additional cost.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c1_line260",
+      "source_file": "cim courses/C1_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C1_unlocked.txt",
+      "source_line": 260,
+      "course": "C1",
+      "quiz": "C1 Self Assessment",
+      "question_number": 2,
+      "question": "The anticipation stock is not a safety stock.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c1_line262",
+      "source_file": "cim courses/C1_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C1_unlocked.txt",
+      "source_line": 262,
+      "course": "C1",
+      "quiz": "C1 Self Assessment",
+      "question_number": 3,
+      "question": "The smaller the space-manufacturing ratio, the more efficient the manufacturing system is.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c1_line270",
+      "source_file": "cim courses/C1_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C1_unlocked.txt",
+      "source_line": 270,
+      "course": "C1",
+      "quiz": "C1 Self Assessment",
+      "question_number": 5,
+      "question": "The production is smaller if a machine availability is larger.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c1_line386",
+      "source_file": "cim courses/C1_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C1_unlocked.txt",
+      "source_line": 386,
+      "course": "C1",
+      "quiz": "C1 Self Assessment",
+      "question_number": 1,
+      "question": "CAD increases design time.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c1_line388",
+      "source_file": "cim courses/C1_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C1_unlocked.txt",
+      "source_line": 388,
+      "course": "C1",
+      "quiz": "C1 Self Assessment",
+      "question_number": 2,
+      "question": "CAE is used in various systems simulation.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c1_line390",
+      "source_file": "cim courses/C1_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C1_unlocked.txt",
+      "source_line": 390,
+      "course": "C1",
+      "quiz": "C1 Self Assessment",
+      "question_number": 3,
+      "question": "CAM uses the computer for several processes.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c1_line392",
+      "source_file": "cim courses/C1_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C1_unlocked.txt",
+      "source_line": 392,
+      "course": "C1",
+      "quiz": "C1 Self Assessment",
+      "question_number": 4,
+      "question": "CAPP decreases the process planning time.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c1_line452",
+      "source_file": "cim courses/C1_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C1_unlocked.txt",
+      "source_line": 452,
+      "course": "C1",
+      "quiz": "C1 Self Assessment",
+      "question_number": 1,
+      "question": "Quality assessment is more effective if done during the production cycle.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c1_line456",
+      "source_file": "cim courses/C1_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C1_unlocked.txt",
+      "source_line": 456,
+      "course": "C1",
+      "quiz": "C1 Self Assessment",
+      "question_number": 2,
+      "question": "Production control involves also the inventory control.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c1_line458",
+      "source_file": "cim courses/C1_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C1_unlocked.txt",
+      "source_line": 458,
+      "course": "C1",
+      "quiz": "C1 Self Assessment",
+      "question_number": 3,
+      "question": "Production planning does not involve the labor planning.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c1_line464",
+      "source_file": "cim courses/C1_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C1_unlocked.txt",
+      "source_line": 464,
+      "course": "C1",
+      "quiz": "C1 Self Assessment",
+      "question_number": 5,
+      "question": "Databases are the binding agents between different departments of a company.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c2_line176",
+      "source_file": "cim courses/C2_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C2_unlocked.txt",
+      "source_line": 176,
+      "course": "C2",
+      "quiz": "C2 Self Assessment",
+      "question_number": 1,
+      "question": "In any production system the human resource is present.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c2_line179",
+      "source_file": "cim courses/C2_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C2_unlocked.txt",
+      "source_line": 179,
+      "course": "C2",
+      "quiz": "C2 Self Assessment",
+      "question_number": 2,
+      "question": "A rocket requires a job shop-type manufacturing system.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c2_line181",
+      "source_file": "cim courses/C2_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C2_unlocked.txt",
+      "source_line": 181,
+      "course": "C2",
+      "quiz": "C2 Self Assessment",
+      "question_number": 3,
+      "question": "Bread production requires a job shop-type manufacturing system.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c2_line185",
+      "source_file": "cim courses/C2_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C2_unlocked.txt",
+      "source_line": 185,
+      "course": "C2",
+      "quiz": "C2 Self Assessment",
+      "question_number": 4,
+      "question": "A car requires a line manufacturing system.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c2_line390",
+      "source_file": "cim courses/C2_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C2_unlocked.txt",
+      "source_line": 390,
+      "course": "C2",
+      "quiz": "C2 Self Assessment",
+      "question_number": 1,
+      "question": "In a two workstation manufacturing system, the routings may be fixed or variable.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c2_line394",
+      "source_file": "cim courses/C2_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C2_unlocked.txt",
+      "source_line": 394,
+      "course": "C2",
+      "quiz": "C2 Self Assessment",
+      "question_number": 2,
+      "question": "In a production system with more than two workstations, the routings can be fixed or variable.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c2_line397",
+      "source_file": "cim courses/C2_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C2_unlocked.txt",
+      "source_line": 397,
+      "course": "C2",
+      "quiz": "C2 Self Assessment",
+      "question_number": 3,
+      "question": "A flexible manufacturing system is a system with one automated workstation with variable routings.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c2_line401",
+      "source_file": "cim courses/C2_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C2_unlocked.txt",
+      "source_line": 401,
+      "course": "C2",
+      "quiz": "C2 Self Assessment",
+      "question_number": 4,
+      "question": "A flexible manufacturing system is a system with multiple automated workstation with fixed routings.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c2_line404",
+      "source_file": "cim courses/C2_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C2_unlocked.txt",
+      "source_line": 404,
+      "course": "C2",
+      "quiz": "C2 Self Assessment",
+      "question_number": 5,
+      "question": "The learning curve occurs when the time to perform a given operation decreases with the number of repetitions of the same operation.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c3_line160",
+      "source_file": "cim courses/C3_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C3_unlocked.txt",
+      "source_line": 160,
+      "course": "C3",
+      "quiz": "C3 Self Assessment",
+      "question_number": 2,
+      "question": "A vertically integrated plant only assembles the products.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c3_line162",
+      "source_file": "cim courses/C3_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C3_unlocked.txt",
+      "source_line": 162,
+      "course": "C3",
+      "quiz": "C3 Self Assessment",
+      "question_number": 3,
+      "question": "The complexity of a product is given by the number of components or the number of operations needed for manufacturing.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c3_line320",
+      "source_file": "cim courses/C3_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C3_unlocked.txt",
+      "source_line": 320,
+      "course": "C3",
+      "quiz": "C3 Self Assessment",
+      "question_number": 1,
+      "question": "The operation cycle time is the actual processing time.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c3_line325",
+      "source_file": "cim courses/C3_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C3_unlocked.txt",
+      "source_line": 325,
+      "course": "C3",
+      "quiz": "C3 Self Assessment",
+      "question_number": 3,
+      "question": "Production capacity increases when the production rate increases.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c3_line329",
+      "source_file": "cim courses/C3_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C3_unlocked.txt",
+      "source_line": 329,
+      "course": "C3",
+      "quiz": "C3 Self Assessment",
+      "question_number": 4,
+      "question": "For quantity type mass production, in the calculation of the operation cycle time, the system setup time must be included.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c3_line332",
+      "source_file": "cim courses/C3_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C3_unlocked.txt",
+      "source_line": 332,
+      "course": "C3",
+      "quiz": "C3 Self Assessment",
+      "question_number": 5,
+      "question": "For the flow line mass production, the maximum operation time of all stations on the line is included in the calculation of the cycle time.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c3_line601",
+      "source_file": "cim courses/C3_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C3_unlocked.txt",
+      "source_line": 601,
+      "course": "C3",
+      "quiz": "C3 Self Assessment",
+      "question_number": 1,
+      "question": "Utilization of a machine is not equivalent with the availability of a machine.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c3_line605",
+      "source_file": "cim courses/C3_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C3_unlocked.txt",
+      "source_line": 605,
+      "course": "C3",
+      "quiz": "C3 Self Assessment",
+      "question_number": 2,
+      "question": "Work-in-process are the components or products ready for delivery.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c3_line612",
+      "source_file": "cim courses/C3_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C3_unlocked.txt",
+      "source_line": 612,
+      "course": "C3",
+      "quiz": "C3 Self Assessment",
+      "question_number": 4,
+      "question": "Assemble to order is applied for the production of a car.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c3_line614",
+      "source_file": "cim courses/C3_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C3_unlocked.txt",
+      "source_line": 614,
+      "course": "C3",
+      "quiz": "C3 Self Assessment",
+      "question_number": 5,
+      "question": "Make to order is applied when the demand can't be predicted.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c4_line209",
+      "source_file": "cim courses/C4_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C4_unlocked.txt",
+      "source_line": 209,
+      "course": "C4",
+      "quiz": "C4 Self Assessment",
+      "question_number": 1,
+      "question": "The costs associated with material handling must be as large as possible.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c4_line213",
+      "source_file": "cim courses/C4_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C4_unlocked.txt",
+      "source_line": 213,
+      "course": "C4",
+      "quiz": "C4 Self Assessment",
+      "question_number": 2,
+      "question": "The design of a material handling system depends on the type of manufacturing system where it is embedded.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c4_line216",
+      "source_file": "cim courses/C4_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C4_unlocked.txt",
+      "source_line": 216,
+      "course": "C4",
+      "quiz": "C4 Self Assessment",
+      "question_number": 3,
+      "question": "For moving the large and heavy components, autonomous guided vehicles are recommended.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c4_line604",
+      "source_file": "cim courses/C4_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C4_unlocked.txt",
+      "source_line": 604,
+      "course": "C4",
+      "quiz": "C4 Self Assessment",
+      "question_number": 1,
+      "question": "The \"flow diagram\" is a graphical method used to analyse transportation systems.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c4_line608",
+      "source_file": "cim courses/C4_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C4_unlocked.txt",
+      "source_line": 608,
+      "course": "C4",
+      "quiz": "C4 Self Assessment",
+      "question_number": 2,
+      "question": "The cycle time for delivery, in the case of transport systems based on vehicles, depends on the speed of vehicles.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c4_line611",
+      "source_file": "cim courses/C4_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C4_unlocked.txt",
+      "source_line": 611,
+      "course": "C4",
+      "quiz": "C4 Self Assessment",
+      "question_number": 3,
+      "question": "The number of vehicles required into a transport system depends on the vehicles availability.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c4_line615",
+      "source_file": "cim courses/C4_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C4_unlocked.txt",
+      "source_line": 615,
+      "course": "C4",
+      "quiz": "C4 Self Assessment",
+      "question_number": 4,
+      "question": "Recirculating conveyors are not the most efficient transport systems.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c4_line618",
+      "source_file": "cim courses/C4_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C4_unlocked.txt",
+      "source_line": 618,
+      "course": "C4",
+      "quiz": "C4 Self Assessment",
+      "question_number": 5,
+      "question": "In the case of a conveyor-type transport system, the products should be distributed evenly.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c5_line503",
+      "source_file": "cim courses/C5_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C5_unlocked.txt",
+      "source_line": 503,
+      "course": "C5",
+      "quiz": "C5 Self Assessment",
+      "question_number": 2,
+      "question": "Availability of ASRS is a measure of its reliability.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c5_line509",
+      "source_file": "cim courses/C5_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C5_unlocked.txt",
+      "source_line": 509,
+      "course": "C5",
+      "quiz": "C5 Self Assessment",
+      "question_number": 4,
+      "question": "In the case of a carousel storage system, its robot arm moves to each basket.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c5_line513",
+      "source_file": "cim courses/C5_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C5_unlocked.txt",
+      "source_line": 513,
+      "course": "C5",
+      "quiz": "C5 Self Assessment",
+      "question_number": 5,
+      "question": "An ASRS is more efficient when performing in single operation mode than in dual operation mode.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c6_line114",
+      "source_file": "cim courses/C6_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C6_unlocked.txt",
+      "source_line": 114,
+      "course": "C6",
+      "quiz": "C6 Self Assessment",
+      "question_number": 1,
+      "question": "The group technology can not be used for production systems that produce in batches.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c6_line118",
+      "source_file": "cim courses/C6_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C6_unlocked.txt",
+      "source_line": 118,
+      "course": "C6",
+      "quiz": "C6 Self Assessment",
+      "question_number": 2,
+      "question": "The group technology applies only if the products can be grouped.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c6_line125",
+      "source_file": "cim courses/C6_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C6_unlocked.txt",
+      "source_line": 125,
+      "course": "C6",
+      "quiz": "C6 Self Assessment",
+      "question_number": 4,
+      "question": "isual inspection is the cheapest method used to classify products.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c6_line129",
+      "source_file": "cim courses/C6_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C6_unlocked.txt",
+      "source_line": 129,
+      "course": "C6",
+      "quiz": "C6 Self Assessment",
+      "question_number": 5,
+      "question": "Product classification systems may not use the design features.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c6_line600",
+      "source_file": "cim courses/C6_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C6_unlocked.txt",
+      "source_line": 600,
+      "course": "C6",
+      "quiz": "C6 Self Assessment",
+      "question_number": 1,
+      "question": "In the case of polycode the interpretation of each symbol from the sequence depends on the previous symbol.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c6_line604",
+      "source_file": "cim courses/C6_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C6_unlocked.txt",
+      "source_line": 604,
+      "course": "C6",
+      "quiz": "C6 Self Assessment",
+      "question_number": 2,
+      "question": "For the chain-type structure the interpretation of each symbol in the sequence is always the same.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c6_line611",
+      "source_file": "cim courses/C6_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C6_unlocked.txt",
+      "source_line": 611,
+      "course": "C6",
+      "quiz": "C6 Self Assessment",
+      "question_number": 4,
+      "question": "Monocode encodes more information.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c6_line613",
+      "source_file": "cim courses/C6_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C6_unlocked.txt",
+      "source_line": 613,
+      "course": "C6",
+      "quiz": "C6 Self Assessment",
+      "question_number": 5,
+      "question": "Sorting of process routings is a step in the production flow analysis.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c7_line147",
+      "source_file": "cim courses/C7_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C7_unlocked.txt",
+      "source_line": 147,
+      "course": "C7",
+      "quiz": "C7 Self Assessment",
+      "question_number": 2,
+      "question": "Increased flexibility leads to higher costs.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c7_line149",
+      "source_file": "cim courses/C7_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C7_unlocked.txt",
+      "source_line": 149,
+      "course": "C7",
+      "quiz": "C7 Self Assessment",
+      "question_number": 3,
+      "question": "Stock levels decreases by using an FMS.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c7_line151",
+      "source_file": "cim courses/C7_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C7_unlocked.txt",
+      "source_line": 151,
+      "course": "C7",
+      "quiz": "C7 Self Assessment",
+      "question_number": 4,
+      "question": "In an FMS occurrence of errors should not stop completely the production.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c7_line227",
+      "source_file": "cim courses/C7_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C7_unlocked.txt",
+      "source_line": 227,
+      "course": "C7",
+      "quiz": "C7 Self Assessment",
+      "question_number": 1,
+      "question": "A flexible manufacturing cell has minimum four machines and a materials handling system.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c7_line231",
+      "source_file": "cim courses/C7_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C7_unlocked.txt",
+      "source_line": 231,
+      "course": "C7",
+      "quiz": "C7 Self Assessment",
+      "question_number": 2,
+      "question": "A dedicated FMS is less useful than an universal one.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c7_line233",
+      "source_file": "cim courses/C7_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C7_unlocked.txt",
+      "source_line": 233,
+      "course": "C7",
+      "quiz": "C7 Self Assessment",
+      "question_number": 3,
+      "question": "Human resource is not a component of an FMS.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c7_line235",
+      "source_file": "cim courses/C7_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C7_unlocked.txt",
+      "source_line": 235,
+      "course": "C7",
+      "quiz": "C7 Self Assessment",
+      "question_number": 4,
+      "question": "Designing an FMS requires information about the physical characteristics of the products.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c7_line239",
+      "source_file": "cim courses/C7_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C7_unlocked.txt",
+      "source_line": 239,
+      "course": "C7",
+      "quiz": "C7 Self Assessment",
+      "question_number": 5,
+      "question": "Discrete event simulation offers the most accurate method for modeling an FMS.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c8_line191",
+      "source_file": "cim courses/C8_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C8_unlocked.txt",
+      "source_line": 191,
+      "course": "C8",
+      "quiz": "C8 Self Assessment",
+      "question_number": 1,
+      "question": "Processes Planning requires information on existing tools and fasteners.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c8_line199",
+      "source_file": "cim courses/C8_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C8_unlocked.txt",
+      "source_line": 199,
+      "course": "C8",
+      "quiz": "C8 Self Assessment",
+      "question_number": 3,
+      "question": "PP requires information about manufacturing processes and experience to achieve a consistent planning.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c8_line203",
+      "source_file": "cim courses/C8_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C8_unlocked.txt",
+      "source_line": 203,
+      "course": "C8",
+      "quiz": "C8 Self Assessment",
+      "question_number": 4,
+      "question": "The assembling method of a product depends on the expected throughput.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c8_line207",
+      "source_file": "cim courses/C8_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C8_unlocked.txt",
+      "source_line": 207,
+      "course": "C8",
+      "quiz": "C8 Self Assessment",
+      "question_number": 5,
+      "question": "Use of a computer in planning processes decreases the time required to develop the process plan.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c8_line458",
+      "source_file": "cim courses/C8_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C8_unlocked.txt",
+      "source_line": 458,
+      "course": "C8",
+      "quiz": "C8 Self Assessment",
+      "question_number": 1,
+      "question": "Retrieval CAPP systems use the principles of group technology.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c8_line462",
+      "source_file": "cim courses/C8_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C8_unlocked.txt",
+      "source_line": 462,
+      "course": "C8",
+      "quiz": "C8 Self Assessment",
+      "question_number": 2,
+      "question": "Generative CAPP systems use artificial intelligence algorithms.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c8_line466",
+      "source_file": "cim courses/C8_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C8_unlocked.txt",
+      "source_line": 466,
+      "course": "C8",
+      "quiz": "C8 Self Assessment",
+      "question_number": 3,
+      "question": "Using concurrent engineering concepts, the lead time decreases.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c8_line470",
+      "source_file": "cim courses/C8_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C8_unlocked.txt",
+      "source_line": 470,
+      "course": "C8",
+      "quiz": "C8 Self Assessment",
+      "question_number": 4,
+      "question": "Design for manufacturing and assembly involves changes at the organizational level in a company.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c8_line474",
+      "source_file": "cim courses/C8_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C8_unlocked.txt",
+      "source_line": 474,
+      "course": "C8",
+      "quiz": "C8 Self Assessment",
+      "question_number": 5,
+      "question": "Manufacturing research involves the optimization of production processes.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c9_line381",
+      "source_file": "cim courses/C9_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C9_unlocked.txt",
+      "source_line": 381,
+      "course": "C9",
+      "quiz": "C9 Self Assessment",
+      "question_number": 1,
+      "question": "The constant production more often creates large stocks.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c9_line383",
+      "source_file": "cim courses/C9_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C9_unlocked.txt",
+      "source_line": 383,
+      "course": "C9",
+      "quiz": "C9 Self Assessment",
+      "question_number": 2,
+      "question": "In the case of the variable production, labor demand remains constant if you can vary the number of hours worked.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c9_line387",
+      "source_file": "cim courses/C9_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C9_unlocked.txt",
+      "source_line": 387,
+      "course": "C9",
+      "quiz": "C9 Self Assessment",
+      "question_number": 3,
+      "question": "Master production schedule is generally developed in the medium term.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c9_line390",
+      "source_file": "cim courses/C9_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C9_unlocked.txt",
+      "source_line": 390,
+      "course": "C9",
+      "quiz": "C9 Self Assessment",
+      "question_number": 4,
+      "question": "Independent demand is the one in which demand for a product does not depend on the demand for another product.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c9_line394",
+      "source_file": "cim courses/C9_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C9_unlocked.txt",
+      "source_line": 394,
+      "course": "C9",
+      "quiz": "C9 Self Assessment",
+      "question_number": 5,
+      "question": "Master production schedule must consider the information related to capabilities.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c9_line662",
+      "source_file": "cim courses/C9_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C9_unlocked.txt",
+      "source_line": 662,
+      "course": "C9",
+      "quiz": "C9 Self Assessment",
+      "question_number": 1,
+      "question": "Capacity planning deals with the allocation of equipment.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c9_line664",
+      "source_file": "cim courses/C9_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C9_unlocked.txt",
+      "source_line": 664,
+      "course": "C9",
+      "quiz": "C9 Self Assessment",
+      "question_number": 2,
+      "question": "Production planning involves planning labor and equipment required.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c9_line672",
+      "source_file": "cim courses/C9_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C9_unlocked.txt",
+      "source_line": 672,
+      "course": "C9",
+      "quiz": "C9 Self Assessment",
+      "question_number": 4,
+      "question": "Making a production plan involves the exclusive use of a production strategy according with the demand.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c9_line676",
+      "source_file": "cim courses/C9_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C9_unlocked.txt",
+      "source_line": 676,
+      "course": "C9",
+      "quiz": "C9 Self Assessment",
+      "question_number": 5,
+      "question": "In the case of level production strategy, the number of employees and the hours worked are variable.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c10_line296",
+      "source_file": "cim courses/C10_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C10_unlocked.txt",
+      "source_line": 296,
+      "course": "C10",
+      "quiz": "C10 Self Assessment",
+      "question_number": 1,
+      "question": "The order release module may contain the list of necessary raw materials.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c10_line299",
+      "source_file": "cim courses/C10_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C10_unlocked.txt",
+      "source_line": 299,
+      "course": "C10",
+      "quiz": "C10 Self Assessment",
+      "question_number": 2,
+      "question": "Order scheduling module provides information about the priority order of operations.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c10_line303",
+      "source_file": "cim courses/C10_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C10_unlocked.txt",
+      "source_line": 303,
+      "course": "C10",
+      "quiz": "C10 Self Assessment",
+      "question_number": 3,
+      "question": "Shortest operation next rule maximize the number of processed orders.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c10_line306",
+      "source_file": "cim courses/C10_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C10_unlocked.txt",
+      "source_line": 306,
+      "course": "C10",
+      "quiz": "C10 Self Assessment",
+      "question_number": 4,
+      "question": "Order slack time rule addresses the sequencing of jobs on the basis of the value of work remaining.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c10_line309",
+      "source_file": "cim courses/C10_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C10_unlocked.txt",
+      "source_line": 309,
+      "course": "C10",
+      "quiz": "C10 Self Assessment",
+      "question_number": 5,
+      "question": "When earliest due date rule is used, the highest priority is assigned to the part with the latest due date.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c10_line487",
+      "source_file": "cim courses/C10_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C10_unlocked.txt",
+      "source_line": 487,
+      "course": "C10",
+      "quiz": "C10 Self Assessment",
+      "question_number": 1,
+      "question": "The order progress module generates progress reports.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c10_line491",
+      "source_file": "cim courses/C10_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C10_unlocked.txt",
+      "source_line": 491,
+      "course": "C10",
+      "quiz": "C10 Self Assessment",
+      "question_number": 2,
+      "question": "The factory data collection system communicates with the control system.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c10_line495",
+      "source_file": "cim courses/C10_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C10_unlocked.txt",
+      "source_line": 495,
+      "course": "C10",
+      "quiz": "C10 Self Assessment",
+      "question_number": 3,
+      "question": "In order to restore stocks at certain points in time it is necessary to know the quantity to order.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c10_line499",
+      "source_file": "cim courses/C10_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C10_unlocked.txt",
+      "source_line": 499,
+      "course": "C10",
+      "quiz": "C10 Self Assessment",
+      "question_number": 4,
+      "question": "Operations planning is not for the manufacturing resource planner.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c11_line86",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 86,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 1,
+      "question": "Sustainable development compromises ensuring resources for the next generation.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c11_line90",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 90,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 2,
+      "question": "Sustainability assurance is a destination for any company.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c11_line92",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 92,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 3,
+      "question": "In sustainable manufacturing focus is on making products using fewer materials and energy.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c11_line96",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 96,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 4,
+      "question": "The sustainable manufacturing involves the removal of waste from the manufacturing process.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c11_line100",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 100,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 5,
+      "question": "Green technologies provide pollution prevention and control.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c11_line157",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 157,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 1,
+      "question": "A green product eliminates its environmental impact.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c11_line159",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 159,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 2,
+      "question": "Environmental impact of a product should be considered from the design.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c11_line162",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 162,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 3,
+      "question": "The products that minimize the use of packaging can be considered green.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c11_line166",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 166,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 4,
+      "question": "Optimization of production is a measure required to ensure sustainability in manufacturing.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c11_line170",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 170,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 5,
+      "question": "Sustainable manufacturing is based on reducing pollution.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c11_line256",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 256,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 1,
+      "question": "In lean manufacturing there is no overproduction.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c11_line258",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 258,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 2,
+      "question": "Clean manufacturing ensures responsible use of energy.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c11_line260",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 260,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 3,
+      "question": "Substitution of raw materials with more polluting ones is a method of implementing clean manufacturing.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c11_line264",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 264,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 4,
+      "question": "Lean and Clean manufacturing provides support for the viability of a business.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c11_line267",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 267,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 5,
+      "question": "Donating equipment is not a practice encouraged by the principles of sustainability.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c11_line494",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 494,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 1,
+      "question": "Implementing the principles of sustainability rests solely to the management team of a company.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c11_line497",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 497,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 2,
+      "question": "Utilization of reusable materials / recycled materials must be increased.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c11_line500",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 500,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 3,
+      "question": "The energy consumed per unit of product, according to the principles of sustainability can be increased if it comes from renewable sources.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c11_line504",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 504,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 4,
+      "question": "Utilization of non-renewable materials must increase to reduce waste.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c11_line507",
+      "source_file": "cim courses/C11_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C11_unlocked.txt",
+      "source_line": 507,
+      "course": "C11",
+      "quiz": "C11 Self Assessment",
+      "question_number": 5,
+      "question": "A product must contain as many recycled or reusable components.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c12_line71",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 71,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 1,
+      "question": "The ultra modern manufacturing involves the use of cyber-physical systems.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c12_line75",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 75,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 2,
+      "question": "The ultra modern manufacturing does not involve the use of IoT.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c12_line79",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 79,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 3,
+      "question": "A very large amount of data is acquired and processed in an ultra modern manufacturing system.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c12_line83",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 83,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 4,
+      "question": "The Industry 4.0 has emerged with the first PLCs and computers.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c12_line87",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 87,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 5,
+      "question": "The cyber-physical systems are related to the third industrial revolution.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c12_line166",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 166,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 1,
+      "question": "The user of the cloud computing services has to know the physical location and configuration of equipment that provides these services.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c12_line171",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 171,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 2,
+      "question": "Information technology is used in quality control.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c12_line173",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 173,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 3,
+      "question": "The digital factory uses information technology in all its activities.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c12_line177",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 177,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 4,
+      "question": "Predictive manufacturing systems require a large amount of data collected from sensors.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c12_line180",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 180,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 5,
+      "question": "The embedded systems encapsulate the cyber-physical systems.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c12_line290",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 290,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 1,
+      "question": "In IoT, all the products are interconnected through the Internet.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c12_line293",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 293,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 2,
+      "question": "IIoT has lower requirements than those specific IoT.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c12_line295",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 295,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 3,
+      "question": "The cyber-physical systems are used in smart manufacturing.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c12_line299",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 299,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 4,
+      "question": "The control system of a traditional factory is hierarchic.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c12_line302",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 302,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 5,
+      "question": "The decisions are context aware in smart factories.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c12_line421",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 421,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 1,
+      "question": "Industry 4.0 uses cyber physical systems.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c12_line423",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 423,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 2,
+      "question": "Industry 4.0 creates intelligent manufacturing systems.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c12_line425",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 425,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 3,
+      "question": "Interoperability is high in Industry 4.0.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "course_c12_line427",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 427,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 4,
+      "question": "Romania is not a target for implementation of Industry 4.0.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "false"
+      ]
+    },
+    {
+      "id": "course_c12_line430",
+      "source_file": "cim courses/C12_unlocked.pdf",
+      "source_page": null,
+      "source_text_file": "course_text/C12_unlocked.txt",
+      "source_line": 430,
+      "course": "C12",
+      "quiz": "C12 Self Assessment",
+      "question_number": 5,
+      "question": "Equipment used in factories that implement Industry 4.0 concepts have to be very reliable.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answers": [
+        "true"
+      ]
+    }
+  ]
+};

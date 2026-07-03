@@ -1,0 +1,466 @@
+           LECTURE 1
+
+
+2/9/2026               1
+      1.   Objectives
+      2.   Manufacturing
+      3.   Competitiveness in manufacturing
+      4.   Computer Integrated Manufacturing(CIM)
+      5.   CIM components
+      6.   Conclusion
+
+
+
+
+2/9/2026                                            2
+      1.   Formulate CIM-specific concepts
+      2.   Understanding the competitiveness
+      3.   Describe the CIM characteristics
+      4.   Characterize CIM components
+
+
+
+
+2/9/2026                                       3
+           Manufacturing is a collection of interrelated activities that
+           includes product design and documentation, material selection,
+           planning, production, quality assurance, management, and
+           marketing of goods.
+
+
+           Computer Integrated Manufacturing (CIM) involves the
+           integration of production systems using integrated systems and
+           data communication correlated to management strategies that
+           improve the organization and efficiency of the human
+           resources.
+
+2/9/2026                                                              4
+           The fundamental goal of manufacturing is to use the activities
+           (design and documentation, material selection, planning,
+           production, quality assurance, management, and marketing of
+           goods) to convert raw materials into finished goods on a
+           profitable basis.
+
+             Raw material
+
+             Capital equipment                     Completed products
+             Production tooling
+                                     Production
+                                      process
+             Energy
+                                                        Scrap
+            Labor
+
+2/9/2026                                                                5
+                                  Manufacturing model
+                      CHALLENGES
+
+
+
+
+           EXTERNAL                INTERNAL
+
+
+
+2/9/2026                                      6
+                                                     Costs
+               Internet                                                   Global
+                                                                         economy
+
+
+
+
+           New/niche
+            entrants
+
+                                                                    Customers
+
+                 Traditional
+                 competition
+                                        Suppliers
+                                                      Partnerships and
+                                                          alliances
+                               External challenges
+
+2/9/2026                                                                        7
+           The internal challenge is to develop a manufacturing strategy
+           to minimize the negative impact of the external challenges on
+           the success of the business.
+
+
+           A manufacturing strategy is a plan or process that forces
+           congruence between the corporate objectives and the
+           marketing goals, and the production capability of a company.
+
+
+
+
+2/9/2026                                                              8
+  Computer integrated manufacturing must ensure:
+
+
+         Reducing the
+  Lower     size of
+productionproduction    Inventory
+   costs     lots       reduction
+
+
+
+
+                                       Better   Increasing       Better
+                                     control of flexibility   relationship Improved
+                                                                            quality
+                                        the                       with
+                                    production                 customers
+                                      process
+
+
+   2/9/2026                                                                  9
+            Setup time;
+            Quality;
+            Manufacturing-space ratio;
+            Inventory;
+            Flexibility;
+            Distance;
+            Uptime.
+
+
+
+
+2/9/2026                                  10
+      Setup time is the time required to get a machine ready for
+      production.
+
+
+
+                    The burden rate is a cost roll-up or total that
+                    includes:
+                     Recovery of the original cost of the
+                      process machine and associated support
+                      hardware;
+                     Maintenance costs (fault and prevention);
+                     Labor cost (direct and indirect);
+                     Programming cost for CNC machines and
+                      robots.
+
+2/9/2026                                                              11
+1. Partnerships and alliances are external challenges for a
+company.
+                                                                  T    F
+
+2. The results of a production process are not only finite
+products.                                                         T    F
+
+3. In CIM, manufacturing batch size reduction leads to
+increased production costs.
+                                                                  T    F
+
+4. The increase of the setup time increases the productivity of
+a manufacturing system.
+                                                                  T    F
+
+
+2/9/2026                                                              12
+           Quality is expressed as a percentage of defective parts
+           produced or as a percentage of total sales.
+
+           Warranty quality-defective parts discovered after the product
+           is shipped to the customer.
+
+           Total quality represents the total cost in percentage of sales
+           that quality costs the enterprise
+
+
+           Captured quality-defects found before the product is shipped
+           to the customer, has units of parts per million (ppm).
+
+
+
+
+2/9/2026                                                                    13
+           The manufacturing-space ratio standard is a measure of how
+           efficiently manufacturing is utilized.
+           The total footprint of the machines, plus the area of work-
+           stations where value is added to the product, is divided by the
+           total manufacturing space.
+
+
+                  Value is added at any workstation that processes the part
+                  or assembles the part with another part.
+                  The larger this ratio, the more efficient the production
+                  operation.
+                  The manufacturing-space ratio must be greater than
+                  50% according to the world-class standard.
+
+2/9/2026                                                                      14
+Inventory is represented by raw materials, partially completed parts,
+subassemblies, and finished goods that are waiting to be shipped to the
+customer.
+
+
+
+
+2/9/2026                                                             15
+Inventory levels are measured in terms of inventory turns, or velocity, and in
+residence time.
+
+
+The number of inventory turns for a product is equal to the annual COst of
+Goods Sold (COGS) divided by the average inventory value.
+
+
+
+The residence time is the average number of days that a part spends in
+production.
+
+
+
+                     The goal is to reduce the inventory levels => number of
+                     inventory turns increases => residence time decreases.
+  2/9/2026                                                                16
+Flexibility is measured as the number of different parts that can be produced on
+the same machine. Flexibility also measures the ability to produce new product
+designs in a short time.
+
+
+
+
+ The standard distance measures the total linear meters of a part’s travel
+ through the plant from receiving the raw material to finished products in
+ shipping.
+
+
+
+
+               Uptime is the percentage of time a machine is producing to
+               specifications compared to the total time that production can
+               be scheduled.
+ 2/9/2026                                                                   17
+1. The increase of flexibility in a manufacturing system,
+involves, usually, additional cost.
+                                                                    T    F
+
+2. The anticipation stock is not a safety stock.                    T    F
+
+3. The smaller the space-manufacturing ratio, the more
+efficient the manufacturing system is.
+                                                                    T    F
+
+4. The cycle stock exists when the sales are larger than the
+production.
+                                                                    T    F
+
+5. The production is smaller if a machine availability is larger.   T    F
+2/9/2026                                                                18
+           CIM systems include several subsystems whose efficiency determine
+           the manufacturing system performance:
+            Computer-Aided Design (CAD)
+            Computer-Aided Engineering (CAE)
+            Computer-Aided Manufacturing (CAM)
+            Computer-Aided Process Planning (CAPP)
+            Computer-Aided Quality assurance (CAQ)
+            Production Planning and Control (PPC)
+            Enterprise Resource Planning (ERP)
+                                                            DB
+            A business system integrated by a                   CAD
+                                                      ERP
+              common database (DB)
+                                                             CIM     CAE
+                                                     PPC
+                                                                    CAM
+                                                       CAQ
+                                                             CAPP
+2/9/2026                                                                   19
+           Computer-Aided Design (CAD) is defined as the use of computer
+           systems to assist in the creation, modification, analysis and
+           documentation of a part design.
+
+
+           The use of CAD assures:
+            Reduced design time
+            Improved design quality                         DB
+                                                                    CAD
+            Improved documentation                   ERP
+            Creation of a database                                   CAE
+                                                              CIM
+                                                     PPC
+                                                                     CAM
+                                                       CAQ
+                                                             CAPP
+
+2/9/2026                                                                  20
+           Computer-Aided Engineering is used for:
+
+            Stress analysis in components and assemblies,
+            Kinematics,
+            Simulation and analysis of processes as casting, molding, and die
+             press forming,
+            Optimization of the product or process.
+
+                                                                DB
+                                                                       CAD
+                                                         ERP
+                                                                 CIM     CAE
+                                                       PPC
+                                                                        CAM
+                                                          CAQ
+                                                                CAPP
+2/9/2026                                                                       21
+           Computer-aided manufacturing is the use of computer software to
+           control machine tools and related machinery in manufacturing.
+
+
+           Equipment in a CIM:
+            Industrial robots,
+            Computer numerical controlled machine tools,
+            Transport systems
+            Automated warehouses, etc.
+                                                            DB
+                                                                   CAD
+                                                     ERP
+                                                             CIM     CAE
+                                                    PPC
+                                                                    CAM
+                                                      CAQ
+                                                            CAPP
+2/9/2026                                                                   22
+            Computer-Aided Process Planning, ensures a direct connection
+            between design and production.
+
+
+           CAPP main effects:
+            Increase flexibility,
+            Decrease planning time
+            Decrease human intervention.
+
+                                                           DB
+                                                                  CAD
+                                                    ERP
+                                                            CIM     CAE
+                                                   PPC
+                                                                   CAM
+                                                     CAQ
+                                                           CAPP
+2/9/2026                                                                  23
+           Quality assurance is a key factor when imposing a product on the
+           market.
+
+           In general, implementation of quality control techniques leads to
+           additional costs.
+
+           Early detection of faults may reduce significantly the production
+           costs.
+                                                             DB
+                                                                    CAD
+                                                       ERP
+                                                              CIM     CAE
+                                                     PPC
+                                                                     CAM
+                                                       CAQ
+                                                             CAPP
+2/9/2026                                                                    24
+1. CAD increases design time.                     T    F
+
+2. CAE is used in various systems simulation.     T    F
+
+3. CAM uses the computer for several processes.   T    F
+
+4. CAPP decreases the process planning time.      T    F
+
+
+2/9/2026                                              25
+           Production Planning and Control (PPC) concerns the aspects of
+           manufacturing logistics.
+
+           Production control follows the way production resources are allocated
+           and, if necessary, takes appropriate decisions to correct any deviations
+           from the required production plan.
+
+           Production control involves:
+            Control of production lines,
+            Inventory control, etc.
+                                                                        DB    CA
+           Production planning:                                   ERP         D
+            Determine the products to be manufactured,                 CIMCAE
+                                                                 PPC
+            How much of which will be produced,                           CA
+            Production deadlines,                                 CAQ CAP M
+            Planning of labor and necessary equipment                    P
+2/9/2026                                                                       26
+           Enterprise Resource Planning integrates information from various
+           departments:
+
+            Financial accounting,
+            Production,
+            Sales,
+            Service,
+            Customer relations, etc.
+                                                             DB
+                                                                    CAD
+                                                      ERP
+                                                              CIM     CAE
+                                                    PPC
+                                                                     CAM
+                                                       CAQ
+                                                             CAPP
+2/9/2026                                                                    27
+           Databases store information related to:
+            Clients,
+            Production orders,
+            Production processes,
+            Equipments,
+            Raw materials,
+            Finished products,
+            Inventory,
+            Delivery times, etc.                            DB
+                                                                    CAD
+                                                      ERP
+                                                              CIM     CAE
+                                                     PPC
+                                                                     CAM
+                                                       CAQ
+                                                             CAPP
+2/9/2026                                                                    28
+1. Quality assessment is more effective if done during the
+production cycle.
+                                                              T    F
+
+2. Production control involves also the inventory control.    T    F
+
+3. Production planning does not involve the labor planning.
+                                                              T    F
+
+4. Enterprise resource planning (ERP) is efficient in CIM.
+                                                              T    F
+
+5. Databases are the binding agents between different
+departments of a company.
+                                                              T    F
+2/9/2026                                                          29
+            An enterprise that embraces CIM concepts has a management
+             philosophy that:
+               uses customer satisfaction as the basis for decisions,
+               uses the principles of total quality,
+               values the ideas of every employee,
+               shares data across all the departments,
+               use automation hardware and software to integrate
+                enterprise operations.
+            Maintaining a high flexibility but at the same time reducing
+             production costs are two important objectives.
+
+            A high flexibility can be obtained:
+               using complex equipment (more expensive),
+               using more dedicated equipment,
+               using a combination of the above, and an intelligent
+                 management system.
+2/9/2026                                                              30
+            The components of a manufacturing system.
+            Types of manufacturing systems.
+            CIM classification factors.
+            CIM Progress functions.
+
+
+
+
+2/9/2026                                            31
+

@@ -1,0 +1,609 @@
+           LECTURE 3
+
+
+2/9/2026               1
+      1. Objectives
+      2. Review
+      3. Types of operations in manufacturing
+      4. Product-production relationship
+      5. Product quantity and variety
+      6. Product and part complexity
+      7. Production characteristics
+      8. Manufacturing cost and selling price
+      9. Manufacturing strategies
+      10. Conclusion
+
+
+
+
+2/9/2026                                        2
+      1.   Outline the operation types in manufacturing systems
+      2.   Define product-production relationship
+      3.   Define the complexity of manufacturing processes
+      4.   Formulate the production characteristics
+      5.   Describe the cost and selling price relationship
+      6.   Describe manufacturing strategies
+
+
+
+
+2/9/2026                                                          3
+      1. Components of a manufacturing system
+      2. Types of manufacturing systems
+      3. Classification of manufacturing systems
+      4. Manufacturing progress function
+
+
+
+
+2/9/2026                                           4
+           Types of operations:
+               processing and assembly
+               material handling
+               inspection and test
+               coordination and control
+
+
+
+
+2/9/2026                                   5
+            A processing operation transforms a work material from one
+            state of completion to a more advanced state that is closer to
+            the final desired part or product.
+
+
+           Processing operations may be grouped into:
+                Shaping operations,
+                Property enhancing operations,
+                Surface processing operations.
+
+
+
+
+2/9/2026                                                                     6
+            An assembly operation joins two or more components to create a
+            new entity, which is called an assembly, subassembly, or some
+            other term that refers to the specific joining process.
+
+
+           Components of the new entity can be connected together:
+               permanently (welding, soldering, adhesive bonding, press
+               fitting, expansion fits, and rivets)
+               semi-permanently (threaded fasteners like
+                  screws, bolts, nuts)
+
+
+
+2/9/2026                                                                 7
+     Companies organize their manufacturing
+     operations and production systems
+     accordingly with the products para-
+     meters they make:
+                                                V
+          product quantity
+          product variety:
+                                                    Low
+              hard
+              soft
+                                                          Medium
+            complexity of assembled products
+                                                                   High
+            complexity of individual parts      1 100 10,000 1,000,000           Q
+                                                 Figure 3.1 Relationship between
+                                                product quantity and variety in
+2/9/2026                                        discrete product manufacturing. 8
+                A company specializes in consumer photographic products. It
+  Example 1
+                produces only cameras and projectors. In its camera line it offers 3
+                models with hard variety, and in its projector line it offers 2 models
+                with soft variety.
+                a) What is the totality of product models offered?
+                b) If the company produce 1000 of each camera model and 100 of
+                   each projector model what is the total quantity of all products
+                   made by company?
+
+
+           Solution:
+
+           a)        n
+                 V = ∑ V = V + V =3+2 =5
+                    i=1 i 1 2
+                     n
+           b)    Q = ∑ Q = Q + Q = c ×V +p × V = 1000 × 3 + 100 × 2 = 3200
+                  t i=1 i   1   2      1      2
+
+2/9/2026                                                                           9
+                    For an assembled product, one possible indicator of its
+                     complexity is the number of components or parts (np).
+                    For a produced component, a possible measure of its complexity
+                     is the number of processing steps or operations (no) required to
+                     produce it.
+  Type of plant        np and no values                           Description
+
+Part producer                             Individual components are produced.
+                          np=1, n0>1
+                                          Each component requires multiple processing steps.
+                                          A pure assembly plant produce no part.
+Assembly plant            np>1, n0=1      It is assumed that one operation is required to assemble
+                                          each part to the product.
+Vertically                                This plant makes all its parts and assemble them.
+integrated plant          np>1, n0>1
+     2/9/2026                                                                                   10
+                                                           n
+                  V                       V         pi
+             n = ∑ Q ×n              n = ∑ Q ×n × ∑ n
+              pt i=1 i pi             ot i=1 i pi      oik
+                                                  k =1
+           where:
+              npt-total number of parts made in the factory (pc/yr)
+              npi-number of parts in product i (pc/product)
+              Qi-annual quantity of product style i (products/yr)
+              not- total number of operations
+              noik- number of processing operations for each part k, for a
+              product i
+2/9/2026                                                              11
+1. The variety and quantity of goods are in a relationship of
+direct proportionality.
+                                                                T    F
+
+2. A vertically integrated plant only assembles the products.   T    F
+
+3. The complexity of a product is given by the number of
+components or the number of operations needed for
+                                                                T    F
+manufacturing.
+
+4. A dedicated manufacturer of assemblies produces also the
+components necessary for their products.
+                                                                T    F
+
+
+2/9/2026                                                            12
+            Production rate
+            Production capacity
+            Utilization and availability (reliability)
+            Manufacturing lead time
+            Work-in-process
+
+
+
+
+2/9/2026                                                  13
+         The production rate for an individual processing or assembly operation is
+         usually expressed as an hourly rate, parts or products per hour.
+
+         The operation cycle time Tc is defined as the time that one work unit
+         spends being processed or assembled.
+
+                          Tc = To + T + T
+                                     h th
+where:
+         To - actual machining operation time
+         Th - workpart handling time
+         Tth - tool handling time per workpiece
+
+                    The production rate depends on the type of production.
+ 2/9/2026                                                                    14
+                                            T                  60
+              T = Tsu + Q × Tc                          Rp =
+               b                        Tp = b                 Tp
+                                             Q
+where:
+         Tb – batch processing time (min)
+         Tsu – setup time to prepare for the batch (min)
+         Q – batch quantity (pc)
+         Tc – operation cycle time per work unit (min/cycle or min/pc)
+         Tp – average production time per work unit
+         Rp – hourly production rate (pc/hr)
+
+
+
+                   The production rate depends on the production type.
+  2/9/2026                                                               15
+                                                                 60
+                                                          Rp =
+                   Tsu + Tc if
+                Tp =                 
+                                     
+                                     
+                                         Q=
+                                          1                   Tp
+
+where:
+         Tsu – setup time to prepare for the batch (min)
+         Q – batch quantity (pc)
+         Tc – operation cycle time per work unit (min/cycle or min/pc)
+         Tp – average production time per work unit
+         Rp – hourly production rate (pc/hr)
+
+
+
+
+                    The production rate depends on the production type.
+   2/9/2026                                                               16
+                                         60
+                              Rp → R c =
+                                         Tc
+
+where:
+         Tc – operation cycle time (min/pc)
+         Rp – hourly production rate (pc/hr)
+         Rc – operation cycle rate of the machine (pc/hr)
+
+
+
+                    The production rate depends on the production type.
+   2/9/2026                                                               17
+                                                          60
+                 Tc = Tr + MaxTo                     Rc =
+                                                          Tc
+where:
+      Tc    – ideal cycle time (min/cycle)
+      Tr    – time to transfer work units between stations each cycle (min/pc)
+      MaxTo – operation time at the bottleneck station (the maximum of the
+              operation times for all stations on the line, min/cycle)
+      Rc    – theoretical or ideal production rate (cycle rate, cycles/hr)
+
+
+
+                   The production rate depends on the production type.
+    2/9/2026                                                             18
+              Production capacity is defined as the maximum rate of output that a
+              production facility is able to produce under a given set of assumed
+              operating conditions.
+
+                               PC = n× S ×H×Rp
+where:
+         PC    – production capacity of the facility (output units/wk)
+         n     – number of work centers producing in the facility
+         S     – number of shifts per period (shift/wk)
+         H     – hours per shift (hr)
+         Rp    – hourly production rate of each work center (output units/hr)
+                       It is assumed that the units processed through the group of
+                       work centers are homogeneous, and therefore the value of Rp
+                       is the same for all units produced.
+   2/9/2026                                                                     19
+  Example 2
+               The turret lathe section has six machines, all devoted to the
+               production of the same part. The section operates 10
+               shift/wk. The number of hours per shift averages 8.0.
+               Average production rate of each machine is 17 unit/hr.
+               Determine the weekly production capacity of the turret lathe
+               section.
+
+           Solution:
+                       PC = n× S ×H×Rp
+                       PC=6 x 10 x 8.0 x 17 = 8160 output unit/wk
+
+
+
+
+2/9/2026                                                                20
+         If it is included the possibility that each work unit is routed through
+         n0 operations, with each operation requiring a new setup on either
+         the same or different machine, then:             n × S × H× R p
+                                                     PC =
+                                                                no
+       What changes can be made to increase or decrease production
+       capacity (plant capacity):
+             over the short term:
+                  • change the number of shifts per week;
+                  • change the number of hours worked per shift.
+             over the intermediate or longer term:
+                  • increase the number of work centers in the shop;
+                  • increase the production rate, by making improvements in
+                     methods or process technology;
+                  • reduce the number of operations required per work unit
+                     using combined operations, simultaneous operations, or
+2/9/2026             integrations of operations.                              21
+1. The operation cycle time is the actual processing time.           T    F
+
+2. The setup time is considered when determining the
+   operation cycle time for job shop production.                     T    F
+
+3. Production capacity increases when the production rate
+   increases.
+                                                                     T    F
+
+4. For quantity type mass production, in the calculation of the
+   operation cycle time, the system setup time must be included.     T    F
+
+5. For the flow line mass production, the maximum operation
+   time of all stations on the line is included in the calculation   T    F
+                                                                         22
+   of the cycle time.
+         Utilization refers to the amount of output of a production facility
+         relative to its capacity.
+
+
+                                     Q
+                                  U=
+                                     PC
+where:
+         U – utilization of the facility
+         Q – actual quantity produced by the facility during a given period
+         PC – production capacity for the same period
+
+             For convenience, utilization is often defined as the proportion of time that
+             the facility is operating relative to the time available under the definition of
+             capacity.
+  2/9/2026                                                                             23
+      Example 3
+                     A production machine operates 80 hr/wk (two shifts, 5 days)
+                     at full capacity. Its production rate is 20 unit/hr. During a
+                     certain week, the machine produced 1000 parts and was idle
+                     the remaining time. (a) Determine the production capacity of
+                     the machine. (b) What was the utilization of the machine
+                     during the week under consideration?
+
+
+Solution:       PC = n× S ×H×Rp
+       (a) PC=80 x 20=1600 unit/wk
+                     Q
+                U=
+                     PC
+       (b) U=1000/1600=0.625 or 62.5%
+or:
+             H=(1000 pc)/(20 pc/hr)=50 hr (the time the machine was operated)
+             U=50/80=0.625
+  2/9/2026                                                                      24
+         Availability is a common measure of reliability for equipment.
+
+
+
+                                  MTBF-MTTR
+                             A=
+                                    MTBF
+where:
+         A    - availability
+         MTBF - mean time between failures
+         MTTR - mean time to repair
+
+
+
+
+                            Availability is typically expressed as a percentage
+  2/9/2026                                                                        25
+    Example 4
+                  The turret lathe section has six machines, all devoted to the
+                  production of the same part. The section operates 10
+                  shift/wk. The number of hours per shift averages 8.0.
+                  Average production rate of each machine is 17 unit/hr. The
+                  availability of the machines A=90%, and the utilization of the
+                  machines U=80%. Compute the expected plant output.
+
+
+
+
+Solution:    Q = A ×U×(n× S ×H×Rp)
+
+             Q=0.90 x 0.80 x 6 x 10 x 8.0 x 17=5875 output unit/week
+
+
+
+  2/9/2026                                                                  26
+         Manufacturing lead time (MLT) is the total time required to process a
+         given part or product through the plant.
+
+                       n
+                        oj                    
+                  MLT = ∑  T
+                                 +Q ×T + T     
+                     j i=1  suji   j cji noji 
+where:
+         MLTj     – manufacturing lead time for part or product j (min)
+         Tsuji    – setup time for operation i (min)
+         Qj       – quantity of part or product j in the batch being processed
+         Tcji     – operation cycle time for operation i (min/pc)
+         Tnoji    – nonoperation time associated with operation i (min)
+         i        – indicates the operation sequence in the processing; i=1..noj
+
+
+  2/9/2026                                                                       27
+           To simplify and generalize our model, let us:
+            • assume that all setup times, operation cycle times and
+              nonoperation times are equal for the noj machines;
+            • suppose that the batch quantities of all parts or products processed
+              through the plant are equal and they are all processed through the
+              same number of machines, so that noj=no
+
+                        MLT = no ×  Tsu + Q × Tc + Tno 
+                                                                    
+     where:
+         MLT – average manufacturing lead time for a part or product (min)
+         Tsu – setup time (min)
+         Qj – quantity of part or product j in the batch being processed
+         Tc – operation cycle time (min/pc)
+         Tno– nonoperation time (min)
+2/9/2026                                                                    28
+    Example 5
+                 A certain part is produced in a batch size of 100 units. The
+                 batch must be routed through five operations to complete
+                 the processing of the parts. Average setup time is 3
+                 hr/operation, and average operation time is 6 min (0.1 hr).
+                 Average nonoperation time due to handling, delays,
+                 inspection, etc,. is 7 hours for each operation. Determine
+                 how many days it will take to complete the batch, assuming
+                 the plant runs one 8-hr shift/day.
+
+
+Solution:
+             MLT = no ×  Tsu + Q × Tc + Tno 
+                                              
+
+             MLT=5 x (3+100 x 0.1+7)=100 hr
+
+ At 8 hr/day, this amounts to 100/8=12.5 days
+
+  2/9/2026                                                               29
+      Work-in-process (WIP) is the quantity of parts or products currently
+      located in the factory that are either being processed or are between
+      processing operations.
+
+                                 A×U×PC×MLT
+                         WIP =
+                                     S×H
+   where:
+            WIP – work-in-process in the facility (pc)
+            A – availability
+            U – utilization
+            PC – production capacity of the facility (pc/wk)
+            MLT – manufacturing lead time (hr)
+            S– number of shifts per week (shift/wk)
+            H – hours per shift (hr/shift)
+
+2/9/2026                                                               30
+                                                    marketing, etc.
+                                                    Administration,
+                                                    Research and
+                                                    development
+                                      Engineering
+
+
+
+
+                                                    sales,
+
+
+                                                                       Profit
+            Manufacturing
+                cost
+                                                                                Selling price
+                          40%         15% 5%               25%        15%
+                          Indirect labor
+                          depreciation,
+           Direct labor
+
+                          machinery
+                          Plant and
+
+
+                          energy
+
+
+
+
+                                                    Parts and material
+                                                                                Manufacturing
+           12%               26%    12%                    50%                      cost
+
+           Black, J T., The Design of the Factory with a Future, McGraw-Hill, Inc., NY, 1991,
+           provides some typical percentages for the different types of manufacturing and
+2/9/2026   corporate .                                                                 31
+            Engineer to order (ETO)
+            Make to order (MTO)
+            Assemble to order (ATO)
+            Make to stock (MTS)
+
+
+
+
+                 The production strategy used by manufacturers is based on several
+                 factors but the two most critical are: customer lead time and
+2/9/2026         manufacturing lead time.                                   33
+       A manufacturer producing in the ETO category has either:
+            a product that is in the first stage of the lifecycle curve or,
+            a complex product with a unique design produced in single-digit
+           quantities
+      The customer is willing to accept a long manufacturing lead time
+      because the engineering design is part of the process.
+
+       Example:   construction industry products (bridges, chemical
+                  plants, automotive production lines) and large products
+                  with special options that are stationary during
+                  production (commercial passenger aircraft, ships, high-
+                  voltage switchgear, steam turbines).
+
+
+2/9/2026                                                                       34
+       Manufacturers use this strategy when:
+            the demand is unpredictable;
+            the customer lead time permits the production process to start on
+           receipt of an order.
+
+
+      The MTO technique assumes that all the engineering and design are
+      complete and the production process is proven.
+
+
+               Example:
+                           new residential homes
+
+
+
+2/9/2026                                                                35
+       The ATO technique is used when:
+            the customer lead time is less than the manufacturing lead time,
+            the option mix for the products can be forecast statistically,
+            the subassemblies and parts for the final product are carried in a
+            finished-components inventory.
+
+
+
+                Example:
+                             Automotive industry, IT industry, etc
+
+
+
+2/9/2026                                                                      36
+           The MTO strategy is used for two reasons:
+             the customer lead time is less than the manufacturing lead time,
+             the product has a set configuration and few options so that the
+             demand can be forecast accurately.
+
+
+
+      This strategy usually applies to mature products and commodity-type
+      products such as toothpaste and food products.
+
+                   Example:
+                              Toothpaste, breakfast cereals, etc.
+
+
+
+2/9/2026                                                                    37
+1. Utilization of a machine is not equivalent with the
+   availability of a machine.
+                                                                  T    F
+
+2. Work-in-process are the components or products ready for
+   delivery.                                                      T    F
+
+3. According to J.T. Black, the price of parts and materials is
+   50% from the selling price of a product.
+                                                                  T    F
+
+4. Assemble to order is applied for the production of a car.      T    F
+
+5. Make to order is applied when the demand can’t be
+   predicted.
+                                                                  T    F
+ 2/9/2026                                                             38
+       The classification of production processes helps us understand
+        some of the similarities and differences that are present.
+
+      Armed with this knowledge, a company can much more easily do
+       the following:
+         Meet the external challenges
+         Identify the order-winning criteria
+         Implement the CIM principles
+         Adjust the management philosophy
+         Integrate the hardware and software systems
+         Compete in the world marketplace
+
+
+
+
+2/9/2026                                                             39
+            Material handling equipment
+            Material transport systems
+            Storage systems used in manufacturing
+            Storage systems performance
+            Storage strategies
+            Automatic storage systems
+
+
+
+
+2/9/2026                                             40
+

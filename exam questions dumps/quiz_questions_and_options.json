@@ -1,0 +1,357 @@
+[
+    {
+        "question": "The aim is to design an automatic storage and retrieval system that must have a storage capacity of 120 products, each product occupying 1 compartment. Due to the space available at ground level, the storage system can have 2 aisles and 10 products can be stored horizontally on each side of each aisle. How many (vertical) levels should the automatic storage and retrieval system have in order to have the above mentioned storage capacity? Calculations:",
+        "options": {
+            "A": "5",
+            "B": "3",
+            "C": "10",
+            "D": "6"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "3"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C5",
+                "source_text_file": "course_text/C5_unlocked.txt",
+                "line": 188,
+                "note": "AS/RS capacity and dimensions formulas"
+            }
+        ],
+        "answer_notes": "120 / (2 aisles * 2 sides * 10 compartments per level) = 3 levels."
+    },
+    {
+        "question": "Each aisle of a three-aisle AS/RS contains 4 storage compartments in the length direction and 4 compartments vertically. All storage compartments will be the same size to accommodate standard size pallets of dimensions x=1 m, y=1 m. The height of a unit load is z=1 m and the allowances are a=0.1 m, b=0.1 m and c=0.1 m. What is the width of the AS/RS? Calculations:",
+        "options": {
+            "A": "9.9",
+            "B": "6.6",
+            "C": "3.3",
+            "D": "2.2"
+        },
+        "correct_option_keys": [
+            "A"
+        ],
+        "correct_answers": [
+            "9.9"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C5",
+                "source_text_file": "course_text/C5_unlocked.txt",
+                "line": 188,
+                "note": "AS/RS capacity and dimensions formulas"
+            }
+        ],
+        "answer_notes": "Total width = 3 aisles * 3 * (1 + 0.1) = 9.9 m."
+    },
+    {
+        "question": "For a 10-digit coded product using the polycode structure, what is the number of levels of the tree required to represent the product characteristics?",
+        "options": {
+            "A": "additional information is needed to determine the number of levels",
+            "B": "the product characteristics are not represented as a tree",
+            "C": "the number of digits minus 2, that is 8",
+            "D": "the number of digits, that is 10"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "the product characteristics are not represented as a tree"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C6",
+                "source_text_file": "course_text/C6_unlocked.txt",
+                "line": 124,
+                "note": "coding structures"
+            },
+            {
+                "course": "C6",
+                "source_text_file": "course_text/C6_unlocked.txt",
+                "line": 142,
+                "note": "monocode tree structure"
+            },
+            {
+                "course": "C6",
+                "source_text_file": "course_text/C6_unlocked.txt",
+                "line": 163,
+                "note": "polycode code table"
+            }
+        ]
+    },
+    {
+        "question": "Group technology is not used if:",
+        "options": {
+            "A": "the products can be grouped into product families",
+            "B": "the products have no similarities",
+            "C": "the products can't be grouped into product cells"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "the products have no similarities"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C6",
+                "source_text_file": "course_text/C6_unlocked.txt",
+                "line": 30,
+                "note": "group technology"
+            },
+            {
+                "course": "C6",
+                "source_text_file": "course_text/C6_unlocked.txt",
+                "line": 75,
+                "note": "methods to group parts into families"
+            }
+        ]
+    },
+    {
+        "question": "In the part-machine incidence matrix:",
+        "options": {
+            "A": "the groups on the main diagonal indicate the storage cells",
+            "B": "each group on the main diagonal indicates the group of machines used for a group of parts",
+            "C": "each group of the matrix indicates the distance between two machines belonging to the same manufacturing cell",
+            "D": "each group of the matrix indicates the distance between the manufacturing cells"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "each group on the main diagonal indicates the group of machines used for a group of parts"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C6",
+                "source_text_file": "course_text/C6_unlocked.txt",
+                "line": 187,
+                "note": "production flow analysis"
+            },
+            {
+                "course": "C6",
+                "source_text_file": "course_text/C6_unlocked.txt",
+                "line": 200,
+                "note": "part-machine incidence matrix"
+            }
+        ]
+    },
+    {
+        "question": "To be flexible a manufacturing system must:",
+        "options": {
+            "A": "quickly change the operating instructions",
+            "B": "quickly adapt to a new product",
+            "C": "be able to identify components and processed products",
+            "D": "be able to differentiate the components and products processed",
+            "E": "be controlled by a hierarchical control system"
+        },
+        "correct_option_keys": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correct_answers": [
+            "quickly change the operating instructions",
+            "quickly adapt to a new product",
+            "be able to identify components and processed products",
+            "be able to differentiate the components and products processed"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 37,
+                "note": "requirements for flexible manufacturing systems"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 645,
+                "note": "flexibility capabilities"
+            }
+        ]
+    },
+    {
+        "question": "Just-in-time production system is based on:",
+        "options": {
+            "A": "a push system",
+            "B": "a pull system"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "a pull system"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C10",
+                "source_text_file": "course_text/C10_unlocked.txt",
+                "line": 383,
+                "note": "JIT principles"
+            },
+            {
+                "course": "C10",
+                "source_text_file": "course_text/C10_unlocked.txt",
+                "line": 400,
+                "note": "Kanban cards"
+            }
+        ]
+    },
+    {
+        "question": "The objective(s) of Lean manufacturing is/are:",
+        "options": {
+            "A": "to eliminate defects",
+            "B": "to encourage overproduction",
+            "C": "to stimulate additional processing operations",
+            "D": "to remove inventories"
+        },
+        "correct_option_keys": [
+            "A",
+            "D"
+        ],
+        "correct_answers": [
+            "to eliminate defects",
+            "to remove inventories"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C11",
+                "source_text_file": "course_text/C11_unlocked.txt",
+                "line": 164,
+                "note": "lean manufacturing removes waste"
+            }
+        ]
+    },
+    {
+        "question": "The Master Production Schedule (MPS) is generally developed for the long term.",
+        "options": {
+            "A": "true",
+            "B": "false"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "false"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C9",
+                "source_text_file": "course_text/C9_unlocked.txt",
+                "line": 304,
+                "note": "MPS available balance formula"
+            },
+            {
+                "course": "C9",
+                "source_text_file": "course_text/C9_unlocked.txt",
+                "line": 283,
+                "note": "MPS is medium range"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following associations is/are correct?",
+        "options": {
+            "A": "hierarchical control system <=> traditional manufacturing system",
+            "B": "distributed control system <=> traditional manufacturing system",
+            "C": "hierarchical control system <=> modern manufacturing system",
+            "D": "distributed control system <=> modern manufacturing system"
+        },
+        "correct_option_keys": [
+            "A",
+            "D"
+        ],
+        "correct_answers": [
+            "hierarchical control system <=> traditional manufacturing system",
+            "distributed control system <=> modern manufacturing system"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C12",
+                "source_text_file": "course_text/C12_unlocked.txt",
+                "line": 281,
+                "note": "traditional factory control"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 37,
+                "note": "distributed computer control in FMS"
+            }
+        ]
+    },
+    {
+        "question": "What is the right order of the general steps required for the management activities of an investment project?\na. the equipment is installed and debugged.\nb. vendor quotations are required.\nc. any special tooling and supplies are ordered.\nd. the proposal to justify the investment is prepared.\ne. management approvals are granted for the investment.\nf. operators are trained.\ng. order is placed to the winning vendor.\nh. responsibility for running the equipment is turned over to the operating department.",
+        "options": {
+            "A": "d, b, e, g, c, f, a, h",
+            "B": "a, d, b, e, g, c, f, h",
+            "C": "e, b, d, g, c, f, a, h",
+            "D": "d, b, e, g, c, a, f, h"
+        },
+        "correct_option_keys": [],
+        "correct_answers": [],
+        "answer_status": "needs_review",
+        "answer_sources": [
+            {
+                "course": "C8",
+                "source_text_file": "course_text/C8_unlocked.txt",
+                "line": 392,
+                "note": "investment project management steps"
+            }
+        ],
+        "answer_notes": "Course order is d, e, b, g, c, a, f, h after omitting vendor-progress monitoring; no provided option matches that order."
+    },
+    {
+        "question": "Product flexibility is defined as:",
+        "options": {
+            "A": "capability to adapt a given machine in the system to a wide range of production operations and part styles",
+            "B": "the range of part styles that can be produced on the system",
+            "C": "ability to change the product mix while maintaining the same total production quantity",
+            "D": "ease with which design changes can be accommodated and new product can be introduced",
+            "E": "capability to produce parts through alternative workstation sequences in response to breakdowns, tool failures, and other interruptions at individual stations",
+            "F": "ability to economically produce parts in high and low quantities of production, given the fixed investment in the system"
+        },
+        "correct_option_keys": [
+            "D"
+        ],
+        "correct_answers": [
+            "ease with which design changes can be accommodated and new product can be introduced"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 37,
+                "note": "FMS definition"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 72,
+                "note": "FMS benefits"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 106,
+                "note": "types of flexibility"
+            }
+        ]
+    }
+]

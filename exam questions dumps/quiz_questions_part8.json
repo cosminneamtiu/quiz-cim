@@ -1,0 +1,92 @@
+[
+    {
+        "question": "For the production of a batch of 100 products, the following are known: the setup time of the manufacturing system is 15 minutes, and the actual manufacturing time of the whole batch is 200 minutes. After how long will a batch of 5 products be ready?",
+        "options": {
+            "A": "after 25 minutes",
+            "B": "after 50 de minutes",
+            "C": "after 205 minutes",
+            "D": "after 200.5 minutes",
+            "E": "insufficient data to determine the completion time of the batch of products"
+        },
+        "correct_option_keys": [
+            "A"
+        ],
+        "correct_answers": [
+            "after 25 minutes"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C3",
+                "source_text_file": "course_text/C3_unlocked.txt",
+                "line": 385,
+                "note": "manufacturing lead time"
+            },
+            {
+                "course": "C3",
+                "source_text_file": "course_text/C3_unlocked.txt",
+                "line": 420,
+                "note": "batch lead time example"
+            }
+        ],
+        "answer_notes": "15 setup minutes + 5 * (200 / 100) processing minutes = 25 minutes."
+    },
+    {
+        "question": "Taking into account the data presented in the table below and the fact that it is the first month in which the company has a production activity, calculates the value of stocks for January and writes in the table the obtained value:\nMonth | Sales (mil.of €) [S_i] | Labor (hr) [L_i] | Days worked [d_i] | Level workforce (number of employees required) [E] | Monthly production (millions of dollars) [mp_i] | Inventory balance (mil.of €) [Ib_i]\nJan | 6.6 | 66000 | 10 | 689 | 5.5 | \nPlanned work week is 40 hours long, Sales euros estimated/employee/hr is €100\nCalculations:",
+        "options": {},
+        "correct_option_keys": [],
+        "correct_answers": [
+            "-1.10"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C9",
+                "source_text_file": "course_text/C9_unlocked.txt",
+                "line": 304,
+                "note": "MPS available balance formula"
+            },
+            {
+                "course": "C9",
+                "source_text_file": "course_text/C9_unlocked.txt",
+                "line": 283,
+                "note": "MPS is medium range"
+            }
+        ],
+        "answer_notes": "Starting inventory is zero, so January balance = 0 + 5.50 - 6.60 = -1.10."
+    },
+    {
+        "question": "Industry 4.0 and IIoT are equivalent",
+        "options": {
+            "A": "true",
+            "B": "false"
+        },
+        "correct_option_keys": [
+            "A"
+        ],
+        "correct_answers": [
+            "true"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C12",
+                "source_text_file": "course_text/C12_unlocked.txt",
+                "line": 192,
+                "note": "IIoT"
+            },
+            {
+                "course": "C12",
+                "source_text_file": "course_text/C12_unlocked.txt",
+                "line": 288,
+                "note": "Industry 4.0"
+            },
+            {
+                "course": "C12",
+                "source_text_file": "course_text/C12_unlocked.txt",
+                "line": 325,
+                "note": "Industry 4.0 features"
+            }
+        ]
+    }
+]

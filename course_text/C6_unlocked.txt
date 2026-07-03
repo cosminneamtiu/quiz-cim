@@ -1,0 +1,612 @@
+           LECTURE 6
+
+2/9/2026               1
+      1.   Objectives
+      2.   Review
+      3.   Group technology
+      4.   Parts classification and coding
+      5.   Production flow analysis
+      6.   Conclusion
+
+
+
+
+2/9/2026                                     2
+     1.    Understanding the importance of group technology for
+           efficient production.
+     2.    Presentation of parts classification and coding techniques.
+     3.    Knowledge of the analysis methods for the production flows.
+
+
+
+
+2/9/2026                                                                 3
+      1.   Material storage system
+
+
+
+
+2/9/2026                             4
+           Group technology is a manufacturing philosophy in which similar
+           parts are identified and grouped together to take advantage of
+           their similarities in design and production.
+
+           Similar parts  part families
+
+           Production equipment  machine groups or cells
+
+    Each cell is specialized in production of a part family.
+
+            Group technology is most appropriately applied under the
+            following conditions:
+                 the plant currently uses traditional batch production and
+                  a process type layout;
+                 the parts can be grouped into part families.
+2/9/2026                                                                     5
+            Tasks that a company must undertake to implement group
+             technology(GT):
+                identifying the part families,
+                rearranging production machines into machine cells.
+
+
+            The benefits of group technology:
+                GT promotes standardization of tooling, fixturing, and setups
+                material handling is reduced
+                process planning and production scheduling are simplified
+                setup times are reduced => lower manufacturing lead time
+                work-in-process is reduced
+                worker satisfaction usually improves
+                higher quality work is accomplished
+2/9/2026                                                                     6
+               A part family is a collection of parts that are similar either
+               because of geometric shape and size or because similar
+               processing steps are required in their manufacturing.
+
+       Process type plant layout                 vs                   GT layout
+M       M           L                D       D        Receiving
+                             L                                    M      L    D
+M       M           L                G       G                                         A
+                                                                  L      M        G
+
+Receiving and                                          M     L    D      G    A
+shipping                A        A       A                                            Shipping
+
+
+                            Methods used to group the parts into families:
+                                visual inspection,
+                                parts classification and coding,
+    2/9/2026                    production flow analysis.                                 7
+           Visual inspection involves the classification of parts into families
+           by locking at either physical parts or their photographs and
+           arranging them into groups having similar features.
+
+             Visual inspection is the least sophisticated and least expensive.
+
+
+
+
+2/9/2026                                                                          8
+           In parts classification and coding method, similarities among parts
+           are identified, and these similarities are related in a coding system.
+            Parts classification systems:
+               system based on part design attributes,
+               system based on part manufacturing attributes,
+               system based on both design and manufacturing attributes.
+           Part design attributes                    Part manufacturing attributes
+Basic external shape, Basic internal shape,     Major process, Minor process, Operation
+Rotational or rectangular shape,                sequence, Major dimension, Surface
+Length-to-diameter ration (rotational parts),   finish, Machine tool, Production cycle
+                                                time, Batch size, Annual production,
+Aspect ratio (rectangular parts),               Fixture required, Cutting tools
+Material type, Part function, Major
+dimensions, Minor dimensions, Tolerances,
+  2/9/2026                                                                           9
+Surface finish.
+1. The group technology can not be used for production
+   systems that produce in batches.
+                                                               T   F
+
+2. The group technology applies only if the products can be
+   grouped.                                                    T   F
+
+3. The use of group technology decreases the number of
+   operations in the production process.
+                                                               T    F
+
+4. Visual inspection is the cheapest method used to classify
+   products.
+                                                               T   F
+
+5. Product classification systems may not use the design
+   features.                                                   T   F
+                                                                   10
+2/9/2026
+               There are three structures used in classification and coding schemes:
+                  monocode (or hierarchical structure): - the interpretation of each
+                   successive symbol depends on the value of the preceding symbols.
+                  polycode (or chain-type structure): - the interpretation of each
+                   symbol in the sequence is always the same.
+                  hybrid (or mixed-mode structure): - is a combination between
+                   monocode and polycode.
+
+Cylindrical part        Length to diameter ratio   Rectangular part   Length to width ratio
+
+
+
+                      Monocode: 15                                    Monocode: 25
+                      Polycode: 15                                    Polycode: 25
+
+
+ Cylindrical part          Length of the part      Rectangular part    Length of the part
+   2/9/2026                                                                         11
+     The hierarchical code structure (called a monocode), divides all parts
+      of the total population into distinct subgroups of about equal size.
+     The number of digits in the code is determined by the number of levels
+      in the tree.              Conical parts
+                                                  1XX
+
+
+                     Length/diameter>1.5                         Length/diameter<1.5
+                       First subgroup                               Second subgroup
+                             11X                                         12X
+
+            Gear          Milled or     Drilled or      Turned        Milled or        Turned
+           hobbing         turned        ground                       ground          and bored
+
+           The third      The fourth       The fifth    The sixth     The seventh     The eighth
+           subgroup       subgroup         subgroup     subgroup       subgroup       subgroup
+             111            112              113          124            125             126
+
+                        A few code numbers can                       the complexity associated
+                        represent a large amount of                  with defining all the branches.
+2/9/2026                information.                                                             12
+     The chain structure, called a polycode, is created from a code table
+      or matrix like the example shown:
+                                               Possible values of digits
+       Digit   Class of feature
+                                        1            2                3          4
+           1    External shape      Shape1        Shape2           Shape3         -
+
+           2    Internal shape       None         Shape1              -           -
+
+           3    Number of holes         0           1-2              3-5         6-8
+
+           4     Type of holes       Axial         Cross       Axial and cross
+
+           5         Flats          External      Internal          Both
+
+           6      Gear teeth         Spur         Helical
+
+
+ Example 1
+               The policode: 3 1 1 4 1 2
+
+                     Compact and easy             A polycode lacks the detail present
+2/9/2026                                                                           13
+                     to use and develop.          in a hierarchical structure.
+            Production flow analysis (PFA) is a method for identifying part
+           families and associated machine groupings that uses the information
+           contained on production route sheets rather than on part.
+             PFA uses manufacturing data rather than design data, so two
+              possible anomalies can occur in parts classification and coding:
+                 parts whose basic geometries are quite different may
+                  nevertheless require similar or even identical process routings.
+                 parts whose geometries are quite similar may nevertheless
+                  require process routings that are quite different.
+             Steps for PFA:
+                 data collection (part number, operation sequence, lot size, time
+                  standards and annual demand)
+                 sorting of process routings (parts are arranged into groups)
+                 PFA chart (or part-machine incidence matrix)
+2/9/2026         cluster analysis (related groupings are identified and rearranged)
+                                                                                  14
+                             Parts
+           Machines
+                      1 2 3 4 5 6 7 8 9
+
+              1       1 0 0 1 0 0 0 1 0
+              2       0 0 0 0 1 0 0 0 1
+              3       0 0 1 0 1 0 0 0 1
+              4       0 1 0 0 0 1 0 0 0
+              5       1 0 0 0 0 0 0 1 0
+              6       0 0 1 0 0 0 0 0 1
+              7       0 1 0 0 0 1 1 0 0
+
+
+
+
+                       PFA require less time than a    Data used are derived
+                       complete parts classification   from existing production
+2/9/2026                                                                    15
+                       and coding procedure.           route sheets.
+   STEP 1:
+       Read the series of 1’s and 0’s in each raw of the matrix from left to right as a
+         binary number and then rank the rows in order of decreasing value. In case of a
+         tie, rank the rows in the same order as they are in the current matrix;
+       Number the rows from top to bottom. Is the current order of rows the same as the
+         rank order determined in previous step? If YES STOP, else go to the next step;
+       Reorder the rows in the part-machine incidence matrix by listing them in
+         decreasing rank order, starting from the top.
+ Binary                                                                  Binary
+           28   27   26   25    24     23   22   21   20                           28   27   26   25    24     23   22   21   20
+ values                                                                  values
+                                                                                                                                    Rank
+                                                           Value Rank
+                               Parts                                                                   Parts
+Machines                                                                Machines
+           1    2    3    4     5      6    7    8    9                            1    2    3    4     5      6    7    8    9
+
+   1       1    0    0    1     0      0    0    1    0    290    1        1       1    0    0    1     0      0    0    1    0      1
+   2       0    0    0    0     1      0    0    0    1     17    7        5       1    0    0    0     0      0    0    1    0      2
+   3       0    0    1    0     1      0    0    0    1     81    5        7       0    1    0    0     0      1    1    0    0      3
+   4       0    1    0    0     0      1    0    0    0    136    4        4       0    1    0    0     0      1    0    0    0      4
+   5       1    0    0    0     0      0    0    1    0    258    2        3       0    0    1    0     1      0    0    0    1      5
+   6       0    0    1    0     0      0    0    0    1     65    6        6       0    0    1    0     0      0    0    0    1      6
+   7   2/9/2026
+          0   1      0    0     0      1    1    0    0    140    3        2       0    0    0    0     1      0    0    0    116    7
+  STEPL 2:
+      Read the series of 1’s and 0’s in each column of the matrix from top to bottom as a
+        binary number. Rank the columns in order of decreasing value.
+      Number the columns from left to right. Is the current order of columns the same
+        as the rank order determined in the previous step? If YES, STOP, else go to next
+        step.
+      Reorder the columns in the part-machine incidence matrix by listing them in
+        decreasing rank order, starting with the left column. Go to beginning.
+                              Parts
+                                                         Binary
+Machines                                                                                     Parts
+                                                         values                                                        Binary
+           1    2    3   4     5      6    7    8    9            Machines
+                                                                                                                       values
+                                                                             1   8   4   2    6      7   9   3   5
+   1       1    0    0   1     0      0    0    1    0     26
+                                                                     1       1   1   1   0    0      0   0   0   0       26
+   5       1    0    0   0     0      0    0    1    0     25
+                                                                     5       1   1   0   0    0      0   0   0   0       25
+   7       0    1    0   0     0      1    1    0    0     24
+                                                                     7       0   0   0   1    1      1   0   0   0       24
+   4       0    1    0   0     0      1    0    0    0     23
+                                                                     4       0   0   0   1    1      0   0   0   0       23
+   3       0    0    1   0     1      0    0    0    1     22
+                                                                     3       0   0   0   0    0      0   1   1   1       22
+   6       0    0    1   0     0      0    0    0    1     21
+                                                                     6       0   0   0   0    0      0   1   1   0       21
+   2       0    0    0   0     1      0    0    0    1     20
+                                                                     2       0   0   0   0    0      0   1   0   1       20
+ Value     96   24   6   64    5      24   16   96   7
+       2/9/2026                                                    Rank      1   2   3   4    5      6   7   8   917
+ Rank      1    4    8   3     9      5    6    2    7
+           STEP 3:
+               Repeat steps 1 and 2 until there are no more changes in ranking from one
+                 iteration to another.
+               Group the machines so that the groups form a diagonal.
+
+
+ Binary                                                                   Binary
+            28   27   26   25    24     23   22   21   20                           28   27   26   25    24     23   22   21   20
+ values                                                                   values
+                                                            Value Rank                                                              Rank
+                                Parts                                                                   Parts
+Machines                                                                 Machines
+            1    8    4    2     6      7    9    3    5                            1    8    4    2     6      7    9    3    5
+
+   1        1    1    1    0     0      0    0    0    0    448    1        1       1    1    1    0     0      0    0    0    0     1
+
+   5        1    1    0    0     0      0    0    0    0    384    2        5       1    1    0    0     0      0    0    0    0     2
+
+   7        0    0    0    1     1      1    0    0    0     56    3        7       0    0    0    1     1      1    0    0    0     3
+
+   4        0    0    0    1     1      0    0    0    0     48    4        4       0    0    0    1     1      0    0    0    0     4
+
+   3        0    0    0    0     0      0    1    1    1     7     5        3       0    0    0    0     0      0    1    1    1     5
+
+   6        0    0    0    0     0      0    1    1    0     6     6        6       0    0    0    0     0      0    1    1    0     6
+
+   2        0    0    0    0     0      0    1    0    1     5     7        2       0    0    0    0     0      0    1    0    1     7
+
+
+
+          2/9/2026                                                                                                             18
+             Consider the part-machine incidence matrix shown below. This is
+ Example 2
+             the same as the original part-machine matrix (shown in previous
+             example) except that part number 2 requires processing on
+             machines 1, 4 and 7, and part number 4 now requires processing
+             on machines 1 and 4. Use the rank order clustering technique to
+             arrange parts and machine into groups.
+
+                                           Parts
+                       Machines
+                                  1   2 3 4 5 6    7   8   9
+
+                          1       1   1 0 1 0 0    0   1   0
+
+                          2       0   0 0 0 1 0    0   0   1
+
+                          3       0   0 1 0 1 0    0   0   1
+
+                          4       0   1 0 1 0 1    0   0   0
+
+                          5       1   0 0 0 0 0    0   1   0
+
+                          6       0   0 1 0 0 0    0   0   1
+
+                          7       0   1 0 0 0 1    1   0   0
+
+2/9/2026                                                                19
+  Example 2
+    Solution        The rank order clustering technique converges to a solution in two
+                    iterations:
+                                               Binary
+                                               values    28   27   26   25    24     23   22   21   20
+                                                                                                         Rank
+                                                                             Parts
+                                              Machines
+       The elements “21” and                             1    8    2    4     6      7    9    3    5
+      “41” (part 2 processed on                  1       1    1    1    1     0      0    0    0    0     1
+      machine 1, part 4                          5       1    1    0    0     0      0    0    0    0     2
+      processed on machine 1)                    4       0    0    1    1     1      0    0    0    0     3
+
+      are exceptional elements..                 7       0    0    1    0     1      1    0    0    0     4
+                                                 3       0    0    0    0     0      0    1    1    1     5
+                                                 6       0    0    0    0     0      0    1    1    0     6
+                                                 2       0    0    0    0     0      0    1    0    1     7
+      1King recommends to replace them by an asterisk and treat them as
+
+      zeros when applying the rank order clustering technique.
+      1KING, J.R., “Machine-Component Grouping in Production Flow Analysis ; an Approach Using a Rank
+
+      Order Clustering Algorithm”, International Journal of production Research, Vol. 18, 1980, pp 213-222
+2/9/2026                                                                                                   20
+  Example 2
+    Solution     The solution offered by King is not effective!
+   (continued)
+
+           Another way of dealing with the overlap is to duplicate the
+           machine that is used by more than one family (machine 1).
+
+                          Binary
+                                    28   27   26   25    24     23   22   21   20
+                          values
+                                                                                    Rank
+                                                        Parts
+                         Machines
+                                    1    8    2    4     6      7    9    3    5
+
+                           1a       1    1    0    0     0      0    0    0    0     1
+
+                            5       1    1    0    0     0      0    0    0    0     2
+
+                            4       0    0    1    1     1      0    0    0    0     3
+
+                           1b       0    0    1    1     0      0    0    0    0
+
+                            7       0    0    1    0     1      1    0    0    0     4
+
+                            3       0    0    0    0     0      0    1    1    1     5
+
+                            6       0    0    0    0     0      0    1    1    0     6
+
+                            2       0    0    0    0     0      0    1    0    1     7
+2/9/2026                                                                                   21
+            After part-machine groupings have been identified the
+             problem is to organize the machines into the most logical
+             arrangement.
+            Hollier introduces six heuristic approaches to solving the
+             machine arrangement problem.
+            First two methods will be described using data contained in
+             From-To charts.
+
+
+
+
+2/9/2026                                                                   22
+           The method requires next steps:
+               1. Develop the From-To chart from part routing data;
+               2. Determine the “From” and “To” sums for each machine;
+               3. Assign machines to the cell based on minimum “From” or “To” sums:
+                   • if the minimum value is a “To” sum, then the machine is placed at the
+                       beginning of the sequence;
+                   • if the minimum value is a “From” sum then the machine is placed at the end
+                       of the sequence;
+               Tie breaker rules:
+                     • if a tie occurs between minimum “To” sums or minimum “From” sums =>
+                       the machine with the minimum “From/To” ratio is selected;
+                     • if both “To” and “From” sums are equal for a selected machine, it is passed
+                       over and the machine with the next lowest sum is selected;
+                     • if a minimum “To” sum is equal to a minimum “From” sum, then both
+                       machines are selected and placed at the beginning and end of the sequence,
+                       respectively.
+               4. Reformat the From-To chart :
+                     • after each machine has been selected, restructure the From-To chart by
+                       eliminating the row and column corresponding to the selected machine and
+                       recalculate the “From” and “To” sums;
+2/9/2026             • repeat steps 3 and 4 until all machines have been assigned.          23
+              Suppose that four machines 1,2,3 and 4 have been identified as
+  Example 3
+              belonging in a GT machine cell. An analysis of 50 parts processed on
+              these machines has been summarized in the “From-To” chart below.
+              Additional information is that 50 parts enter the machine grouping
+              at machine 3, 20 parts leave processing at machine 1, and 30 parts
+              leave after machine 4. Determine a logical machine arrangement
+              using Hollier method 1.
+
+                         To
+                                 1         2        3         4
+                     From
+                       1          0        5        0        25
+                       2         30       0         0        15
+                       3         10       40        0        0
+                       4         10       0         0        0
+
+
+
+
+2/9/2026                                                                      24
+Example 3
+  Solution
+             “From” and “To” sums after first iteration are illustrated in
+              Table 1. => The minimum sum value is the “To” sum for
+     machine 3. => Machine 3 is placed at the beginning of sequence and the
+     corresponding row and column are eliminated resulting the Table 2
+         To                                      Sums       To                             Sums
+                1         2       3        4                     1       2       4
+      From                                      “from”   From                             “from”
+        1      0          5       0        25     30       1     0       5       25         30
+        2      30         0       0        15     45       2     30      0       15         45
+        3      10         40      0        0      50       4     10      0       0          10
+        4      10         0       0        0      10     Sums
+                                                                 40      5       40
+      Sums                                                “To”
+               50         45      0        40
+       “To”
+                                                          Table 2. From and To sums; second
+       Table1. From and To sums; first
+                                                                       iteration
+                  iteration
+                     To                      Sums
+                              1       4
+              From                          “From”
+                1          0          25      25
+                                                          3          2       1        4
+                4          10          0      10
+              Sums
+                           10         25
+              “To”
+      Table 3. From and To sums; third iteration
+2/9/2026                                                                                      25
+           The method can be reduced to three steps:
+               1. Develop the From-To chart
+               2. Determine the From/To ratio for each machine:
+                   • Sum all “From” trips and “To” trips for each machine.
+                     The “From” sum for a machine is determined by
+                     adding the entries in the corresponding row, and the
+                     “To” sum by adding the entries in the corresponding
+                     column.
+                   • Calculate From/To ratio for each machine
+               3. Arrange machines in order of decreasing From/To ratio:
+                   • In case of a tie, the machine with the higher “From”
+                     value is placed ahead of the machine with a lower
+                     value.
+2/9/2026                                                                     26
+                    Suppose that four machines 1,2,3 and 4 have been identified as
+  Example 4
+                   belonging in a GT machine cell. An analysis of 50 parts processed on
+                   these machines has been summarized in the “From-To” chart of
+                   table below. Additional information is that 50 parts enter the
+           machine grouping at machine 3, 20 parts leave processing at machine 1, and
+           30 parts leave after machine 4. Determine a logical machine arrangement
+           using Hollier method 2.          To
+                                                    1         2        3        4
+                                        From
+                                           1        0         5        0        25
+                                             2      30        0        0        15
+                                             3      10        40       0        0
+                                             4      10        0        0        0
+
+
+
+      To                             „From”
+              1     2      3     4          “From”/”To”
+ From                                 sums
+    1         0     5      0    25     30        0.6
+    2        30     0      0    15     45        1.0
+    3        10     40     0    0      50        ∞
+    4        10     0      0    0      10       0.25
+   „To”
+             50     45     0    40     135
+  sums                                                             2
+2/9/2026                                                  3                1         4
+                                                                                     27
+           It is helpful to use a graphical techniques, such as the flow
+            diagram to conceptualize the work flow in the cell.
+           The flow diagram for the machine arrangement in examples 3
+            and 4 is ilustrated below:
+           Two performance measures can be defined to compare
+            solutions to the machine sequencing problem:
+              percentage of in-sequence moves (PIM)
+              percentage of backtracking moves (PBM)
+                            10            15
+
+
+        50 in          40            30        25
+                 3               2         1             4        30 out
+
+                                                    10
+                                      5                          20 out
+
+       ∑  in sequence moves             ∑  backtracking moves 
+                                                                  
+                               
+PIM                       =     ×100% PBM                            ×100%
+       total number of moves
+ 2/9/2026                                  total number of moves 28
+                                     10                15
+
+
+              50 in             40              30            25
+                         3                2             1                4             30 out
+
+                                                                    10
+                                                 5                                     20 out
+
+    ∑  in sequence moves             ∑  backtracking moves 
+                                                                                       
+                            
+PIM                    =     ×100% PBM                            ×100%
+    total number of moves               total number of moves
+
+
+                           𝟒𝟒𝟒𝟒 + 𝟑𝟑𝟑𝟑 + 𝟐𝟐𝟐𝟐                      95
+   𝐏𝐏𝐏𝐏𝐏𝐏 =                                                x100% =     x100% = 𝟕𝟕𝟕𝟕. 𝟑𝟑𝟑𝟑𝟑
+              𝟒𝟒𝟒𝟒 + 𝟑𝟑𝟑𝟑 + 𝟐𝟐𝟐𝟐 + 𝟏𝟏𝟏𝟏 + 𝟏𝟏𝟏𝟏 + 𝟏𝟏𝟏𝟏 + 𝟓𝟓         135
+
+                              𝟏𝟏𝟏𝟏 + 𝟓𝟓                          15
+   𝐏𝐏𝐏𝐏𝐏𝐏 =                                              x100% =     x100% = 𝟏𝟏𝟏𝟏. 𝟏𝟏𝟏𝟏𝟏
+            𝟒𝟒𝟒𝟒 + 𝟑𝟑𝟑𝟑 + 𝟐𝟐𝟐𝟐 + 𝟏𝟏𝟏𝟏 + 𝟏𝟏𝟏𝟏 + 𝟏𝟏𝟏𝟏 + 𝟓𝟓         135
+
+
+
+ 2/9/2026                                                                                    29
+1. In the case of polycode the interpretation of each symbol
+  from the sequence depends on the previous symbol.
+                                                                  T    F
+
+2. For the chain-type structure the interpretation of each
+   symbol in the sequence is always the same.                     T    F
+
+3. For the polycode structure, the number of digits of the code
+   is determined by the number of levels in the hierarchy.
+                                                                  T    F
+
+4. Monocode encodes more information.                             T    F
+
+5. Sorting of process routings is a step in the production flow
+   analysis.
+                                                                  T    F
+ 2/9/2026                                                             30
+       Using group technology provides a more efficient use of
+        resources.
+
+      Product group activity is more difficult as increasing the number
+       of product types.
+
+
+      Production flow analysis is necessary to streamline production
+       activities.
+
+
+
+
+2/9/2026                                                                   31
+            The components of a Flexible Manufacturing
+             System (FMS)
+            The applications and benefits of FMS
+            FMS planning and design
+            Quantitative analysis of FMS
+
+
+
+
+2/9/2026                                             32
+

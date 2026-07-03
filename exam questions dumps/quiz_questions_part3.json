@@ -1,0 +1,451 @@
+[
+    {
+        "question": "Which of the following represent external challenge(s) for a company?",
+        "options": {
+            "A": "partnerships and alliances",
+            "B": "competitors",
+            "C": "the use of green technology to reduce the negative impact of external challenges"
+        },
+        "correct_option_keys": [
+            "A",
+            "B"
+        ],
+        "correct_answers": [
+            "partnerships and alliances",
+            "competitors"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C1",
+                "source_text_file": "course_text/C1_unlocked.txt",
+                "line": 83,
+                "note": "external challenges"
+            }
+        ]
+    },
+    {
+        "question": "Capacity planning involves:",
+        "options": {
+            "A": "production planning for the main production lines",
+            "B": "determining the quantity to be manufactured for each model made on a production line",
+            "C": "detailed planning of the material requirements for each model made on the production line",
+            "D": "the human resource planning involved in the production process"
+        },
+        "correct_option_keys": [
+            "D"
+        ],
+        "correct_answers": [
+            "the human resource planning involved in the production process"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C3",
+                "source_text_file": "course_text/C3_unlocked.txt",
+                "line": 251,
+                "note": "production capacity"
+            },
+            {
+                "course": "C9",
+                "source_text_file": "course_text/C9_unlocked.txt",
+                "line": 601,
+                "note": "capacity planning"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is/are component(s) of a CIM system?",
+        "options": {
+            "A": "CAD",
+            "B": "CAM",
+            "C": "CAQ",
+            "D": "CAP"
+        },
+        "correct_option_keys": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correct_answers": [
+            "CAD",
+            "CAM",
+            "CAQ",
+            "CAP"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C1",
+                "source_text_file": "course_text/C1_unlocked.txt",
+                "line": 257,
+                "note": "CIM subsystems"
+            }
+        ]
+    },
+    {
+        "question": "The use of group technology decreases the number of operations in the production process.",
+        "options": {
+            "A": "true",
+            "B": "false"
+        },
+        "correct_option_keys": [
+            "A"
+        ],
+        "correct_answers": [
+            "true"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C6",
+                "source_text_file": "course_text/C6_unlocked.txt",
+                "line": 30,
+                "note": "group technology"
+            },
+            {
+                "course": "C6",
+                "source_text_file": "course_text/C6_unlocked.txt",
+                "line": 75,
+                "note": "methods to group parts into families"
+            }
+        ]
+    },
+    {
+        "question": "Assembly to order is used when:",
+        "options": {
+            "A": "the combination of product options can't be predicted statistically",
+            "B": "subassemblies and components for the finished product are available in stock",
+            "C": "the time the customer is willing to wait allows the product to be made after receiving the order",
+            "D": "the time the customer is willing to wait is less than the manufacturing time",
+            "E": "the product is in the first stage on the life cycle curve"
+        },
+        "correct_option_keys": [
+            "B",
+            "D"
+        ],
+        "correct_answers": [
+            "subassemblies and components for the finished product are available in stock",
+            "the time the customer is willing to wait is less than the manufacturing time"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C3",
+                "source_text_file": "course_text/C3_unlocked.txt",
+                "line": 536,
+                "note": "assemble-to-order conditions"
+            }
+        ]
+    },
+    {
+        "question": "Production planning specifies:",
+        "options": {
+            "A": "which products are to be manufactured",
+            "B": "production deadlines",
+            "C": "how much of which will be produced"
+        },
+        "correct_option_keys": [
+            "A",
+            "B",
+            "C"
+        ],
+        "correct_answers": [
+            "which products are to be manufactured",
+            "production deadlines",
+            "how much of which will be produced"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C9",
+                "source_text_file": "course_text/C9_unlocked.txt",
+                "line": 23,
+                "note": "production planning scope"
+            },
+            {
+                "course": "C9",
+                "source_text_file": "course_text/C9_unlocked.txt",
+                "line": 37,
+                "note": "aggregate/MPS/MRP/capacity definitions"
+            }
+        ]
+    },
+    {
+        "question": "The transformation of the raw material from one state to another, the latter being closer to the desired component or finished product is carried out by:",
+        "options": {
+            "A": "design",
+            "B": "an assembly operation",
+            "C": "quality control",
+            "D": "a processing operation"
+        },
+        "correct_option_keys": [
+            "D"
+        ],
+        "correct_answers": [
+            "a processing operation"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C3",
+                "source_text_file": "course_text/C3_unlocked.txt",
+                "line": 50,
+                "note": "processing operation"
+            },
+            {
+                "course": "C3",
+                "source_text_file": "course_text/C3_unlocked.txt",
+                "line": 64,
+                "note": "assembly operation"
+            }
+        ]
+    },
+    {
+        "question": "What tests should pass a manufacturing system to be considered flexible?",
+        "options": {
+            "A": "new part test",
+            "B": "error recovery test",
+            "C": "schedule change test",
+            "D": "part variety test"
+        },
+        "correct_option_keys": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correct_answers": [
+            "new part test",
+            "error recovery test",
+            "schedule change test",
+            "part variety test"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 37,
+                "note": "FMS definition"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 72,
+                "note": "FMS benefits"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 106,
+                "note": "types of flexibility"
+            }
+        ]
+    },
+    {
+        "question": "What kind of demand is needed for a production line that produces laptops?",
+        "options": {
+            "A": "independent",
+            "B": "dependent"
+        },
+        "correct_option_keys": [
+            "A"
+        ],
+        "correct_answers": [
+            "independent"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C9",
+                "source_text_file": "course_text/C9_unlocked.txt",
+                "line": 263,
+                "note": "MPS end-item demand"
+            }
+        ]
+    },
+    {
+        "question": "Batch size reduction leads to:",
+        "options": {
+            "A": "increased production costs in the case of CM systems",
+            "B": "increased production costs in the case of classical manufacturing systems",
+            "C": "decreased production costs in the case of classical manufacturing systems",
+            "D": "any of the above"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "increased production costs in the case of classical manufacturing systems"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C1",
+                "source_text_file": "course_text/C1_unlocked.txt",
+                "line": 92,
+                "note": "CIM reduces production lots"
+            }
+        ]
+    },
+    {
+        "question": "Cycle stock exists when the production rate exceeds the sales (or demand) rate.",
+        "options": {
+            "A": "true",
+            "B": "false"
+        },
+        "correct_option_keys": [
+            "A"
+        ],
+        "correct_answers": [
+            "true"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C1",
+                "source_text_file": "course_text/C1_unlocked.txt",
+                "line": 243,
+                "note": "inventory stock statements"
+            }
+        ]
+    },
+    {
+        "question": "Group technology can be applied only when the products share similarities.",
+        "options": {
+            "A": "true",
+            "B": "false"
+        },
+        "correct_option_keys": [
+            "A"
+        ],
+        "correct_answers": [
+            "true"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C6",
+                "source_text_file": "course_text/C6_unlocked.txt",
+                "line": 30,
+                "note": "group technology"
+            },
+            {
+                "course": "C6",
+                "source_text_file": "course_text/C6_unlocked.txt",
+                "line": 75,
+                "note": "methods to group parts into families"
+            }
+        ]
+    },
+    {
+        "question": "Guidance based on painted strips is the most indicated technology.",
+        "options": {
+            "A": "true",
+            "B": "false"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "false"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C4",
+                "source_text_file": "course_text/C4_unlocked.txt",
+                "line": 67,
+                "note": "material handling design factors"
+            },
+            {
+                "course": "C4",
+                "source_text_file": "course_text/C4_unlocked.txt",
+                "line": 156,
+                "note": "vehicle guidance technologies"
+            }
+        ]
+    },
+    {
+        "question": "The setup time can be ignored when determining the operation cycle time for job shop production.",
+        "options": {
+            "A": "true",
+            "B": "false"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "false"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C3",
+                "source_text_file": "course_text/C3_unlocked.txt",
+                "line": 385,
+                "note": "manufacturing lead time"
+            },
+            {
+                "course": "C3",
+                "source_text_file": "course_text/C3_unlocked.txt",
+                "line": 420,
+                "note": "batch lead time example"
+            }
+        ]
+    },
+    {
+        "question": "The complexity of a product is given by:",
+        "options": {
+            "A": "the number of components",
+            "B": "the number of operations required for manufacturing"
+        },
+        "correct_option_keys": [
+            "A",
+            "B"
+        ],
+        "correct_answers": [
+            "the number of components",
+            "the number of operations required for manufacturing"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C3",
+                "source_text_file": "course_text/C3_unlocked.txt",
+                "line": 119,
+                "note": "product complexity"
+            }
+        ]
+    },
+    {
+        "question": "Dedicated storage can't be used when products are stored according to the level of activity.",
+        "options": {
+            "A": "true",
+            "B": "false"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "false"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C5",
+                "source_text_file": "course_text/C5_unlocked.txt",
+                "line": 86,
+                "note": "storage system measures"
+            },
+            {
+                "course": "C5",
+                "source_text_file": "course_text/C5_unlocked.txt",
+                "line": 113,
+                "note": "storage strategies"
+            }
+        ]
+    }
+]

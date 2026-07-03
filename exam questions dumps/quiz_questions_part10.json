@@ -1,0 +1,199 @@
+[
+    {
+        "question": "An assembly operation:",
+        "options": {
+            "A": "transforms a work material from one state of completion to a more advanced state that is closer to the final desired part or product",
+            "B": "joins two or more components to create a new entity"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "joins two or more components to create a new entity"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C3",
+                "source_text_file": "course_text/C3_unlocked.txt",
+                "line": 50,
+                "note": "processing operation"
+            },
+            {
+                "course": "C3",
+                "source_text_file": "course_text/C3_unlocked.txt",
+                "line": 64,
+                "note": "assembly operation"
+            }
+        ]
+    },
+    {
+        "question": "Process Planning is always made manually in a company.",
+        "options": {
+            "A": "true",
+            "B": "false"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "false"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C8",
+                "source_text_file": "course_text/C8_unlocked.txt",
+                "line": 429,
+                "note": "CAPP self-assessment"
+            }
+        ]
+    },
+    {
+        "question": "An FMS needs less time than a classical manufacturing system to adapt to a new product.",
+        "options": {
+            "A": "true",
+            "B": "false"
+        },
+        "correct_option_keys": [
+            "A"
+        ],
+        "correct_answers": [
+            "true"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 37,
+                "note": "FMS definition"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 72,
+                "note": "FMS benefits"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 106,
+                "note": "types of flexibility"
+            }
+        ]
+    },
+    {
+        "question": "The maximum production rate of all parts produced in a FMS is the maximum production rate of the fastest station.",
+        "options": {
+            "A": "true",
+            "B": "false"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "false"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 355,
+                "note": "maximum production rate/bottleneck"
+            }
+        ]
+    },
+    {
+        "question": "The design of a material handling system does not depend on the type of manufacturing system where is embedded.",
+        "options": {
+            "A": "true",
+            "B": "false"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "false"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C4",
+                "source_text_file": "course_text/C4_unlocked.txt",
+                "line": 67,
+                "note": "material handling design factors"
+            },
+            {
+                "course": "C4",
+                "source_text_file": "course_text/C4_unlocked.txt",
+                "line": 156,
+                "note": "vehicle guidance technologies"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following statements is / are false?",
+        "options": {
+            "A": "Aggregate production planning is used to convert master production schedule into an aggregate production plan.",
+            "B": "Master production planning is used to convert the aggregate production plan into a master production schedule.",
+            "C": "Material requirement planning translate the MPS of end products into a detailed schedule for the raw material and parts used in those end products."
+        },
+        "correct_option_keys": [
+            "A"
+        ],
+        "correct_answers": [
+            "Aggregate production planning is used to convert master production schedule into an aggregate production plan."
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C9",
+                "source_text_file": "course_text/C9_unlocked.txt",
+                "line": 23,
+                "note": "production planning scope"
+            },
+            {
+                "course": "C9",
+                "source_text_file": "course_text/C9_unlocked.txt",
+                "line": 37,
+                "note": "aggregate/MPS/MRP/capacity definitions"
+            }
+        ]
+    },
+    {
+        "question": "The Cyber-physical systems are related to the third industrial revolution.",
+        "options": {
+            "A": "true",
+            "B": "false"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "false"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C12",
+                "source_text_file": "course_text/C12_unlocked.txt",
+                "line": 192,
+                "note": "IIoT"
+            },
+            {
+                "course": "C12",
+                "source_text_file": "course_text/C12_unlocked.txt",
+                "line": 288,
+                "note": "Industry 4.0"
+            },
+            {
+                "course": "C12",
+                "source_text_file": "course_text/C12_unlocked.txt",
+                "line": 325,
+                "note": "Industry 4.0 features"
+            }
+        ]
+    }
+]

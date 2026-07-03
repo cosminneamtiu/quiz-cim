@@ -1,0 +1,116 @@
+[
+    {
+        "question": "The quoted price for a certain part is 35 euros per unit for a batch of 10 units. The part can be produced in the company's own plant with the following costs: 14 euros the unit raw material, 12 euros the direct labor, labor overhead at 150%, 6 euros for equipment fixed cost. Should the part be bought or made in-house? Calculations:",
+        "options": {
+            "A": "to produce because the production costs would be higher than those involved in the purchase",
+            "B": "to produce because the production costs would be lower than those involved in the purchase",
+            "C": "to buy because the production costs would be lower than those involved in the purchase",
+            "D": "to buy because the production costs would be higher than those involved in the purchase"
+        }
+    },
+    {
+        "question": "Which of the following statements is/are true?",
+        "options": {
+            "A": "Through their activity the factories have no impact on the environment.",
+            "B": "Through their activity not all the factories have an impact on the environment.",
+            "C": "Through their activity the factories have an impact on the environment"
+        }
+    },
+    {
+        "question": "Which of the following activities in a modern manufacturing system rely on the use of computers?",
+        "options": {
+            "A": "planning",
+            "B": "manufacturing",
+            "C": "diagnosis",
+            "D": "assembling"
+        }
+    },
+    {
+        "question": "Which of the following are typical for Industry 4.0?",
+        "options": {
+            "A": "the ability to act instantly",
+            "B": "centralization",
+            "C": "interoperability",
+            "D": "virtualization",
+            "E": "modularization"
+        }
+    },
+    {
+        "question": "Which of the following are characteristic of modern manufacturing systems",
+        "options": {
+            "A": "production is efficient only if it is done in small batches",
+            "B": "production is also efficient if done in small batches",
+            "C": "the control system is distributed",
+            "D": "the control system is generally hierarchical",
+            "E": "has a high modularity"
+        }
+    },
+    {
+        "question": "Production in large batches is mainly used in the case of a modern manufacturing system:",
+        "options": {
+            "A": "true",
+            "B": "false"
+        }
+    },
+    {
+        "question": "What are the consequences of manufacturing resource planning (MRP II)?",
+        "options": {
+            "A": "more money spent on investments for material",
+            "B": "reductions in the amount of inventory declared obsolete",
+            "C": "better planning with suppliers",
+            "D": "lower purchasing costs"
+        }
+    },
+    {
+        "question": "Which of the following are related to design for life cycle?",
+        "options": {
+            "A": "product manufacturing",
+            "B": "production planning",
+            "C": "product delivery",
+            "D": "product disposal"
+        }
+    },
+    {
+        "question": "In a part-machine incidence matrix:",
+        "options": {
+            "A": "the more homogeneous the groups along the main diagonal are (i.e., the more '1's it contains), the more efficiently the machines are allocated.",
+            "B": "the more homogeneous the groups on the anti-diagonal are (i.e., the more '1's they contain), the more efficiently the machines can be allocated.",
+            "C": "the more heterogeneous the groups along the main diagonal are, the more efficiently the machines are allocated.",
+            "D": "the more heterogeneous the groups on the anti-diagonal are, the more efficiently the machines can be allocated."
+        }
+    },
+    {
+        "question": "What is the most modern vehicle guidance technology used in a factory?",
+        "options": {
+            "A": "imbedded guide wires",
+            "B": "paint stripes",
+            "C": "sensor-fusion-based self-guidance"
+        }
+    },
+    {
+        "question": "Master production planning:",
+        "options": {
+            "A": "is used to convert the aggregate production plan into a master production schedule.",
+            "B": "involves planning the production output levels for major production lines.",
+            "C": "translate the MPS of end products into a detailed schedule for the raw materials and parts used in those end products.",
+            "D": "determines the labor and equipment resources needed to achieve the master schedule."
+        }
+    },
+    {
+        "question": "Which of the following methods are not specific to green production?",
+        "options": {
+            "A": "development of recycled products",
+            "B": "use of non-renewable resources",
+            "C": "increase the number of materials required for a product",
+            "D": "extend the life cycle of a product"
+        }
+    },
+    {
+        "question": "Predictive manufacturing:",
+        "options": {
+            "A": "involves a large amount of data collected from sensors",
+            "B": "aims to ensure that production is not affected by equipment failure",
+            "C": "requires less data acquired from the production system"
+        }
+    }
+]

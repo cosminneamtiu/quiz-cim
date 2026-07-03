@@ -1,0 +1,505 @@
+           LECTURE 10
+
+2/9/2026                1
+      1.   Objectives
+      2.   Review
+      3.   Shop floor control
+      4.   Inventory control
+      5.   Manufacturing Resource Planning
+      6.   Just-in-Time production system
+      7.   Conclusion
+
+
+
+
+2/9/2026                                     2
+      1.   Knowing the production planning strategies
+      2.   Knowing the management of material requirements
+      3.   Understanding the allocation of manufacturing resources
+      4.   Identifying the specific features of Just-in-Time manufacturing
+           systems
+
+
+
+
+2/9/2026                                                                     3
+      1.   Aggregate production planning
+      2.   Master production planning
+      3.   Material requirements planning (MRP)
+      4.   Capacity planning
+                                                                     Sales and
+                                                                     marketing
+                                                 Aggregate
+                                                 production                      Product
+                  Aggregate                       planning                        design
+                   planning
+                                                   Master
+                                                 production
+                                                  schedule
+                              Inventory                              Capacity
+                               records                               planning
+                                                  Material
+                  Detailed                      requirements                         Engineering and
+                  planning                        planning                            manufacturing
+                                                                                        data base
+
+                 Production      Purchasing                    Shop floor
+                   control       department                     control
+
+                 Operations     Supplier base                   Factory                    Customer base
+
+2/9/2026                                                                                                   4
+         Shop floor control is concerned with the release of production orders
+         to the factory, monitoring and controlling the progress of the orders
+         through the various work centers, and acquiring current information
+         on the status of the orders.
+                                                Master
+ A typical shop floor                        production
+  control system consists of                   schedule
+
+  three phases:                                 Material                  Priority
+                                              requirements                control
+   order release,       Engineering and
+                                                planning
+                        manufacturing data
+   order scheduling,         base              Order          Order             Order          Management
+                                               release       scheduling         progress          reports
+
+   order progress.                 Factory
+                                                 Shop         Dispatch           Factory data
+                                                packet           list             collection
+                                                                                   system
+
+                             Raw materials
+                            and components                                                             Finished
+                                                                                                       products
+    2/9/2026                                        Work centers            Work-in-process             5
+     Order release provides the documentation needed to process a
+     production order through the factory.
+
+      Order release consists of:
+                 route sheet – documents the process plan for the item to
+                 be produced,
+                 material requisitions – to draw the necessary raw
+                 materials from inventory,
+                 job cards – to report direct labor time devoted to the
+                 order and to indicate progress of the order through the
+                 factory,
+                 move tickets – to authorize the material handling
+                 personnel to transport parts between work centers,
+                 parts list – if required for assembly jobs.
+2/9/2026                                                                     6
+      Order scheduling assigns the production orders to the various
+      work centers in the plant.
+ The order scheduling module:
+             prepares a dispatch list which indicates which production order
+             should be accomplished at the various work centers.
+             provides information about relative priorities of the different jobs .
+ Some of the dispatching rules used to establish priorities for production
+  orders in the plant include:
+                     shortest operation next
+                     first come-first served
+                     critical ratio rule
+                     order slack time rule
+                     slack time per remaining operations rule
+                     queue ratio rule
+ 2/9/2026                                                                         7
+                     earliest due date rule
+     The order with the shortest operation time has the highest priority.
+       Example 1
+                       Calculate the priority schedule for the shop orders shown
+                       below, using the shortest operation next rule.
+                                     Shop order number            1A    2A      3A
+                             Data arrived                         117   115     116
+                             Date due                             125   120     130
+                             Lead time remaining (LTR)             8     5      14
+                             Processing time remaining (PTR)       6     4       5
+                             Operations remaining (OR)             1     2       8
+                             Standard scheduled queue (SSQ)        2     1       5
+                             Next operation time                   6     3       1
+                              All Times in Days; Today’s Date, M-Day 117
+
+           Solution:                  Priority     Order       Next operation
+                                                  number            time
+                                          1         3A                1
+                                          2         2A                3
+                                          3         1A                6
+
+                           This rule maximizes the number of shop orders processed
+2/9/2026                   and minimizes the number waiting in queue.          8
+     The priority is set by the arrival date of the shop order in the work center.
+       Example 2
+                       Calculate the priority schedule for the shop orders shown
+                       below, using the first come-first served rule.
+                                                Shop order number      1A    2A    3A
+                                     Data arrived                      117   115   116
+                                     Date due                          125   120   130
+                                     Lead time remaining (LTR)          8     5     14
+                                     Processing time remaining (PTR)    6     4     5
+                                     Operations remaining (OR)          1     2     8
+                                     Standard scheduled queue (SSQ)     2     1     5
+                                     Next operation time                6     3     1
+
+                       All Times in Days; Today’s Date, M-Day 117
+
+           Solution:         Priority Order number     Arrival date
+                               1           2A               115
+                               2           3A               116
+                               3           1A               117
+                            The rule schedules on the basis of the arrival time of the
+2/9/2026
+                            part in the work center and will result in the shortest
+                                                                                  9
+                            average queue times for parts.
+                       The rule is based on the
+                       ratio of time remaining
+                       to work remaining.       CR = due date −today' s date
+                                                              lead time remaining
+        Example 3
+                    Calculate the priority schedule for the shop orders shown
+                    below, using the critical ratio rule.
+                                     Shop order number            1A    2A     3A
+                          Data arrived                           117    115    116
+                          Date due                               125    120    130
+                          Lead time remaining (LTR)               8      5      10
+                          Processing time remaining (PTR)         6      4      5
+                          Operations remaining (OR)               1      2      8
+                          Standard scheduled queue (SSQ)          2      1      5
+                          Next operation time                     6      3      1
+                           All Times in Days; Today’s Date, M-Day 117
+Solution:                                                   Priority Order number Critical ratio
+Order 1A : CR = 125 −117 = 8 =1 (on schedule)          1                  2A            0.6
+                    8      8                           2                  1A            1.0
+Order 2A : CR = 120 −117 = 3 = 0.6 (behind schedule) 3                    3A            1.3
+                    5      5
+Order 3A : CR = 130 −117 = 13 =1.3 (ahead of schedule)
+                   10      10
+
+  2/9/2026
+                         The rank order of the jobs by ratio makes sure that those
+                                                                              10
+                         behind schedule are performed first.
+                       The slack formula is as follows:
+                                   due date − today’s date − processing time remaining
+                             Slack =
+        Example 4
+                     Calculate the priority schedule for the shop orders shown below,
+                     using the order slack rule.
+                                       Shop order number                    1A      2A      3A
+                           Data arrived                                     117    115     116
+                           Date due                                         125    120     130
+                           Lead time remaining (LTR)                         8      5       10
+                           Processing time remaining (PTR)                   6      4       5
+                           Operations remaining (OR)                         1      2       8
+                           Standard scheduled queue (SSQ)                    2      1       5
+                           Next operation time                               6      3       1
+                            All Times in Days; Today’s Date, M-Day 117
+
+Solution:                                                           Priority Order number             Slack
+Order 1A : Slack =125 −117 − 6 = 2 (ahead of schedule)                  1             2A                -1
+Order 2A : Slack =120 −117 − 4 = −1 (behind schedule)                   2             1A                 2
+Order 3A : Slack =130 −117 − 5 = 8 (ahead of schedule)                  3             3A                 8
+
+                            This priority rule addresses the sequencing of jobs on the
+  2/9/2026                  basis of the value of work remaining.                11
+                            *Slack time is the total time a task can be delayed without causing additional delays
+                                             The rule is based on the ratio:
+                                                                                       slack time
+                                               Slack per operations ( S / O ) =
+                                                                                  operations remaining
+
+       Example 5          Calculate the priority schedule for the shop orders shown below,
+                          using the order slack time per remaining operations rule.
+                                                Shop order number               1A     2A      3A
+                                     Data arrived                              117    115      116
+                                     Date due                                  125    120      130
+                                     Lead time remaining (LTR)                  8      5        10
+                                     Processing time remaining (PTR)            6      4        5
+                                     Operations remaining (OR)                  1      2        8
+                                     Standard scheduled queue (SSQ)             2      1        5
+                                     Next operation time                        6      3        1
+                                      All Times in Days; Today’s Date, M-Day 117
+Solution:                                                              Priority Order number         Slack
+  Order 1A : S/O = 2 = 2.0 (ahead of schedule)                           1           2A              -0.5
+                   1
+                                                                         2           3A               1.0
+  Order 2A : S/O = −1 = −0.5 (behind schedule)                           3           1A               2.0
+                    2
+  Order 3A : S/O = 8 =1.0 (on schedule)
+                   8
+  Observation: Values for slack time are obtained from Example 4
+  2/9/2026                                                                                                  12
+                          The rule is based on the formula:
+                                                                              slack time
+                                                             QR =
+                                                                      standard scheduled queue
+        Example 6
+                         Calculate the priority schedule for the shop orders shown below:
+                                               Shop order number               1A         2A   3A
+                                    Data arrived                               117    115      116
+                                    Date due                                   125    120      130
+                                    Lead time remaining (LTR)                   8      5        10
+                                    Processing time remaining (PTR)             6      4        5
+                                    Operations remaining (OR)                   1      2        8
+                                    Standard scheduled queue (SSQ)              2      1        5
+                                    Next operation time                         6      3        1
+                                     All Times in Days; Today’s Date, M-Day 117
+
+Solution:
+       Order 1A : QR = 2 =1.0 (on schedule)                           Priority Order number          Slack
+                       2
+                                                                        1            2A              -1.0
+       Order 2A : QR = −1 = −1.0 (behind schedule)                      2            1A               1.0
+                        1
+                                                                        3            3A               1.6
+       Order 3A : QR = 8 =1.6 (ahead of schedule)
+                       5
+      Observation: Values for slack time are obtained from Example 4.
+  2/9/2026                                                                                                   13
+                                   The rule schedules order priority according to
+                                   the order due date
+      Example 7
+                  Calculate the priority schedule for the shop orders on the
+                  dispatch list shown below:
+                    Plant        Order     Quantity   Hr/Unit   Total hours   Due date
+                   number       number
+                   12-9201     SO 73421       300      0.2          60         9-20
+                   12-4565     SO 73107       100      0.3          30         9-22
+                   18-5632     SO 73560       150      0.2          30         9-28
+                                                                   120
+
+
+
+            Solution:
+                             Priority Order number
+                               1       SO 73421
+                               2       SO 73107
+                               3       SO 73560
+
+
+
+2/9/2026                                                                           14
+1. Order release module may contains the list of necessary raw
+   materials.
+                                                                  T    F
+2. Order scheduling module provides information about the
+   priority order of operations.
+                                                                  T    F
+
+3. Shortest operation next rule maximize the number of
+   processed orders.                                              T    F
+
+4. Order slack time rule addresses the sequencing of jobs on
+   the basis of the value of work remaining.                      T    F
+
+5. When earliest due date rule is used, the highest priority is
+   assigned to the part with the latest due date.
+                                                                  T    F
+2/9/2026                                                              15
+           The order progress module monitors the status of the various
+           orders in the plant, work-in-process, and other characteristics
+           that indicate the progress and performance of production.
+
+            The information presented to production management is often
+             summarized in the form of reports like:
+                      work order status reports
+                      progress reports
+                      exception reports
+
+            These reports are useful to production management in:
+                      making decisions about allocation of resources;
+                      authorization of overtime hours;
+                      identifying problem areas in the plant that adversely affect
+2/9/2026               achieving the MPS.                                    16
+           The factory data collection system consists of the various paper
+           documents, terminals, and automated devices located throughout the
+           plant for collecting data on shop floor operations, plus the means for
+           compiling and processing the data.
+
+
+
+            The purpose of the factory data collection system is:
+                     to supply status and performance data to the shop floor
+                      control system;
+
+                     to provide current information to production foremen,
+                      plant management, and production control personnel.
+
+
+2/9/2026                                                                      17
+            The types of inventory of greatest interest in PPC are:
+                  raw materials,
+                  purchased components,
+                  in-process inventory (WIP),
+                  finished products.
+            The major costs of holding inventory are:
+                  investment costs,
+                  storage costs,
+                  cost of possible obsolescence or spoilage
+
+
+2/9/2026                                                               18
+              Inventory control procedures:
+                   for dependent demand – MRP is the most widely implemented
+                    technique;
+                   for independent demand – order point inventory systems are
+                    used.
+
+ Order points systems are concerned with two related problems that must be
+  solved when managing inventories of independent demand items:
+      how many units should be ordered? -> economic order quantity formulas,
+      when should the order be placed? -> record point methods
+
+
+  2/9/2026                                                                 19
+           Manufacturing resource planning can be defined as a computer
+           based system for planning, scheduling, and controlling the materials,
+           resources, and supporting activities needed to meet the MPS.
+
+ Application modules provided in a high-end MRP II system:
+      management planning (business strategy, aggregate production
+                                planning, MPS, budget planning)
+      customer service (sales forecasting, order entry, sales analysis, finished
+                          goods inventory)
+      operations planning (MRP+ capacity requirements planning)
+         operations execution (purchasing, production scheduling and control,
+                                WIP inventory control, shop floor control, labor
+                                hour tracking)
+     financial functions ( cost accounting, accounts receivable, accounts
+ 2/9/2026                    payable)                                        20
+        Benefits from MRP II:
+             Reduction in inventory => less money spent on investments for
+              material and the cost of keeping that material on the shelf until
+              it is needed.
+             Better planning in communications => reductions in the
+              amount of inventory declared obsolete and written off as a loss.
+             Better scheduling => allows better planning with suppliers and
+              lower purchasing costs.
+             Customer service levels are improved by shipping more
+              complete orders on time and with improved responsiveness to
+              customer requirements.
+
+2/9/2026                                                                   21
+            Just-in-time production systems (JIT) were developed in Japan to
+            minimize inventories, especially WIP.
+
+
+            The ideal just-in-time production system produces and
+             delivers exactly the required number of each component to the
+             downstream operation in the manufacturing sequence just at
+             the time when that component is needed.
+            JIT operate successfully if we have:
+                     a pull system of production control
+                     small batch sizes
+                     reduced setup times
+2/9/2026             stable and reliable production operations         22
+        JIT is based on a pull system of production control, in which the
+          order to make and deliver parts at each workstation in the
+          production sequence comes from the downstream station that
+          uses those parts.
+      One way to implement a pull system is to use kanbans. (kanban means
+       card in Japanese).
+      The Kanban system of production
+       control, developed by Toyota, is based
+       on the use of two types of cards that
+       authorize parts production, and parts
+       delivery in the plant:
+            production kanbans (b)
+            transport kanbans (a)
+2/9/2026                                                             23
+      Example 8
+                          A Kanban control system is illustrated in the figure below:
+                                               Production flow
+
+
+
+
+           T   transport card
+
+           P   production card
+
+               Kanban cards boxes
+
+
+     The production process begins with the moving of a finished-part
+      container from Work Center B to Work Center C where the parts are
+      used for assembly.
+
+2/9/2026                                                                                24
+      Example 8   Changes that occur in work centers are illustrated in the figure
+                  below:
+
+
+
+
+                      The sequence of movement of the cards is illustrated by
+2/9/2026              arrows and numbers, and is explained on the next slide. 25
+      The sequence of movement of the cards:
+      The production card is removed from the production container before the container with
+1
+      finished parts is moved from cell B to cell C. The card is placed in Kanban box B1.
+
+      An inventory specialist moves the production card from kanban box B1 to the work-cell
+      kanban box B2. The arrival of a production card in B2 authorizes the work-cell operator to
+2
+      produce another container of finished parts at work-center B, to replace the container just
+      removed (moved to C). The production card from B2 is retained by the operator at cell B.
+
+      Production is started by moving a container of raw materials into cell B from the input side.
+3     The transport, or conveyance, card in the raw material container is removed and put into
+      Kanban box B3.
+
+      The operator in cell B finishes production on the container of parts and moves the finished-
+4     parts container to the output side of the cell B. The production card held by the operator (at
+      the step 2) is placed on the finished container.
+
+       The inventory specialist retrieves the transport card from Kanban box B3. The card
+5      authorizes the movement of a finished-part container from the output side of cell A to the
+       input side of cell B. The production card in the container is placed in Kanban box A1, and the
+       transport card is placed in the container on the input side of cell B.
+ 2/9/2026                                                                                      26
+1. The order progress module generates reports on progress
+   queues.
+                                                                T   F
+
+2. The factory data collection system communicates with the
+   control system.
+                                                                T   F
+
+3. In order to restore stocks at certain points in time it is
+   necessary to know the quantity to order.
+                                                                T    F
+
+4. Operations planning is not for the manufacturing resource
+   planner.
+                                                                T   F
+
+5. In the case of "Just-in-Time" manufacturing systems,
+   inventories represented by WIP are zero.
+                                                                T   F
+ 2/9/2026                                                           27
+       Orders scheduling is a particularly important activity because it
+        determines the efficiency of production and ensure timely
+        delivery of orders.
+
+      Effective control of inventories provides cost reductions
+       associated with them.
+
+      Just-in-Time method ensures minimization of inventories,
+       especially those due to the components in the production
+       process.
+
+
+
+
+2/9/2026                                                                28
+            Quality in manufacturing
+            Traditional an modern quality control
+            Quality function deployment
+            House of quality
+
+
+
+
+2/9/2026                                             29
+

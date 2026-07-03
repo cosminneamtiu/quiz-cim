@@ -1,0 +1,482 @@
+           LECTURE 8
+
+2/9/2026               1
+1.    Objectives
+2.    Review
+3.    Process planning
+4.    Computer aided process planning
+5.    Concurrent engineering and Design for manufacturing and assembly
+6.    Advanced manufacturing planning
+7.    Conclusion
+
+
+
+
+2/9/2026                                                                 2
+      1.   Specific definitions in planning processes.
+      2.   Knowing the characteristics of computer-aided planning.
+      3.   Understand the importance of concurrent engineering.
+      4.   Understand the design for processing and assembly concept.
+      5.   Identify specific activities for the advanced planning of
+           manufacturing.
+
+
+
+
+2/9/2026                                                                3
+      1.   Types of flexibility in manufacturing
+      2.   The benefits of an FMS
+      3.   Tests of flexibility (part variety, schedule change, error recovery,
+           new part)
+
+
+
+
+2/9/2026                                                                          4
+           Process planning is the activity of developing a manufacturing
+           plan used to convert the product design into a physical entity.
+
+Developing a process plan involves:
+            - interpretation of design drawings,
+            - determining the processes and sequence,
+            - equipment selection,
+            - tools, dies, molds, fixtures, and gauges selection,
+            - analysis methods.
+            - work standards,
+            - cutting tools and cutting conditions, etc.
+2/9/2026                                                                     5
+       Process planning can be done:
+                 manually
+                 automated using computers (CAPP =Computer Aided
+                  Process Planning)
+
+ Process plans developed by different people can be different for the same
+  part or product .
+ Process planning is necessary for:
+            part produced,
+            assembly
+
+                              Consistent and correct planning requires both
+                              knowledge of the manufacturing processes and
+                              experience.
+2/9/2026                                                                  6
+     For individual parts, the processing sequence is documented on a form
+     called a route sheet or operation sheet:
+
+
+
+
+2/9/2026                                                                7
+     The type of assembly method used for a given product depends on:
+          anticipated production quantities,
+          complexity of the assembled product,
+          assembly processes used:
+             - mechanical assembly,
+             - welding
+
+
+
+
+2/9/2026                                                                8
+           Computer-aided process planning (CAPP) is the direct connection
+           between design and manufacturing.
+
+ The benefits of CAPP are:
+        process rationalization and standardization
+        increased productivity of process planners
+        reduced lead time for process planning
+        improved legibility
+        incorporation of other application program
+
+
+                 CAPP systems are designed around three approaches:
+                        retrieval CAPP systems
+                        generative CAPP systems
+                        semi-generative CAPP systems
+2/9/2026                                                                     9
+            A retrieval CAPP system, also called a variant CAPP system, is
+            based on the principles of group technology and parts
+            classification and coding.
+
+
+The development of the data base of these process plans consists of the
+following steps:
+       selecting an appropriate classification and coding scheme for the
+        company
+       forming part families for the parts produced by the company
+       preparing standard process plans for the part families
+
+                      The standard route sheets are based on current part
+                      routings in use in the factory or on an ideal process plan
+                      that has been prepared for each family.
+ 2/9/2026                                                                   10
+           New part design        The retrieval CAPP system operates as
+                                  illustrated below:
+      Derive GT code number
+      for part                                             Preparatory stage
+
+      Search part family file                           Select coding system
+                                Part family file
+      for GT code number                                and form part families
+
+
+      Retrieve standard         Standard process plan   Prepare standard
+      process plan              file                    process plans for part
+                                                        families
+
+      Edit existing plan or
+      write new plan
+
+                                Other application
+      Process plan formatter
+                                programs
+
+      Process plan
+      (route sheet)
+
+2/9/2026                                                                         11
+        The CAPP generative technique is both more difficult to develop
+         and more highly automated.
+
+        The generative process planning system creates plans for new
+         components without referring to existing plans or with the
+         assistance of a human planner.
+
+          The heuristic planning knowledge is captured in artificial
+            intelligence (AI) software, called expert systems.
+The advantages of generative CAPP :
+        process plans are created rapidly and consistently;
+        totally new process plans are created as quickly as plans similar to
+         those for existing components;
+        an interface to MRP and ERP software is possible;
+        documentation requirements of ISO or QS 9000 standards are
+         completed and best practices are promoted, even without experienced
+         workers.
+  2/9/2026                                                              12
+                   The generalized system illustrated below
+                   shows the generative CAPP operation:
+
+                                             Part
+                                             drawing
+
+
+                                          Conversion to generative
+                                          CAPP input format
+           Code      Descriptive       CAD
+                     language
+
+                          Design specification
+             Decision logic:       Process capability
+             -Trees                database
+             -Tables
+             -Expert systems        Tooling database
+
+
+                  Generative
+                  process plan
+2/9/2026                                                             13
+1. Processes Planning requires information on existing tools
+   and fasteners.
+                                                                T   F
+
+2. Processes Planning is always made automatically in a
+   company.
+                                                                T   F
+
+3. PP requires information about manufacturing processes and
+   experience to achieve a consistent planning.
+                                                                T    F
+
+4. The assembling method of a product depends on the
+   expected throughput.
+                                                                T   F
+
+5. Use of a computer in planning processes decreases the time
+   required to develop the process plan.
+                                                                T   F
+ 2/9/2026                                                           14
+           There are a number of factors that enter into the make or buy decision:
+
+                     How do part costs compare?
+                     Is the process available in-house?
+                     What is the total production quantity?
+                     What is the anticipated product life?
+                     Is the component a standard item?
+                     Is the supplier reliable?
+                     Is the company’s plant already operating at full capacity?
+                     Does the company need an alternative supply source?
+
+
+
+2/9/2026                                                                     15
+   Example 1
+                   The quoted price for a certain part is 20 euros per unit for 100
+                   units. The part can be produced in the company’s own plant for 28
+                   euros. The cost components of making the part are listed below.
+                                       Components         Price/unit [euro]
+                                 Unit raw material cost          8
+                                 Direct labor cost               6
+                                 Labor overhead at 150%          9
+                                 Equipment fixed cost            5
+                                 Total                           28
+
+                    Should the component be bought or made in-house?
+
+Solution
+What is the impact on plant if the quote is accepted?
+The cost components for the company, if the decision is to buy the part are listed
+below:
+            Components             Price/unit [euro]
+     Quoted price for one part            20
+     Labor overhead at 150%               9
+     Equipment fixed cost                 5
+ 2/9/2026
+     Total                                34                                    16
+            Concurrent engineering, also called simultaneous engineering refers to an
+            approach used in product development in which the functions of design
+            engineering, manufacturing engineering, and other functions are integrated to
+            reduce the elapsed time required to bring a new product to market.
+
+                                    The wall between design
+                                    and manufacturing
+(a)                                  Manufacturing engineering
+      Product design                 and process planning              Production and assembly
+                       Product launch time , traditional design/manufacturing
+                       cycle
+                       Quality
+       Sales and                                                         Difference in product
+                       engineering
+       marketing                                                       launch time
+                          Vendors
+(b)   Product design                                                   Comparison of:
+                                                                       (a) traditional product
+           Manufacturing engineering
+                                          Production and assembly          development cycle.
+           and process planning                                        (b) product ddevelopment
+              Product launch time , concurrent                             using concurrent
+      2/9/2026 engineering                                                                     17
+                                                                           engineering.
+        Concurrent engineering includes several elements:
+              design for manufacturing and assembly
+              design for quality
+              design for cost
+              design for life cycle
+
+        Additionally certain technologies are required to facilitate the
+         concurrent engineering:
+             rapid prototyping
+             virtual prototyping
+             organizational changes
+2/9/2026                                                                    18
+             Design for manufacturing and assembly (DFMA) is any procedure
+             or design process that considers the production factors from the
+             beginning of the product design.
+
+ DFMA provides the following typical advantages:
+
+      Reduction of design-to-product launch cycles by as much as 50 percent.
+      Reduction of part counts by 30 to 70 percent.
+      Reduction of assembly times by 50 to 80 percent.
+
+
+               Design for manufacturing and assembly involves:
+                      organizational changes
+  2/9/2026
+                      design principles and guidelines.                  19
+            Effective implementation of DFMA involves making changes in a
+             company’s organizational structure:
+
+                 by creating project teams consisting of:
+                     product designers
+                     manufacturing engineers
+                     quality engineers
+                     material scientists
+
+                 by requiring design engineers to spend some time in
+                  manufacturing;
+
+                 by assigning manufacturing engineers to the product design
+                  department to serve as manufacturing consultants.
+
+2/9/2026                                                                  20
+        General principles and guidelines in DFMA are:
+            minimize number of components;
+            use standard commercially available components;
+            use common parts across product lines;
+            design for ease of part fabrication;
+            design parts with tolerances that are within process capability;
+            design the product to be foolproof during assembly;
+            minimize flexible components;
+            design for ease of assembly;
+            use modular design;
+            shape parts and products for ease of packaging;
+            eliminate or reduce adjustments.
+2/9/2026                                                                 21
+             Design for quality (DFQ) is the term that refers to the principles
+             and procedures employed to ensure that the highest possible
+             quality is designed into the product.
+
+
+ The general objectives of DFQ are:
+     to design the product to meet or exceed customer
+      requirements
+
+     to design the product so that its function and
+      performance are relatively insensitive to variations in
+      manufacturing and subsequent application.
+
+     to continuously improve the performance, functionality,
+      reliability, safety, and other quality aspects.
+  2/9/2026                                                                 22
+           Design for product cost (DFC) refers to the efforts of a company to
+           specifically identify how design decisions affect product costs and
+           to develop ways to reduce cost through design.
+
+
+
+
+           Design for life cycle (DFLC) refers to the product after it has been
+           manufactured and includes factors ranging from product delivery
+           to product disposal.
+
+
+
+2/9/2026                                                                    23
+            Advanced manufacturing planning involves working with sales,
+            marketing, and design engineering to forecast the new products
+            that will be introduced and to determine what production
+            resources will be needed to make those future products.
+
+
+       Activities in advanced manufacturing planning include:
+            new technology evaluation,
+            investment project management,
+            facilities planning,
+            manufacturing research.
+
+
+2/9/2026                                                             24
+              The general planning cycle:
+
+                             New product-process strategy
+
+                                                    Existing
+                                                    manufacturing
+                              Advanced              capability         Future
+           Future products    manufacturing                            manufacturing
+                              planning              New                capability
+                                                    technologies
+
+
+
+                                       New technology evaluation
+
+
+                                       Investment project management
+
+                                       Facilities planning
+
+2/9/2026                               Manufacturing research                          25
+              To introduce a new product a company must either:
+                    implement new processing technologies in-house or,
+                    purchase the components made by the new technologies.
+
+  Other reasons why a company may need to introduce new technologies:
+            quality improvement
+            productivity improvement
+            cost reduction
+            lead time reduction
+            modernization and replacement of worn-out equipment
+
+2/9/2026                                                                26
+            The steps for investment project management activity are:
+                 proposal to justify the investment is prepared;
+                 management approvals are granted for the investment;
+                 vendor quotations are solicited;
+                 order is placed to the winning vendor;
+                 vendor progress in building the equipment is monitored;
+                 any special tooling and supplies are ordered;
+                 the equipment is installed and debugged;
+                 training of operators;
+                 responsibility for running the equipment is turned over to the
+2/9/2026          operating department.                                      27
+             Facilities planning is the planning work required to renovate an
+             existing facility or design a new one, and is carried out by the plant
+             engineering department.
+
+
+            Facilities planning can be divided into two types of problems:
+                 facilities location
+                 facilities design
+
+
+                     Factors that must be considered: location relative to
+                     customers and suppliers, labor availability, skills of
+                     labor pool, transportation, etc..
+2/9/2026                                                                      28
+            Manufacturing research can take various forms:
+                 development of new processing technologies,
+                 adaptation of existing processing technologies,
+                 process fine-tuning,
+                 software systems development,
+                 automation systems development,
+                 operations research and simulation.
+
+
+
+
+2/9/2026                                                            29
+1. Retrieval CAPP systems use the principles of group
+   technology.
+                                                               T    F
+
+2. Generative CAPP systems use artificial intelligence
+   algorithms.
+                                                               T    F
+
+3. Using concurrent engineering concepts, the lead time
+   decreases.
+                                                               T    F
+
+4. Design for manufacturing and assembly involves changes at
+   the organizational level in a company.
+                                                               T    F
+
+5. Manufacturing research involves the optimization of
+   production processes.
+                                                               T    F
+ 2/9/2026                                                          30
+           Examples of companies that develop and sale CAPP software:
+            CIMx Company  CIMx Apps® Suite
+           (http://www.cimx.com/solutions-and-benefits)
+            MTI SYSTEMS  Costimator OEM, COSTIMATOR JS
+           ( http://www.mtisystems.com/ )
+
+
+
+
+2/9/2026                                                                31
+       Production processes planning involves the use of information on
+        production technologies.
+
+
+      Have to take into account aspects of the structure of production,
+       the equipment available, qualification of personnel involved, etc..
+
+
+      Proper planning of production processes is a key factor in
+       ensuring high productivity.
+
+
+
+
+2/9/2026                                                                     32
+            Production Planning
+            Material Requirements Planning
+            Capacity Planning
+
+
+
+
+2/9/2026                                      33
+

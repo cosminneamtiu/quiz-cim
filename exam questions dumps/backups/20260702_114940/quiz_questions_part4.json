@@ -1,0 +1,71 @@
+[
+    {
+        "question": "The performance of a manufacturing system was analyzed over 24 hours, noting that if:\na. 220 parts come in, 220 parts come out.\nb. 270 parts come in, 270 parts come out.\nc. 378 parts enter, 340 parts come out.\nd. 341 parts enter, 340 parts come out.\nIn which of the 4 scenarios, presented above, the system works optimally, i.e. the system works at maximum capacity and no raw parts remain unprocessed?",
+        "options": {
+            "A": "scenario a",
+            "B": "scenario b",
+            "C": "scenario c",
+            "D": "scenario d",
+            "E": "none of the above"
+        }
+    },
+    {
+        "question": "For 1 products of type P1, with the structure shown below, how many M6 units are required? Calculations:",
+        "options": {
+            "A": "40",
+            "B": "30",
+            "C": "4",
+            "D": "5",
+            "E": "15"
+        }
+    },
+    {
+        "question": "Taking into account the data presented in the table below calculates the value of stocks at the end of December and writes in the table the obtained value:\nMonth | Sales (mil.of \u20ac) [S_i] | Labor (hr) [L_i] | Days worked [d_i] | Level workforce (number of employees required) [E_i] | Monthly production (millions of dollars) [mp_i] | Inventory balance (mil. of \u20ac) [Ib_i]\nNov | 16 | 80000 | 20 | 809 | 12.94 | 3.60\nDec | 11.6 | 58000 | 15 | 809 | 9.6 | \nPlanned work week is 40 hours long, Sales euros estimated/employee/hr is \u20ac100\nCalculations:",
+        "options": {}
+    },
+    {
+        "question": "Which of the following actions are not specific to sustainable production?",
+        "options": {
+            "A": "increasing the storage space",
+            "B": "increasing the level of utilization of an equipment",
+            "C": "reducing renewable energy consumption",
+            "D": "reducing water consumption",
+            "E": "reducing solid waste"
+        }
+    },
+    {
+        "question": "Capacity planning is concerned with:",
+        "options": {
+            "A": "planning the equipment and the labor needed to accomplish the production plan",
+            "B": "how many of each type to sell",
+            "C": "when the products should be completed",
+            "D": "deciding which products to produce"
+        }
+    },
+    {
+        "question": "When the design for life cycle is considered:",
+        "options": {
+            "A": "the production factors are taken into account",
+            "B": "the customer's wishes will be satisfied or exceeded",
+            "C": "factors ranging from product delivery to product disposal are considered"
+        }
+    },
+    {
+        "question": "Lean manufacturing:",
+        "options": {
+            "A": "add delays",
+            "B": "remove over production",
+            "C": "add inventories",
+            "D": "add additional processing"
+        }
+    },
+    {
+        "question": "At the beginning of one year, a company decided that it should maintain a safety stock of 1.3 million euros for the next 12 months. Taking into account the records presented in the table below for the last 4 months of the first year, does the company comply with the established level of safety stocks?\nMonth | Sales (mil. of \u20ac) [S_i] | Labor (hr) [L_i] | Days worked [d_i] | Level workforce (number of employees required) [E_i] | Monthly production (millions of dollars) [mp_i] | Inventory balance (mil. of \u20ac) [Ib_i]\nSept | 29.6 | 148000 | 21 | 684 | 22.98 | 12.15\nOct | 24.8 | 124000 | 22 | 684 | 24.08 | 11.43\nNov | 32 | 160000 | 20 | 684 | 21.89 | 1.32\nDec | 22.2 | 111000 | 20 | 684 | 21.89 | ?\nPlanned work week is 40 hours long, Sales euros estimated/employee/hr is \u20ac200",
+        "options": {
+            "A": "No, because except for December, for the other months the level of stocks is higher than that of the safety stock.",
+            "B": "Yes, because the average stock level for the last 4 months is much higher than the safety stock.",
+            "C": "No, because the stock level at the end of December is lower than the safety stock.",
+            "D": "Yes, because the stock level for each month is higher than that of the safety stock."
+        }
+    }
+]

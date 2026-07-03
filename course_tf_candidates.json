@@ -1,0 +1,1154 @@
+[
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 158,
+    "question_number": 1,
+    "question": "Partnerships and alliances are external challenges for a company."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 162,
+    "question_number": 2,
+    "question": "The results of a production process are not only finite products."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 165,
+    "question_number": 3,
+    "question": "In CIM, manufacturing batch size reduction leads to increased production costs."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 169,
+    "question_number": 4,
+    "question": "The increase of the setup time increases the productivity of a manufacturing system."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 256,
+    "question_number": 1,
+    "question": "The increase of flexibility in a manufacturing system, involves, usually, additional cost."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 260,
+    "question_number": 2,
+    "question": "The anticipation stock is not a safety stock."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 262,
+    "question_number": 3,
+    "question": "The smaller the space-manufacturing ratio, the more efficient the manufacturing system is."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 266,
+    "question_number": 4,
+    "question": "The cycle stock exists when the sales are larger than the production."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 270,
+    "question_number": 5,
+    "question": "The production is smaller if a machine availability is larger."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 386,
+    "question_number": 1,
+    "question": "CAD increases design time."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 388,
+    "question_number": 2,
+    "question": "CAE is used in various systems simulation."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 390,
+    "question_number": 3,
+    "question": "CAM uses the computer for several processes."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 392,
+    "question_number": 4,
+    "question": "CAPP decreases the process planning time."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 452,
+    "question_number": 1,
+    "question": "Quality assessment is more effective if done during the production cycle."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 456,
+    "question_number": 2,
+    "question": "Production control involves also the inventory control."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 458,
+    "question_number": 3,
+    "question": "Production planning does not involve the labor planning."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 461,
+    "question_number": 4,
+    "question": "Enterprise resource planning (ERP) is efficient in CIM."
+  },
+  {
+    "course": "C1",
+    "source_file": "cim courses/C1_unlocked.pdf",
+    "source_text_file": "course_text/C1_unlocked.txt",
+    "line": 464,
+    "question_number": 5,
+    "question": "Databases are the binding agents between different departments of a company."
+  },
+  {
+    "course": "C2",
+    "source_file": "cim courses/C2_unlocked.pdf",
+    "source_text_file": "course_text/C2_unlocked.txt",
+    "line": 176,
+    "question_number": 1,
+    "question": "In any production system the human resource is present."
+  },
+  {
+    "course": "C2",
+    "source_file": "cim courses/C2_unlocked.pdf",
+    "source_text_file": "course_text/C2_unlocked.txt",
+    "line": 179,
+    "question_number": 2,
+    "question": "A rocket requires a job shop-type manufacturing system."
+  },
+  {
+    "course": "C2",
+    "source_file": "cim courses/C2_unlocked.pdf",
+    "source_text_file": "course_text/C2_unlocked.txt",
+    "line": 181,
+    "question_number": 3,
+    "question": "Bread production requires a job shop-type manufacturing system."
+  },
+  {
+    "course": "C2",
+    "source_file": "cim courses/C2_unlocked.pdf",
+    "source_text_file": "course_text/C2_unlocked.txt",
+    "line": 185,
+    "question_number": 4,
+    "question": "A car requires a line manufacturing system."
+  },
+  {
+    "course": "C2",
+    "source_file": "cim courses/C2_unlocked.pdf",
+    "source_text_file": "course_text/C2_unlocked.txt",
+    "line": 390,
+    "question_number": 1,
+    "question": "In a two workstation manufacturing system, the routings may be fixed or variable."
+  },
+  {
+    "course": "C2",
+    "source_file": "cim courses/C2_unlocked.pdf",
+    "source_text_file": "course_text/C2_unlocked.txt",
+    "line": 394,
+    "question_number": 2,
+    "question": "In a production system with more than two workstations, the routings can be fixed or variable."
+  },
+  {
+    "course": "C2",
+    "source_file": "cim courses/C2_unlocked.pdf",
+    "source_text_file": "course_text/C2_unlocked.txt",
+    "line": 397,
+    "question_number": 3,
+    "question": "A flexible manufacturing system is a system with one automated workstation with variable routings."
+  },
+  {
+    "course": "C2",
+    "source_file": "cim courses/C2_unlocked.pdf",
+    "source_text_file": "course_text/C2_unlocked.txt",
+    "line": 401,
+    "question_number": 4,
+    "question": "A flexible manufacturing system is a system with multiple automated workstation with fixed routings."
+  },
+  {
+    "course": "C2",
+    "source_file": "cim courses/C2_unlocked.pdf",
+    "source_text_file": "course_text/C2_unlocked.txt",
+    "line": 404,
+    "question_number": 5,
+    "question": "The learning curve occurs when the time to perform a given operation decreases with the number of repetitions of the   same operation."
+  },
+  {
+    "course": "C3",
+    "source_file": "cim courses/C3_unlocked.pdf",
+    "source_text_file": "course_text/C3_unlocked.txt",
+    "line": 156,
+    "question_number": 1,
+    "question": "The variety and quantity of goods are in a relationship of direct proportionality."
+  },
+  {
+    "course": "C3",
+    "source_file": "cim courses/C3_unlocked.pdf",
+    "source_text_file": "course_text/C3_unlocked.txt",
+    "line": 160,
+    "question_number": 2,
+    "question": "A vertically integrated plant only assembles the products."
+  },
+  {
+    "course": "C3",
+    "source_file": "cim courses/C3_unlocked.pdf",
+    "source_text_file": "course_text/C3_unlocked.txt",
+    "line": 162,
+    "question_number": 3,
+    "question": "The complexity of a product is given by the number of components or the number of operations needed for   manufacturing."
+  },
+  {
+    "course": "C3",
+    "source_file": "cim courses/C3_unlocked.pdf",
+    "source_text_file": "course_text/C3_unlocked.txt",
+    "line": 167,
+    "question_number": 4,
+    "question": "A dedicated manufacturer of assemblies produces also the components necessary for their products."
+  },
+  {
+    "course": "C3",
+    "source_file": "cim courses/C3_unlocked.pdf",
+    "source_text_file": "course_text/C3_unlocked.txt",
+    "line": 320,
+    "question_number": 1,
+    "question": "The operation cycle time is the actual processing time."
+  },
+  {
+    "course": "C3",
+    "source_file": "cim courses/C3_unlocked.pdf",
+    "source_text_file": "course_text/C3_unlocked.txt",
+    "line": 322,
+    "question_number": 2,
+    "question": "The setup time is considered when determining the operation cycle time for job shop production."
+  },
+  {
+    "course": "C3",
+    "source_file": "cim courses/C3_unlocked.pdf",
+    "source_text_file": "course_text/C3_unlocked.txt",
+    "line": 325,
+    "question_number": 3,
+    "question": "Production capacity increases when the production rate increases."
+  },
+  {
+    "course": "C3",
+    "source_file": "cim courses/C3_unlocked.pdf",
+    "source_text_file": "course_text/C3_unlocked.txt",
+    "line": 329,
+    "question_number": 4,
+    "question": "For quantity type mass production, in the calculation of the operation cycle time, the system setup time must be included."
+  },
+  {
+    "course": "C3",
+    "source_file": "cim courses/C3_unlocked.pdf",
+    "source_text_file": "course_text/C3_unlocked.txt",
+    "line": 332,
+    "question_number": 5,
+    "question": "For the flow line mass production, the maximum operation time of all stations on the line is included in the calculation   of the cycle time."
+  },
+  {
+    "course": "C3",
+    "source_file": "cim courses/C3_unlocked.pdf",
+    "source_text_file": "course_text/C3_unlocked.txt",
+    "line": 601,
+    "question_number": 1,
+    "question": "Utilization of a machine is not equivalent with the availability of a machine."
+  },
+  {
+    "course": "C3",
+    "source_file": "cim courses/C3_unlocked.pdf",
+    "source_text_file": "course_text/C3_unlocked.txt",
+    "line": 605,
+    "question_number": 2,
+    "question": "Work-in-process are the components or products ready for delivery."
+  },
+  {
+    "course": "C3",
+    "source_file": "cim courses/C3_unlocked.pdf",
+    "source_text_file": "course_text/C3_unlocked.txt",
+    "line": 608,
+    "question_number": 3,
+    "question": "According to J.T. Black, the price of parts and materials is 50% from the selling price of a product."
+  },
+  {
+    "course": "C3",
+    "source_file": "cim courses/C3_unlocked.pdf",
+    "source_text_file": "course_text/C3_unlocked.txt",
+    "line": 612,
+    "question_number": 4,
+    "question": "Assemble to order is applied for the production of a car."
+  },
+  {
+    "course": "C3",
+    "source_file": "cim courses/C3_unlocked.pdf",
+    "source_text_file": "course_text/C3_unlocked.txt",
+    "line": 614,
+    "question_number": 5,
+    "question": "Make to order is applied when the demand can't be predicted."
+  },
+  {
+    "course": "C4",
+    "source_file": "cim courses/C4_unlocked.pdf",
+    "source_text_file": "course_text/C4_unlocked.txt",
+    "line": 209,
+    "question_number": 1,
+    "question": "The costs associated with material handling must be as large as possible."
+  },
+  {
+    "course": "C4",
+    "source_file": "cim courses/C4_unlocked.pdf",
+    "source_text_file": "course_text/C4_unlocked.txt",
+    "line": 213,
+    "question_number": 2,
+    "question": "The design of a material handling system depends on the type of manufacturing system where it is embedded."
+  },
+  {
+    "course": "C4",
+    "source_file": "cim courses/C4_unlocked.pdf",
+    "source_text_file": "course_text/C4_unlocked.txt",
+    "line": 216,
+    "question_number": 3,
+    "question": "For moving the large and heavy components, autonomous guided vehicles are recommended."
+  },
+  {
+    "course": "C4",
+    "source_file": "cim courses/C4_unlocked.pdf",
+    "source_text_file": "course_text/C4_unlocked.txt",
+    "line": 220,
+    "question_number": 4,
+    "question": "Guidance based on painted strips is the most indicated technology."
+  },
+  {
+    "course": "C4",
+    "source_file": "cim courses/C4_unlocked.pdf",
+    "source_text_file": "course_text/C4_unlocked.txt",
+    "line": 604,
+    "question_number": 1,
+    "question": "The \"flow diagram\" is a graphical method used to analyse transportation systems."
+  },
+  {
+    "course": "C4",
+    "source_file": "cim courses/C4_unlocked.pdf",
+    "source_text_file": "course_text/C4_unlocked.txt",
+    "line": 608,
+    "question_number": 2,
+    "question": "The cycle time for delivery, in the case of transport systems based on vehicles, depends on the speed of vehicles."
+  },
+  {
+    "course": "C4",
+    "source_file": "cim courses/C4_unlocked.pdf",
+    "source_text_file": "course_text/C4_unlocked.txt",
+    "line": 611,
+    "question_number": 3,
+    "question": "The number of vehicles required into a transport system depends on the vehicles availability."
+  },
+  {
+    "course": "C4",
+    "source_file": "cim courses/C4_unlocked.pdf",
+    "source_text_file": "course_text/C4_unlocked.txt",
+    "line": 615,
+    "question_number": 4,
+    "question": "Recirculating conveyors are not the most efficient transport systems."
+  },
+  {
+    "course": "C4",
+    "source_file": "cim courses/C4_unlocked.pdf",
+    "source_text_file": "course_text/C4_unlocked.txt",
+    "line": 618,
+    "question_number": 5,
+    "question": "In the case of a conveyor type transport system is indicated   that the products to be distributed evenly."
+  },
+  {
+    "course": "C5",
+    "source_file": "cim courses/C5_unlocked.pdf",
+    "source_text_file": "course_text/C5_unlocked.txt",
+    "line": 499,
+    "question_number": 1,
+    "question": "Usually in a storage system the accessibility increases as the density increases."
+  },
+  {
+    "course": "C5",
+    "source_file": "cim courses/C5_unlocked.pdf",
+    "source_text_file": "course_text/C5_unlocked.txt",
+    "line": 503,
+    "question_number": 2,
+    "question": "Availability of ASRS is a measure of its reliability."
+  },
+  {
+    "course": "C5",
+    "source_file": "cim courses/C5_unlocked.pdf",
+    "source_text_file": "course_text/C5_unlocked.txt",
+    "line": 505,
+    "question_number": 3,
+    "question": "Random storage is used when products are not stored according to the level of activity."
+  },
+  {
+    "course": "C5",
+    "source_file": "cim courses/C5_unlocked.pdf",
+    "source_text_file": "course_text/C5_unlocked.txt",
+    "line": 509,
+    "question_number": 4,
+    "question": "In the case of a carousel storage system, its robot arm moves to each basket."
+  },
+  {
+    "course": "C5",
+    "source_file": "cim courses/C5_unlocked.pdf",
+    "source_text_file": "course_text/C5_unlocked.txt",
+    "line": 513,
+    "question_number": 5,
+    "question": "An ASRS is more efficient when performing in single operation mode than in dual operation mode."
+  },
+  {
+    "course": "C6",
+    "source_file": "cim courses/C6_unlocked.pdf",
+    "source_text_file": "course_text/C6_unlocked.txt",
+    "line": 114,
+    "question_number": 1,
+    "question": "The group technology can not be used for production systems that produce in batches."
+  },
+  {
+    "course": "C6",
+    "source_file": "cim courses/C6_unlocked.pdf",
+    "source_text_file": "course_text/C6_unlocked.txt",
+    "line": 118,
+    "question_number": 2,
+    "question": "The group technology applies only if the products can be grouped."
+  },
+  {
+    "course": "C6",
+    "source_file": "cim courses/C6_unlocked.pdf",
+    "source_text_file": "course_text/C6_unlocked.txt",
+    "line": 121,
+    "question_number": 3,
+    "question": "The use of group technology decreases the number of operations in the production process."
+  },
+  {
+    "course": "C6",
+    "source_file": "cim courses/C6_unlocked.pdf",
+    "source_text_file": "course_text/C6_unlocked.txt",
+    "line": 125,
+    "question_number": 4,
+    "question": "Visual inspection is the cheapest method used to classify products."
+  },
+  {
+    "course": "C6",
+    "source_file": "cim courses/C6_unlocked.pdf",
+    "source_text_file": "course_text/C6_unlocked.txt",
+    "line": 129,
+    "question_number": 5,
+    "question": "Product classification systems may not use the design features."
+  },
+  {
+    "course": "C6",
+    "source_file": "cim courses/C6_unlocked.pdf",
+    "source_text_file": "course_text/C6_unlocked.txt",
+    "line": 600,
+    "question_number": 1,
+    "question": "In the case of polycode the interpretation of each symbol from the sequence depends on the previous symbol."
+  },
+  {
+    "course": "C6",
+    "source_file": "cim courses/C6_unlocked.pdf",
+    "source_text_file": "course_text/C6_unlocked.txt",
+    "line": 604,
+    "question_number": 2,
+    "question": "For the chain-type structure the interpretation of each symbol in the sequence is always the same."
+  },
+  {
+    "course": "C6",
+    "source_file": "cim courses/C6_unlocked.pdf",
+    "source_text_file": "course_text/C6_unlocked.txt",
+    "line": 607,
+    "question_number": 3,
+    "question": "For the polycode structure, the number of digits of the code is determined by the number of levels in the hierarchy."
+  },
+  {
+    "course": "C6",
+    "source_file": "cim courses/C6_unlocked.pdf",
+    "source_text_file": "course_text/C6_unlocked.txt",
+    "line": 611,
+    "question_number": 4,
+    "question": "Monocode encodes more information."
+  },
+  {
+    "course": "C6",
+    "source_file": "cim courses/C6_unlocked.pdf",
+    "source_text_file": "course_text/C6_unlocked.txt",
+    "line": 613,
+    "question_number": 5,
+    "question": "Sorting of process routings is a step in the production flow analysis."
+  },
+  {
+    "course": "C7",
+    "source_file": "cim courses/C7_unlocked.pdf",
+    "source_text_file": "course_text/C7_unlocked.txt",
+    "line": 143,
+    "question_number": 1,
+    "question": "An FMS needs less time than a classical manufacturing system to adapt to a new product."
+  },
+  {
+    "course": "C7",
+    "source_file": "cim courses/C7_unlocked.pdf",
+    "source_text_file": "course_text/C7_unlocked.txt",
+    "line": 147,
+    "question_number": 2,
+    "question": "Increased flexibility leads to higher costs."
+  },
+  {
+    "course": "C7",
+    "source_file": "cim courses/C7_unlocked.pdf",
+    "source_text_file": "course_text/C7_unlocked.txt",
+    "line": 149,
+    "question_number": 3,
+    "question": "Stock levels decreases by using an FMS."
+  },
+  {
+    "course": "C7",
+    "source_file": "cim courses/C7_unlocked.pdf",
+    "source_text_file": "course_text/C7_unlocked.txt",
+    "line": 151,
+    "question_number": 4,
+    "question": "In an FMS occurrence of errors should not stop completely the production."
+  },
+  {
+    "course": "C7",
+    "source_file": "cim courses/C7_unlocked.pdf",
+    "source_text_file": "course_text/C7_unlocked.txt",
+    "line": 227,
+    "question_number": 1,
+    "question": "A flexible manufacturing cell has minimum four machines and a materials handling system."
+  },
+  {
+    "course": "C7",
+    "source_file": "cim courses/C7_unlocked.pdf",
+    "source_text_file": "course_text/C7_unlocked.txt",
+    "line": 231,
+    "question_number": 2,
+    "question": "A dedicated FMS is less useful than an universal one."
+  },
+  {
+    "course": "C7",
+    "source_file": "cim courses/C7_unlocked.pdf",
+    "source_text_file": "course_text/C7_unlocked.txt",
+    "line": 233,
+    "question_number": 3,
+    "question": "Human resource is not a component of an FMS."
+  },
+  {
+    "course": "C7",
+    "source_file": "cim courses/C7_unlocked.pdf",
+    "source_text_file": "course_text/C7_unlocked.txt",
+    "line": 235,
+    "question_number": 4,
+    "question": "Designing an FMS requires information about the physical characteristics of the products."
+  },
+  {
+    "course": "C7",
+    "source_file": "cim courses/C7_unlocked.pdf",
+    "source_text_file": "course_text/C7_unlocked.txt",
+    "line": 239,
+    "question_number": 5,
+    "question": "Discrete event simulation offers the most accurate method for modeling an FMS."
+  },
+  {
+    "course": "C8",
+    "source_file": "cim courses/C8_unlocked.pdf",
+    "source_text_file": "course_text/C8_unlocked.txt",
+    "line": 191,
+    "question_number": 1,
+    "question": "Processes Planning requires information on existing tools and fasteners."
+  },
+  {
+    "course": "C8",
+    "source_file": "cim courses/C8_unlocked.pdf",
+    "source_text_file": "course_text/C8_unlocked.txt",
+    "line": 195,
+    "question_number": 2,
+    "question": "Processes Planning is always made automatically in a company."
+  },
+  {
+    "course": "C8",
+    "source_file": "cim courses/C8_unlocked.pdf",
+    "source_text_file": "course_text/C8_unlocked.txt",
+    "line": 199,
+    "question_number": 3,
+    "question": "PP requires information about manufacturing processes and experience to achieve a consistent planning."
+  },
+  {
+    "course": "C8",
+    "source_file": "cim courses/C8_unlocked.pdf",
+    "source_text_file": "course_text/C8_unlocked.txt",
+    "line": 203,
+    "question_number": 4,
+    "question": "The assembling method of a product depends on the expected throughput."
+  },
+  {
+    "course": "C8",
+    "source_file": "cim courses/C8_unlocked.pdf",
+    "source_text_file": "course_text/C8_unlocked.txt",
+    "line": 207,
+    "question_number": 5,
+    "question": "Use of a computer in planning processes decreases the time required to develop the process plan."
+  },
+  {
+    "course": "C8",
+    "source_file": "cim courses/C8_unlocked.pdf",
+    "source_text_file": "course_text/C8_unlocked.txt",
+    "line": 458,
+    "question_number": 1,
+    "question": "Retrieval CAPP systems use the principles of group technology."
+  },
+  {
+    "course": "C8",
+    "source_file": "cim courses/C8_unlocked.pdf",
+    "source_text_file": "course_text/C8_unlocked.txt",
+    "line": 462,
+    "question_number": 2,
+    "question": "Generative CAPP systems use artificial intelligence algorithms."
+  },
+  {
+    "course": "C8",
+    "source_file": "cim courses/C8_unlocked.pdf",
+    "source_text_file": "course_text/C8_unlocked.txt",
+    "line": 466,
+    "question_number": 3,
+    "question": "Using concurrent engineering concepts, the lead time decreases."
+  },
+  {
+    "course": "C8",
+    "source_file": "cim courses/C8_unlocked.pdf",
+    "source_text_file": "course_text/C8_unlocked.txt",
+    "line": 470,
+    "question_number": 4,
+    "question": "Design for manufacturing and assembly involves changes at the organizational level in a company."
+  },
+  {
+    "course": "C8",
+    "source_file": "cim courses/C8_unlocked.pdf",
+    "source_text_file": "course_text/C8_unlocked.txt",
+    "line": 474,
+    "question_number": 5,
+    "question": "Manufacturing research involves the optimization of production processes."
+  },
+  {
+    "course": "C9",
+    "source_file": "cim courses/C9_unlocked.pdf",
+    "source_text_file": "course_text/C9_unlocked.txt",
+    "line": 381,
+    "question_number": 1,
+    "question": "The constant production more often creates large stocks."
+  },
+  {
+    "course": "C9",
+    "source_file": "cim courses/C9_unlocked.pdf",
+    "source_text_file": "course_text/C9_unlocked.txt",
+    "line": 383,
+    "question_number": 2,
+    "question": "In the case of the variable production, labor demand remains constant if you can vary the number of hours   worked."
+  },
+  {
+    "course": "C9",
+    "source_file": "cim courses/C9_unlocked.pdf",
+    "source_text_file": "course_text/C9_unlocked.txt",
+    "line": 387,
+    "question_number": 3,
+    "question": "Master production schedule is generally developed in the medium term."
+  },
+  {
+    "course": "C9",
+    "source_file": "cim courses/C9_unlocked.pdf",
+    "source_text_file": "course_text/C9_unlocked.txt",
+    "line": 390,
+    "question_number": 4,
+    "question": "Independent demand is the one in which demand for a product does not depend on the demand for another   product."
+  },
+  {
+    "course": "C9",
+    "source_file": "cim courses/C9_unlocked.pdf",
+    "source_text_file": "course_text/C9_unlocked.txt",
+    "line": 394,
+    "question_number": 5,
+    "question": "Master production schedule must consider the information related to capabilities."
+  },
+  {
+    "course": "C9",
+    "source_file": "cim courses/C9_unlocked.pdf",
+    "source_text_file": "course_text/C9_unlocked.txt",
+    "line": 662,
+    "question_number": 1,
+    "question": "Capacity planning deals with the allocation of equipment."
+  },
+  {
+    "course": "C9",
+    "source_file": "cim courses/C9_unlocked.pdf",
+    "source_text_file": "course_text/C9_unlocked.txt",
+    "line": 664,
+    "question_number": 2,
+    "question": "Production planning involves planning labor and equipment required."
+  },
+  {
+    "course": "C9",
+    "source_file": "cim courses/C9_unlocked.pdf",
+    "source_text_file": "course_text/C9_unlocked.txt",
+    "line": 668,
+    "question_number": 3,
+    "question": "Aggregate production planning deals with the allocation of human resources."
+  },
+  {
+    "course": "C9",
+    "source_file": "cim courses/C9_unlocked.pdf",
+    "source_text_file": "course_text/C9_unlocked.txt",
+    "line": 672,
+    "question_number": 4,
+    "question": "Making a production plan involves the exclusive use of a production strategy according with the demand."
+  },
+  {
+    "course": "C9",
+    "source_file": "cim courses/C9_unlocked.pdf",
+    "source_text_file": "course_text/C9_unlocked.txt",
+    "line": 676,
+    "question_number": 5,
+    "question": "In the case of level production strategy, the number of employees and the hours worked are variable."
+  },
+  {
+    "course": "C10",
+    "source_file": "cim courses/C10_unlocked.pdf",
+    "source_text_file": "course_text/C10_unlocked.txt",
+    "line": 296,
+    "question_number": 1,
+    "question": "Order release module may contains the list of necessary raw materials."
+  },
+  {
+    "course": "C10",
+    "source_file": "cim courses/C10_unlocked.pdf",
+    "source_text_file": "course_text/C10_unlocked.txt",
+    "line": 299,
+    "question_number": 2,
+    "question": "Order scheduling module provides information about the priority order of operations."
+  },
+  {
+    "course": "C10",
+    "source_file": "cim courses/C10_unlocked.pdf",
+    "source_text_file": "course_text/C10_unlocked.txt",
+    "line": 303,
+    "question_number": 3,
+    "question": "Shortest operation next rule maximize the number of processed orders."
+  },
+  {
+    "course": "C10",
+    "source_file": "cim courses/C10_unlocked.pdf",
+    "source_text_file": "course_text/C10_unlocked.txt",
+    "line": 306,
+    "question_number": 4,
+    "question": "Order slack time rule addresses the sequencing of jobs on the basis of the value of work remaining."
+  },
+  {
+    "course": "C10",
+    "source_file": "cim courses/C10_unlocked.pdf",
+    "source_text_file": "course_text/C10_unlocked.txt",
+    "line": 309,
+    "question_number": 5,
+    "question": "When earliest due date rule is used, the highest priority is assigned to the part with the latest due date."
+  },
+  {
+    "course": "C10",
+    "source_file": "cim courses/C10_unlocked.pdf",
+    "source_text_file": "course_text/C10_unlocked.txt",
+    "line": 487,
+    "question_number": 1,
+    "question": "The order progress module generates reports on progress queues."
+  },
+  {
+    "course": "C10",
+    "source_file": "cim courses/C10_unlocked.pdf",
+    "source_text_file": "course_text/C10_unlocked.txt",
+    "line": 491,
+    "question_number": 2,
+    "question": "The factory data collection system communicates with the control system."
+  },
+  {
+    "course": "C10",
+    "source_file": "cim courses/C10_unlocked.pdf",
+    "source_text_file": "course_text/C10_unlocked.txt",
+    "line": 495,
+    "question_number": 3,
+    "question": "In order to restore stocks at certain points in time it is necessary to know the quantity to order."
+  },
+  {
+    "course": "C10",
+    "source_file": "cim courses/C10_unlocked.pdf",
+    "source_text_file": "course_text/C10_unlocked.txt",
+    "line": 499,
+    "question_number": 4,
+    "question": "Operations planning is not for the manufacturing resource planner."
+  },
+  {
+    "course": "C10",
+    "source_file": "cim courses/C10_unlocked.pdf",
+    "source_text_file": "course_text/C10_unlocked.txt",
+    "line": 503,
+    "question_number": 5,
+    "question": "In the case of \"Just-in-Time\" manufacturing systems, inventories represented by WIP are zero."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 86,
+    "question_number": 1,
+    "question": "Sustainable development compromises ensuring resources for the next generation."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 90,
+    "question_number": 2,
+    "question": "Sustainability assurance is a destination for any company."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 92,
+    "question_number": 3,
+    "question": "In sustainable manufacturing focus is on making products using fewer materials and energy."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 96,
+    "question_number": 4,
+    "question": "The sustainable manufacturing involves the removal of waste from the manufacturing process."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 100,
+    "question_number": 5,
+    "question": "Green technologies provide pollution prevention and control."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 157,
+    "question_number": 1,
+    "question": "A green product eliminates its environmental impact."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 159,
+    "question_number": 2,
+    "question": "Environmental impact of a product should be considered from the design."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 162,
+    "question_number": 3,
+    "question": "The products that minimize the use of packaging can be considered green."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 166,
+    "question_number": 4,
+    "question": "Optimization of production is a measure required to ensure sustainability in manufacturing."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 170,
+    "question_number": 5,
+    "question": "Sustainable manufacturing is based on reducing pollution."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 256,
+    "question_number": 1,
+    "question": "In lean manufacturing there is no overproduction."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 258,
+    "question_number": 2,
+    "question": "Clean manufacturing ensures responsible use of energy."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 260,
+    "question_number": 3,
+    "question": "Substitution of raw materials with more polluting ones is a method of implementing clean manufacturing."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 264,
+    "question_number": 4,
+    "question": "Lean and Clean manufacturing provides support for the viability of a business."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 267,
+    "question_number": 5,
+    "question": "Donating equipment is not a practice encouraged by the principles of sustainability."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 494,
+    "question_number": 1,
+    "question": "Implementing the principles of sustainability rests solely to the management team of a company."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 497,
+    "question_number": 2,
+    "question": "Utilization of reusable materials / recycled materials must be increased."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 500,
+    "question_number": 3,
+    "question": "The energy consumed per unit of product, according to the principles of sustainability can be increased if it comes from   renewable sources."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 504,
+    "question_number": 4,
+    "question": "Utilization of non-renewable materials must increase to reduce waste."
+  },
+  {
+    "course": "C11",
+    "source_file": "cim courses/C11_unlocked.pdf",
+    "source_text_file": "course_text/C11_unlocked.txt",
+    "line": 507,
+    "question_number": 5,
+    "question": "A product must contain as many recycled or reusable components."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 71,
+    "question_number": 1,
+    "question": "The ultra modern manufacturing involves the use of cyber- physical systems."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 75,
+    "question_number": 2,
+    "question": "The ultra modern manufacturing does not involve the use of IoT."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 79,
+    "question_number": 3,
+    "question": "A very large amount of data is acquired and processed in an ultra modern manufacturing system."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 83,
+    "question_number": 4,
+    "question": "The Industry 4.0 has emerged with the first PLCs and computers."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 87,
+    "question_number": 5,
+    "question": "The Cyber-physical systems are related to the third industrial revolution."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 166,
+    "question_number": 1,
+    "question": "The user of the cloud computing services has to know the physical location and configuration of equipment that   provides these services."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 171,
+    "question_number": 2,
+    "question": "Information technology is used in quality control."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 173,
+    "question_number": 3,
+    "question": "The digital factory uses information technology in all its activities."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 177,
+    "question_number": 4,
+    "question": "Predictive manufacturing systems require a large amount of data collected from sensors."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 180,
+    "question_number": 5,
+    "question": "The embedded systems, encapsulate the cyber-physical systems."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 290,
+    "question_number": 1,
+    "question": "In IoT, all the products are interconnected through the Internet."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 293,
+    "question_number": 2,
+    "question": "IIoT has lower requirements than those specific IoT."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 295,
+    "question_number": 3,
+    "question": "The cyber-physical systems are used in smart manufacturing."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 299,
+    "question_number": 4,
+    "question": "The control system of a traditional factory is hierarchic."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 302,
+    "question_number": 5,
+    "question": "The decisions are context aware in smart factories."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 421,
+    "question_number": 1,
+    "question": "Industry 4.0 uses cyber physical systems."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 423,
+    "question_number": 2,
+    "question": "Industry 4.0 creates intelligent manufacturing systems."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 425,
+    "question_number": 3,
+    "question": "Interoperability is high in Industry 4.0."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 427,
+    "question_number": 4,
+    "question": "Romania is not a target for implementation of Industry 4.0."
+  },
+  {
+    "course": "C12",
+    "source_file": "cim courses/C12_unlocked.pdf",
+    "source_text_file": "course_text/C12_unlocked.txt",
+    "line": 430,
+    "question_number": 5,
+    "question": "Equipment used in factories that implement Industry 4.0 concepts have to be very reliable."
+  }
+]

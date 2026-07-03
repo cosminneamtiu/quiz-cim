@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CIM Quiz Lab</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="app-top">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">
+            <span></span><span></span><span></span><span></span>
+          </div>
+          <div>
+            <h1>CIM Quiz Lab</h1>
+            <p id="bankSummary">Loading quiz bank</p>
+          </div>
+        </div>
+        <div class="top-metrics" aria-label="Quiz status">
+          <div>
+            <span id="metricTotal">0</span>
+            <small>Questions</small>
+          </div>
+          <div>
+            <span id="metricScore">0</span>
+            <small>Score</small>
+          </div>
+          <div>
+            <span id="metricProgress">0%</span>
+            <small>Progress</small>
+          </div>
+        </div>
+      </header>
+
+      <section class="workspace">
+        <aside class="setup-panel" aria-label="Quiz setup">
+          <label class="field">
+            <span>Question Pool</span>
+            <select id="poolSelect"></select>
+          </label>
+
+          <div class="field">
+            <span>Length</span>
+            <div class="segmented" id="countButtons" role="group" aria-label="Quiz length">
+              <button type="button" data-count="10" class="active">10</button>
+              <button type="button" data-count="20">20</button>
+              <button type="button" data-count="40">40</button>
+              <button type="button" data-count="all">All</button>
+            </div>
+          </div>
+
+          <label class="toggle-row">
+            <input type="checkbox" id="shuffleToggle" checked />
+            <span>Shuffle</span>
+          </label>
+
+          <button type="button" id="startButton" class="primary-button">
+            Start Quiz
+          </button>
+
+          <section class="progress-panel" aria-label="Saved progress">
+            <div class="progress-head">
+              <span>Progress</span>
+              <button type="button" id="clearProgressButton" class="link-button">
+                Reset
+              </button>
+            </div>
+            <div class="progress-grid">
+              <div>
+                <strong id="progressAttempted">0</strong>
+                <small>Seen</small>
+              </div>
+              <div>
+                <strong id="progressMissed">0</strong>
+                <small>Missed</small>
+              </div>
+              <div>
+                <strong id="progressAccuracy">0%</strong>
+                <small>Accuracy</small>
+              </div>
+            </div>
+            <button type="button" id="reviewMissedButton" class="secondary-button compact-button">
+              Review Missed
+            </button>
+            <p id="progressSaved" class="progress-saved">No progress saved yet</p>
+          </section>
+        </aside>
+
+        <section class="quiz-panel" aria-live="polite">
+          <div id="questionView">
+            <div class="question-toolbar">
+              <div>
+                <span id="questionCounter">Question 0 of 0</span>
+                <div class="progress-track" aria-hidden="true">
+                  <div id="progressFill"></div>
+                </div>
+              </div>
+              <span id="questionSource" class="source-pill">Source</span>
+            </div>
+
+            <article class="question-card">
+              <h2 id="questionText">Start a quiz to begin.</h2>
+              <fieldset id="optionsList" class="options-list"></fieldset>
+              <div id="feedbackPanel" class="feedback-panel" hidden></div>
+            </article>
+
+            <div class="actions">
+              <button type="button" id="submitButton" class="primary-button" disabled>
+                Submit Answer
+              </button>
+              <button type="button" id="nextButton" class="secondary-button" hidden>
+                Next Question
+              </button>
+            </div>
+          </div>
+
+          <div id="resultsView" class="results-view" hidden>
+            <div class="result-score">
+              <span id="finalScore">0%</span>
+              <small id="finalSummary">0 correct of 0</small>
+            </div>
+            <div class="actions">
+              <button type="button" id="retryMissedButton" class="secondary-button">
+                Retry Missed
+              </button>
+              <button type="button" id="newQuizButton" class="primary-button">
+                New Quiz
+              </button>
+            </div>
+            <div id="missedReview" class="missed-review"></div>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <script src="quiz-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,438 @@
+[
+    {
+        "question": "Parts can be grouped in families of parts using:",
+        "options": {
+            "A": "parts classification and coding",
+            "B": "parts delivery flow analysis",
+            "C": "visual inspection",
+            "D": "production flow analysis"
+        },
+        "correct_option_keys": [
+            "A",
+            "C",
+            "D"
+        ],
+        "correct_answers": [
+            "parts classification and coding",
+            "visual inspection",
+            "production flow analysis"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C6",
+                "source_text_file": "course_text/C6_unlocked.txt",
+                "line": 30,
+                "note": "group technology"
+            },
+            {
+                "course": "C6",
+                "source_text_file": "course_text/C6_unlocked.txt",
+                "line": 75,
+                "note": "methods to group parts into families"
+            }
+        ]
+    },
+    {
+        "question": "What types of design are related to the concurrent engineering?",
+        "options": {
+            "A": "design for manufacturing and assembly",
+            "B": "design for cost",
+            "C": "design for life cycle",
+            "D": "design for quality"
+        },
+        "correct_option_keys": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correct_answers": [
+            "design for manufacturing and assembly",
+            "design for cost",
+            "design for life cycle",
+            "design for quality"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C8",
+                "source_text_file": "course_text/C8_unlocked.txt",
+                "line": 259,
+                "note": "concurrent engineering elements"
+            },
+            {
+                "course": "C8",
+                "source_text_file": "course_text/C8_unlocked.txt",
+                "line": 315,
+                "note": "design for quality"
+            },
+            {
+                "course": "C8",
+                "source_text_file": "course_text/C8_unlocked.txt",
+                "line": 338,
+                "note": "design for life cycle"
+            }
+        ]
+    },
+    {
+        "question": "Design for quality:",
+        "options": {
+            "A": "aims to continuously improve the performance, functionality, reliability and safety",
+            "B": "aims to design products so as to satisfy or exceed the customer's wishes",
+            "C": "refers to the product after it has been manufactured and includes factors ranging from product delivery to product disposal",
+            "D": "considers the production factors from the beginning of the product design"
+        },
+        "correct_option_keys": [
+            "A",
+            "B"
+        ],
+        "correct_answers": [
+            "aims to continuously improve the performance, functionality, reliability and safety",
+            "aims to design products so as to satisfy or exceed the customer's wishes"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C8",
+                "source_text_file": "course_text/C8_unlocked.txt",
+                "line": 259,
+                "note": "concurrent engineering elements"
+            },
+            {
+                "course": "C8",
+                "source_text_file": "course_text/C8_unlocked.txt",
+                "line": 315,
+                "note": "design for quality"
+            },
+            {
+                "course": "C8",
+                "source_text_file": "course_text/C8_unlocked.txt",
+                "line": 338,
+                "note": "design for life cycle"
+            }
+        ]
+    },
+    {
+        "question": "In a flexible manufacturing system:",
+        "options": {
+            "A": "the direct labor requirements decrease",
+            "B": "more machines are necessary",
+            "C": "less floor space is required",
+            "D": "higher responsiveness to change is achieved",
+            "E": "productivity will decrease"
+        },
+        "correct_option_keys": [
+            "A",
+            "C",
+            "D"
+        ],
+        "correct_answers": [
+            "the direct labor requirements decrease",
+            "less floor space is required",
+            "higher responsiveness to change is achieved"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 37,
+                "note": "FMS definition"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 72,
+                "note": "FMS benefits"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 106,
+                "note": "types of flexibility"
+            }
+        ]
+    },
+    {
+        "question": "Dedicated storage strategy:",
+        "options": {
+            "A": "reduces the number of storage locations required compared to the random storage strategy",
+            "B": "increases the number of storage locations required compared to the random storage strategy"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "increases the number of storage locations required compared to the random storage strategy"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C5",
+                "source_text_file": "course_text/C5_unlocked.txt",
+                "line": 86,
+                "note": "storage system measures"
+            },
+            {
+                "course": "C5",
+                "source_text_file": "course_text/C5_unlocked.txt",
+                "line": 113,
+                "note": "storage strategies"
+            }
+        ]
+    },
+    {
+        "question": "Just-in-Time production systems:",
+        "options": {
+            "A": "use production authorization cards at processing or assembly stations",
+            "B": "use transport authorization cards",
+            "C": "eliminate stocks",
+            "D": "eliminates overproduction",
+            "E": "can be used at any time"
+        },
+        "correct_option_keys": [
+            "A",
+            "B",
+            "D"
+        ],
+        "correct_answers": [
+            "use production authorization cards at processing or assembly stations",
+            "use transport authorization cards",
+            "eliminates overproduction"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C10",
+                "source_text_file": "course_text/C10_unlocked.txt",
+                "line": 383,
+                "note": "JIT principles"
+            },
+            {
+                "course": "C10",
+                "source_text_file": "course_text/C10_unlocked.txt",
+                "line": 400,
+                "note": "Kanban cards"
+            }
+        ]
+    },
+    {
+        "question": "In a storage system the accessibility increases if the density increases:",
+        "options": {
+            "A": "true",
+            "B": "false"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "false"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C5",
+                "source_text_file": "course_text/C5_unlocked.txt",
+                "line": 86,
+                "note": "storage system measures"
+            },
+            {
+                "course": "C5",
+                "source_text_file": "course_text/C5_unlocked.txt",
+                "line": 113,
+                "note": "storage strategies"
+            }
+        ]
+    },
+    {
+        "question": "Production flexibility refers to:",
+        "options": {
+            "A": "capability to adapt a given machine in the system to a wide range of production operations and part styles",
+            "B": "the range of parts styles that can be produced on the system",
+            "C": "ability to change the product mix while maintaining the same total production quantity",
+            "D": "ease with which design changes can be accommodated and new product can be introduced",
+            "E": "capability to produce parts through alternative workstation sequences in response to breakdowns, tool failures, and other interruptions at individual stations",
+            "F": "ability to economically produce parts in high and low quantities of production, given the fixed investment in the system"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "the range of parts styles that can be produced on the system"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 37,
+                "note": "FMS definition"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 72,
+                "note": "FMS benefits"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 106,
+                "note": "types of flexibility"
+            }
+        ]
+    },
+    {
+        "question": "Chase production strategy has the following characteristics:",
+        "options": {
+            "A": "the number of working hours is variable",
+            "B": "the number of employees is constant",
+            "C": "the number of working hours is constant"
+        },
+        "correct_option_keys": [
+            "A"
+        ],
+        "correct_answers": [
+            "the number of working hours is variable"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C9",
+                "source_text_file": "course_text/C9_unlocked.txt",
+                "line": 23,
+                "note": "production planning scope"
+            },
+            {
+                "course": "C9",
+                "source_text_file": "course_text/C9_unlocked.txt",
+                "line": 37,
+                "note": "aggregate/MPS/MRP/capacity definitions"
+            }
+        ]
+    },
+    {
+        "question": "What are the techniques used for quantitative analysis of a flexible manufacturing system?",
+        "options": {
+            "A": "heuristics approaches",
+            "B": "deterministic models",
+            "C": "models based on finite element method"
+        },
+        "correct_option_keys": [
+            "A",
+            "B"
+        ],
+        "correct_answers": [
+            "heuristics approaches",
+            "deterministic models"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 37,
+                "note": "FMS definition"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 72,
+                "note": "FMS benefits"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 106,
+                "note": "types of flexibility"
+            }
+        ]
+    },
+    {
+        "question": "How long an automated guided vehicle is available in an hour (min./hour) depends on:",
+        "options": {
+            "A": "availability of the vehicle",
+            "B": "worker efficiency",
+            "C": "estimated traffic factor"
+        },
+        "correct_option_keys": [
+            "A",
+            "C"
+        ],
+        "correct_answers": [
+            "availability of the vehicle",
+            "estimated traffic factor"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C4",
+                "source_text_file": "course_text/C4_unlocked.txt",
+                "line": 274,
+                "note": "AGV available time formula"
+            }
+        ]
+    },
+    {
+        "question": "Machine flexibility is defined as:",
+        "options": {
+            "A": "capability to adapt a given machine in the system to a wide range of production operations and part styles",
+            "B": "the range of parts styles that can be produced on the system",
+            "C": "ability to change the product mix while maintaining the same total production quantity",
+            "D": "ease with which design changes can be accommodated and new product can be introduced",
+            "E": "capability to produce parts through alternative workstation sequences in response to breakdowns, tool failures, and other interruptions at individual stations",
+            "F": "ability to economically produce parts in high and low quantities of production, given the fixed investment in the system"
+        },
+        "correct_option_keys": [
+            "A"
+        ],
+        "correct_answers": [
+            "capability to adapt a given machine in the system to a wide range of production operations and part styles"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 37,
+                "note": "FMS definition"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 72,
+                "note": "FMS benefits"
+            },
+            {
+                "course": "C7",
+                "source_text_file": "course_text/C7_unlocked.txt",
+                "line": 106,
+                "note": "types of flexibility"
+            }
+        ]
+    },
+    {
+        "question": "An automatic manufacturing cell covers an area of 8 square meters. The assembly robot needs a space of 2x1 meters. The remaining space is used for pallets, an operator's desk, access ways around the equipment and an inspection bench. Determine the production area-total area ratio for the manufacturing cell. Is the ratio obtained in accordance with international standards? Calculations:",
+        "options": {
+            "A": "yes",
+            "B": "no"
+        },
+        "correct_option_keys": [
+            "B"
+        ],
+        "correct_answers": [
+            "no"
+        ],
+        "answer_status": "confirmed",
+        "answer_sources": [
+            {
+                "course": "C1",
+                "source_text_file": "course_text/C1_unlocked.txt",
+                "line": 181,
+                "note": "manufacturing-space ratio standard"
+            }
+        ],
+        "answer_notes": "Production-area/total-area ratio = (2 * 1) / 8 = 25%, below the 50% standard."
+    }
+]

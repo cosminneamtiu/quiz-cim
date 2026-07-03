@@ -1,0 +1,103 @@
+[
+    {
+        "question": "What is t_ijk?",
+        "options": {
+            "A": "execution time at station i of the process k on component j",
+            "B": "execution time of the process i on component j at station k",
+            "C": "execution time of the process j on component k at station i",
+            "D": "execution time at station k of the process j on component i"
+        }
+    },
+    {
+        "question": "For the MPS shown in the table below, considering that it is economical to produce in lots of 10 pieces and that the first batch is available on the first day, which is the most appropriate day to be ready a new batch, if the safety stock must be at least 10 pieces?\nDay | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10\nForecast | 7 | 10 | 3 | 9 | 5 | 10 | 7 | 5 | 6 | 8\nAvailable | 23 | 13 | 10 | 11 |  |  |  |  |  | \nMPS | 10 |  |  | 10 |  |  |  |  |  | \nOn hand | 20 |  |  |  |  |  |  |  |  | \nCalculations:",
+        "options": {
+            "A": "day 2",
+            "B": "day 3",
+            "C": "day 4",
+            "D": "day 5",
+            "E": "day 6"
+        }
+    },
+    {
+        "question": "Assembling a product requires 4 minutes when it is done for the first time by a trained worker. The process will be repeated to make 200 products. If the learning rate is 85%, what will be the delivery time of the 200th product? (m=-0.23, 200^m=0.3). Calculations:",
+        "options": {
+            "A": "1.2",
+            "B": "60",
+            "C": "23",
+            "D": "1.5"
+        }
+    },
+    {
+        "question": "In the case of a traditional manufacturing system:",
+        "options": {
+            "A": "locations are fixed",
+            "B": "the structure of the system is monobloc",
+            "C": "the structure of the system is modular",
+            "D": "decisions are taken by context",
+            "E": "a hierarchical control system is used"
+        }
+    },
+    {
+        "question": "Design for cost",
+        "options": {
+            "A": "aims to reduce costs through design",
+            "B": "aims to design products so as to satisfy or exceed the customer's wishes",
+            "C": "considers the production factors from the beginning of the product design"
+        }
+    },
+    {
+        "question": "Which of the following are characteristic of modern manufacturing systems",
+        "options": {
+            "A": "production is efficient if it is done in large batches",
+            "B": "production is efficient if done in small batches",
+            "C": "the control system is distributed",
+            "D": "the control system is generally hierarchical",
+            "E": "has a high modularity"
+        }
+    },
+    {
+        "question": "Which is the number of pieces available at the end of days 5, 6 and 7?\nDay | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10\nForecast | 5 | 2 | 3 | 9 | 2 | 1 | 5 | 4 | 1 | 8\nAvailable | 7 | 5 | 2 | 3 | X | Y | Z | 1 | 0 | 2\nMPS | 10 | 0 | 0 | 10 | 0 | 0 | 10 | 0 | 0 | 10\nOn hand | 2 |  |  |  |  |  |  |  |  | \nCalculations:",
+        "options": {
+            "A": "2, 1, 15",
+            "B": "7, 5, 6",
+            "C": "2, -1, -3",
+            "D": "1, 0, 5",
+            "E": "5, 6, 9"
+        }
+    },
+    {
+        "question": "What is the relationship between setup time and lead time?",
+        "options": {
+            "A": "the lead time decreases when the setup time increases",
+            "B": "the lead time decreases when the setup time decreases",
+            "C": "the lead time increases when the setup time decreases",
+            "D": "the lead time increases when the setup time increases"
+        }
+    },
+    {
+        "question": "For the case of an intelligent manufacturing systems:",
+        "options": {
+            "A": "locations are fixed",
+            "B": "the structure of the system is modular",
+            "C": "the structure of the system is monobloc",
+            "D": "decisions are taken by context",
+            "E": "the control system is hierarchical"
+        }
+    },
+    {
+        "question": "In the case of level production strategy, the number of employees and the hours worked are variable.",
+        "options": {
+            "A": "true",
+            "B": "false"
+        }
+    },
+    {
+        "question": "What is f_ijk?",
+        "options": {
+            "A": "frequency of operation k at station j for part i",
+            "B": "frequency of operation i for part j at station k",
+            "C": "frequency of operation k for part j at station i",
+            "D": "frequency of operation i for part k at station j"
+        }
+    }
+]
