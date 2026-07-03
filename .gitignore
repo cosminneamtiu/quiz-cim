@@ -1,17 +1,18 @@
-# Python bytecode and caches
-__pycache__/
-*.py[cod]
+# Ignore everything by default. This repo only publishes the runnable quiz app.
+*
 
-# Virtual environments
-.venv/
-venv/
+# Allow Git to discover explicitly kept files in subfolders.
+!*/
 
-# Local environment files
-.env
-.env.*
+# Repository docs/config.
+!.gitattributes
+!.gitignore
+!README.md
+!run.bat
 
-# Editor and OS files
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
+# Runnable quiz app.
+!quiz_site/README.md
+!quiz_site/index.html
+!quiz_site/styles.css
+!quiz_site/quiz-data.js
+!quiz_site/app.js

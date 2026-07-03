@@ -45,6 +45,5 @@ To reset saved progress, use the `Reset` button in the quiz.
 - `run.bat` opens the quiz on Windows.
 - `quiz_site/index.html` is the quiz app.
 - `quiz_site/quiz-data.js` is the bundled question data used by the app.
-- `quiz_questions.json` is the main question bank source.
-- `build_quiz_json.py` rebuilds `quiz_questions.json` from the source PDFs, OCR data, and course files.
 
+The repository intentionally contains only the files needed to run the quiz.
