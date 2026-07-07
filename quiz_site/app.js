@@ -135,6 +135,18 @@
     return details.filter(Boolean).join(", ");
   }
 
+  function sourceFile(question) {
+    return String(question.source_file || "").replace(/\\/g, "/");
+  }
+
+  function isCourseQuestion(question) {
+    return sourceFile(question).startsWith("cim courses/");
+  }
+
+  function isExamDumpQuestion(question) {
+    return sourceFile(question).startsWith("exam questions dumps/");
+  }
+
   function questionKey(question) {
     return String(question.id || normalize(question.question));
   }
@@ -379,6 +391,7 @@
   function buildPoolSelect() {
     els.poolSelect.innerHTML = "";
     els.poolSelect.appendChild(makeOption("all", "All questions"));
+    els.poolSelect.appendChild(makeOption("group:exam-dumps", "Exam dump parts 1-12"));
     els.poolSelect.appendChild(makeOption("group:courses", "Course self-assessments"));
     els.poolSelect.appendChild(makeOption("group:original", "Original quiz files"));
     els.poolSelect.appendChild(makeOption("progress:missed", "Missed questions"));
@@ -405,8 +418,9 @@
 
   function getPool() {
     const value = els.poolSelect.value;
-    if (value === "group:courses") return allQuestions.filter((q) => q.source_file.startsWith("cim courses/"));
-    if (value === "group:original") return allQuestions.filter((q) => !q.source_file.startsWith("cim courses/"));
+    if (value === "group:courses") return allQuestions.filter(isCourseQuestion);
+    if (value === "group:original") return allQuestions.filter((q) => !isCourseQuestion(q) && !isExamDumpQuestion(q));
+    if (value === "group:exam-dumps") return allQuestions.filter(isExamDumpQuestion);
     if (value === "progress:missed") return persistentMissedQuestions();
     if (value === "progress:unseen") return unseenQuestions();
     if (value.startsWith("course:")) return allQuestions.filter((q) => q.course === value.slice(7));
